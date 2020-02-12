@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>
+	Comments on: A New Idea	</title>
+	<atom:link href="/a-new-idea/feed/" rel="self" type="application/rss+xml" />
+	<link>/a-new-idea/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Wed, 25 Jul 2018 11:36:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+			<item>
+				<title>
+				By: Nick McGivney				</title>
+				<link>/a-new-idea/#comment-46</link>
+		<dc:creator><![CDATA[Nick McGivney]]></dc:creator>
+		<pubDate>Fri, 25 Nov 2011 16:43:03 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/index.php/2011/11/a-new-idea/#comment-46</guid>
+					<description><![CDATA[I am a copywriter, Stuart. How dare you question my spelling?]]></description>
+		<content:encoded><![CDATA[<p>I am a copywriter, Stuart. How dare you question my spelling?</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Stewart Curry				</title>
+				<link>/a-new-idea/#comment-45</link>
+		<dc:creator><![CDATA[Stewart Curry]]></dc:creator>
+		<pubDate>Fri, 25 Nov 2011 16:16:45 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/index.php/2011/11/a-new-idea/#comment-45</guid>
+					<description><![CDATA[You&#039;ll need to learn to spell my name right first though Nick!]]></description>
+		<content:encoded><![CDATA[<p>You&#8217;ll need to learn to spell my name right first though Nick!</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Nick McGivney				</title>
+				<link>/a-new-idea/#comment-44</link>
+		<dc:creator><![CDATA[Nick McGivney]]></dc:creator>
+		<pubDate>Fri, 25 Nov 2011 15:56:17 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/index.php/2011/11/a-new-idea/#comment-44</guid>
+					<description><![CDATA[So proud of you. I want to marry you all. Yes, even Stuart. It&#039;s unorthodox, I&#039;ll grant you, but we can make this work.]]></description>
+		<content:encoded><![CDATA[<p>So proud of you. I want to marry you all. Yes, even Stuart. It&#8217;s unorthodox, I&#8217;ll grant you, but we can make this work.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Claudio Perrone				</title>
+				<link>/a-new-idea/#comment-43</link>
+		<dc:creator><![CDATA[Claudio Perrone]]></dc:creator>
+		<pubDate>Sat, 12 Nov 2011 16:01:43 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/index.php/2011/11/a-new-idea/#comment-43</guid>
+					<description><![CDATA[Congratulations Martha! Looking forward to it.
+/Claudio]]></description>
+		<content:encoded><![CDATA[<p>Congratulations Martha! Looking forward to it.<br />
+/Claudio</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Katherine				</title>
+				<link>/a-new-idea/#comment-42</link>
+		<dc:creator><![CDATA[Katherine]]></dc:creator>
+		<pubDate>Tue, 08 Nov 2011 20:35:14 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/index.php/2011/11/a-new-idea/#comment-42</guid>
+					<description><![CDATA[What a great idea! I look forward to your first issue.]]></description>
+		<content:encoded><![CDATA[<p>What a great idea! I look forward to your first issue.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

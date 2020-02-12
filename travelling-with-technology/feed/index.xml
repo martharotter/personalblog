@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>
+	Comments on: Travelling with Technology	</title>
+	<atom:link href="/travelling-with-technology/feed/" rel="self" type="application/rss+xml" />
+	<link>/travelling-with-technology/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Fri, 17 Aug 2018 11:48:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+			<item>
+				<title>
+				By: Dave Cahill				</title>
+				<link>/travelling-with-technology/#comment-8</link>
+		<dc:creator><![CDATA[Dave Cahill]]></dc:creator>
+		<pubDate>Mon, 22 Nov 2010 12:49:44 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/index.php/2010/11/travelling-with-technology/#comment-8</guid>
+					<description><![CDATA[The blog&#039;s great, makes for good reading so far. (I&#039;m still
+getting through the Nepal posts, and I keep meaning to come back
+and comment but forgetting, so I&#039;m commenting in general right
+here.) Keep it up :)]]></description>
+		<content:encoded><![CDATA[<p>The blog&#8217;s great, makes for good reading so far. (I&#8217;m still<br />
+getting through the Nepal posts, and I keep meaning to come back<br />
+and comment but forgetting, so I&#8217;m commenting in general right<br />
+here.) Keep it up 🙂</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Rory				</title>
+				<link>/travelling-with-technology/#comment-7</link>
+		<dc:creator><![CDATA[Rory]]></dc:creator>
+		<pubDate>Fri, 05 Nov 2010 16:05:24 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/index.php/2010/11/travelling-with-technology/#comment-7</guid>
+					<description><![CDATA[Well consolidating your music player and phone into one
+dual-sim device. For example:
+http://www.amazon.com/General-DSTL1-Imaginary-Technology-megapixel/dp/B002KRXX46
+Think ahead on the power front.]]></description>
+		<content:encoded><![CDATA[<p>Well consolidating your music player and phone into one<br />
+dual-sim device. For example:<br />
+<a href="http://www.amazon.com/General-DSTL1-Imaginary-Technology-megapixel/dp/B002KRXX46" rel="nofollow">http://www.amazon.com/General-DSTL1-Imaginary-Technology-megapixel/dp/B002KRXX46</a><br />
+Think ahead on the power front.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

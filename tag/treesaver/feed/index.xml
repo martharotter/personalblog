@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>treesaver &#8211; Martha Rotter</title>
+	<atom:link href="/tag/treesaver/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Fri, 17 Aug 2018 10:32:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+<site xmlns="com-wordpress:feed-additions:1">144031741</site>	<item>
+		<title>An Introduction to Treesaver</title>
+		<link>/an-introduction-to-treesaver/</link>
+				<comments>/an-introduction-to-treesaver/#comments</comments>
+				<pubDate>Tue, 20 Sep 2011 01:21:20 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Magazines]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[Training]]></category>
+		<category><![CDATA[treesaver]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=439</guid>
+				<description><![CDATA[In my Content Strategy Forum workshop, we created a short, online magazine called The CS Forum Times.&#160; The magazine used Treesaver to quickly layout the articles and images and make them work well on a variety of browsers and devices.&#160; This is an overview of how we built The CS Forum Times and how you [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><img style="background-image: none; border-right-width: 0px; margin: 5px 5px 5px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="The CS Forum Times" border="0" alt="The CS Forum Times" align="right" src="/wp-content/uploads/2011/09/image12.png" width="172" height="221">In my <a title="CS Forum Workshop Recap post" href="/cs-forum-2011-my-workshop-slides-content/" target="_blank">Content Strategy Forum workshop</a>, we created a short, online magazine called <em><a title="The CS Forum Times" href="https://martharotter.com/csforum/ts/index.html" target="_blank">The CS Forum Times</a>.&nbsp; </em>The magazine used <a title="treesaver JS" href="http://treesaverjs.com/" target="_blank">Treesaver</a> to quickly layout the articles and images and make them work well on a variety of browsers and devices.&nbsp; This is an overview of how we built <em>The CS Forum Times</em> and how you can do something similar very quickly and easily.&nbsp; The before and after files we used are <a title="CS Forum Workshop Files" href="https://martharotter.com/csforum/" target="_blank">located here</a> for you to download.</p>
+<p>&nbsp;</p>
+<p><em>To create your own online publication, the simple steps are as follows: </em></p>
+<ol>
+<li>1) Source your content
+<li>2) Source your art/imagery
+<li>3) Create a new HTML file for each article &amp; paste in the content
+<li>4) Style using an HTML editor
+<li>5) Resize images if necessary &amp; add in image tags
+<li>6) Edit the TOC file &amp; make sure you’ve included each article
+<li>7) Upload to your server</li>
+</ol>
+<p>&nbsp;</p>
+<p><strong>1) SOURCE YOUR CONTENT</strong></p>
+<p>With <em>The CS Forum Times, </em>I chose published articles from well-known speakers and organizers of CS Forum 2011.&nbsp; Using content that is on the web makes it much easier as converting content from a PDF or Word document into HTML can be a pain. </p>
+<p><em><font size="2"><strong>NOTE</strong>: As this is just a short, proof-of-concept tutorial, I am not covering rights management, copyright, asset management, etc.&nbsp; It is <u>your</u> responsibility to make sure you have the right permissions to reuse and publish material that is not yours or not original.</font></em></p>
+<p>&nbsp;</p>
+<p><strong>2) SOURCE YOUR ART/IMAGERY</strong></p>
+<p>I was lucky with the articles I found in that most of them already had relevant artwork in the articles.&nbsp; For a couple of the longer articles, I also added things like company and conference logos as well as headshots.</p>
+<p>I wanted to have a cover, but it may or may not be necessary for your title.&nbsp; I did this simply by creating a few full-page sized images in an image editor using logos and text from the event.</p>
+<p>&nbsp;</p>
+<p><strong>3) CREATE A NEW HTML FILE FOR EACH ARTICLE</strong></p>
+<p>Now here I’ve helped you out by creating a small boilerplate zip file.&nbsp; Inside the <a title="WorkshopBegin zip file" href="https://martharotter.com/csforum/WorkshopBegin.zip" target="_blank">WorkshopBegin</a> folder you’ll find everything you need for a simple Treesaver magazine.&nbsp; Index.html is a sample cover page.&nbsp; Page1.html is a sample article page.</p>
+<p>The best thing to do is duplicate page1.html for each article you have.&nbsp; So if you have four articles, copy it three times and rename them so you have page1.html, page2.html, etc. Or use better names that make more sense to you.&nbsp; </p>
+<p>Inside page1.html I’ve added two comment tags that look like this: <br /><font color="#9bbb59" face="Courier New">&lt;!&#8211; PASTE CONTENT BELOW THIS LINE –&gt;<br /></font><font color="#9bbb59" face="Courier New">&lt;!&#8211; PASTE CONTENT ABOVE THIS LINE –&gt;<br /></font>Inside those two lines is where you want to paste the content of the article.&nbsp; What are you actually pasting? Lets say we’re including my last blog post: <a href="/cs-forum-2011-my-workshop-slides-content/">/cs-forum-2011-my-workshop-slides-content/</a>.&nbsp; I can copy &amp; paste from the browser, starting with “Last week…” and ending with “…excellent places to start.”&nbsp; Alternately, I can do a “View page source” from my browser to take all the HTML styling with me and save me some time later.&nbsp; So instead I would be starting with whatever comes after <font color="#9bbb59" face="Courier New">“&lt;div class=”entry-content”&gt;</font>”, which is how WordPress tells you the blog post text is starting.&nbsp; That would have me copying starting with “&lt;p&gt;Last week I …” and ending with “…&lt;/a&gt; are excellent places to start.&lt;/p&gt;”</p>
+<p>&nbsp;</p>
+<p><strong>4) STYLE USING AN HTML EDITOR</strong></p>
+<p>If you copied HTML content including the tags, you may not have to style it.&nbsp; However it’s more likely that you’ll want to do a bit of styling to create paragraph breaks, make headings stand out, etc.&nbsp; If you use any HTML editor such as <a title="CoffeeCup HTML Editor" href="http://www.coffeecup.com/" target="_blank">CoffeeCup</a>, <a title="BBEdit HTML editor" href="http://www.barebones.com/products/bbedit/" target="_blank">BBEdit</a> or something similar, then go ahead and open your new HTML files there and give them some style.&nbsp; Take it slow at first and check frequently to make sure it’s looking the way you’d expect.</p>
+<p>Due to browser security restrictions, the files will appear most accurate if you view Treesaver content running in a local web server.&nbsp; A free app like <a title="XAMPP install page" href="http://www.apachefriends.org/en/xampp.html" target="_blank">XAMPP</a> (works on Windows, OS X, Linux) is easy-to-use and adequate for viewing the files on a local server and checking to make sure they look and work right.</p>
+<p>&nbsp;</p>
+<p><strong>5) RESIZE IMAGES IF NECESSARY AND EDIT IMAGE TAGS</strong></p>
+<p>As you may notice if you resize your browser, Treesaver will adjust the image used for your content.&nbsp; This has some great benefits, including mobile devices will not try to download an enormous image and then resize it and differently sized images don’t have to be of the same thing.</p>
+<p>But those benefits do mean that you will need to resize and save your images at a few different sizes.&nbsp; I’d recommend going for at least two, one for a mobile device (width of 280 or so) and one for a desktop browser (width of 600-ish), but you can create more depending on your style.&nbsp; For the cover page, as an example, I created three to make sure the full-size image fit well for the viewer.</p>
+<p>Any image editor will work fine, you just need to resize the image (keep the proportions intact) and save it with a different name.&nbsp; I typically add the width to the end of the image file name to keep them straight.&nbsp; So if my initial image was headshot.jpg, I resize and end up with headshot-280.jpg &amp; headshot-600.jpg.</p>
+<p>Editing the image tags can be tricky so be careful.&nbsp; Each set of resized images must be enclosed in a &lt;figure&gt; tag.&nbsp;&nbsp; The image tags themselves should have their height &amp; weight attributes set.&nbsp; So as an example, the two images above might look like this at the end of the html file: </p>
+<blockquote>
+<p><font color="#9bbb59" face="Courier New">&lt;figure&gt;<br />&nbsp;&nbsp;&nbsp; &lt;img data-sizes=&#8221;single&#8221; src=&#8221;</font><a href="https://martharotter.com/csforum/ts/img/01-ala-280.jpg"><font color="#9bbb59" face="Courier New">img/headshot-200.jpg</font></a><font color="#9bbb59" face="Courier New">&#8220;<br />width=&#8221;280&#8243; height=&#8221;130&#8243; /&gt;<br />&nbsp;&nbsp;&nbsp; &lt;img data-sizes=&#8221;double&#8221; data-src=&#8221;headshot-600.jpg&#8221;<br />width=&#8221;600&#8243; height=&#8221;280&#8243; /&gt;<br />&lt;/figure&gt;</font></p>
+</blockquote>
+<p>The image tags are to be placed in the corresponding article’s HTML file.</p>
+<p>&nbsp;</p>
+<p><strong>6) EDIT THE TOC FILE</strong></p>
+<p>The last thing you need to do before you upload is edit the Table of Contents file.&nbsp; The TOC file specifies the order of the articles and which ones are included so it’s very important.</p>
+<p>For each article to be included, you’ll need a hyperlink to the article with the attribute “itemprop=url”.&nbsp; A typical article might look like this: </p>
+<blockquote>
+<p align="left"><font color="#9bbb59" face="Courier New">&lt;div class=&#8221;keeptogether&#8221; itemscope&gt;<br />&lt;h5 itemprop=&#8221;title&#8221;&gt;&lt;a itemprop=&#8221;url&#8221; href=&#8221;</font><a href="https://martharotter.com/csforum/ts/01-jonathankahn.html"><font color="#9bbb59" face="Courier New">article1.html</font></a><font color="#9bbb59" face="Courier New">&#8220;&gt;My First Article&lt;/a&gt;&lt;/h5&gt;<br />&lt;/div&gt;</font></p>
+</blockquote>
+<p>The TOC file can get more complex including things like advertisements, an actual page for the TOC (the one included keeps itself hidden) with titles, bylines &amp; thumbnails, etc.&nbsp; We’re keeping it as a simple list of article titles here.</p>
+<p>&nbsp;</p>
+<p><strong>7) UPLOAD TO SERVER</strong></p>
+<p>Once you have everything ready to go and you’ve checked it out in XAMPP or another local file server, you’re ready to upload everything onto your server.&nbsp; You’ll need to include everything that was in the .zip file including resources.html, style.css and your edited article and TOC files.&nbsp; You’ll also need the image files you resized, whether they’re in the same folder or a subfolder.&nbsp; Upload all of that to your webserver and navigate to it in a browser.&nbsp; Voila!&nbsp; Your brand new publication is online and live.</p>
+<p>&nbsp;</p>
+<p><strong>I REALLY MEANT “BRIEF OVERVIEW”</strong></p>
+<p><a href="/wp-content/uploads/2011/09/image13.png"><img style="background-image: none; border-right-width: 0px; margin: 0px 10px 10px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="treesaver logo" border="0" alt="treesaver logo" align="left" src="/wp-content/uploads/2011/09/image_thumb5.png" width="159" height="52"></a>Yes, this is a very short overview.&nbsp; <span class="pullquote"><a title="Treesaver JS website" href="http://treesaverjs.com/" target="_blank">Treesaver</a> is quite powerful in terms of what it can do and I’ve tried to minimize as much complexity as I could to make it a fast tool to get started with.</span> To learn more, check out the <a title="Treesaver on Google Groups" href="http://groups.google.com/group/treesaverjs" target="_blank">discussion on Google Groups</a> and walk through the <a title="GitHub Tutorial of Treesaver" href="https://github.com/Treesaver/treesaver/wiki/Walkthrough" target="_blank">tutorial on GitHub</a>.&nbsp; To do more with Treesaver you’ll need to start to understand how the resources.html &amp; style.css files depend on each other to define the layout and customize content further.&nbsp; There’s a bit about this in the GitHub tutorial, but it takes some time to get your head around it.</p>
+<p>&nbsp;</p>
+<p><strong>WHERE ARE THE TOOLS?</strong></p>
+<p>I know, I know, cut-and-paste is not a valid tool or method of publishing.&nbsp; Treesaver is new and still building its community.&nbsp; I hear there are folks working on plug-ins for a few popular CMSs like Expression Engine, WordPress and Drupal.&nbsp; Your best bet for the latest news on those is the Google Group.&nbsp; If you are working in an organization with a custom CMS, your tech team can look at Treesaver to see if it’s an option for them to build a plug-in for it.</p>
+<p>&nbsp;</p>
+<p><strong>SUMMARY</strong></p>
+<p>If you give it a shot, please be sure to let me know how it goes.&nbsp; If you get stuck or confused, e-mail me or check the Google Group discussions for more information.&nbsp; If there are additional pieces that are tricky or could use some more clear instructions, let me know and I’ll do a more in-depth piece on specific sections.&nbsp; Good luck and publish away.</p>
+]]></content:encoded>
+							<wfw:commentRss>/an-introduction-to-treesaver/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">439</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>startups &#8211; Martha Rotter</title>
+	<atom:link href="/tag/startups/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Wed, 25 Jul 2018 09:25:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+<site xmlns="com-wordpress:feed-additions:1">144031741</site>	<item>
+		<title>Forward March</title>
+		<link>/forward/</link>
+				<comments>/forward/#comments</comments>
+				<pubDate>Sun, 02 Mar 2014 00:02:57 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[woopie]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=842</guid>
+				<description><![CDATA[A little over a year ago I stopped writing online, save for a few posts on the Woopie blog. I stopped writing for myself, for other people, for freelance work. What my startup needed at the end of 2012 was focus. A year later, and what a year! I&#8217;m on a plane back to San [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>A little over a year ago I stopped writing online, save for a few posts on the <a title="Woopie :: Write Only Once, Publish It Everywhere" href="http://woop.ie/" target="_blank" rel="noopener">Woopie</a> blog. I stopped writing for myself, for other people, for freelance work. What my startup needed at the end of 2012 was focus.</p>
+<p>A year later, and what a year! I&#8217;m on a plane back to San Francisco from New York where we spent a week showing off Woopie to investors, media properties, friends, advisors and customers, and the reactions from people were incredible and invigorating. We have new customers on trial subscriptions, a queue of people looking to discuss their scenario more and how they can reach a larger audience on Woopie, investors ready to write cheques to sustain &amp; grow our company, and supporters and advisors cheering us on the whole way.</p>
+<p>I had been dreading the process of raising our seed round up until now. But at this point I realize we are 100% ready to take this step as a company. Moving Woopie from an Irish corporation to a US corporation was very painful, expensive and time-consuming, but it has prepared us both mentally and logistically to deal with the time-consuming and often frustrating process.</p>
+<p>I promised many folks that I would write up an overview of what it took to convert our company, given that it’s really hard to find solid advice from other companies about when &amp; how it makes sense to do so. I think it’s important to share experiences like this to help other people make informed decisions for their startups. I’m waiting for a few final things to go through before I do that, but hopefully will have that live over the next couple of weeks.</p>
+]]></content:encoded>
+							<wfw:commentRss>/forward/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">842</post-id>	</item>
+		<item>
+		<title>The price of focus</title>
+		<link>/the-price-of-focus/</link>
+				<comments>/the-price-of-focus/#comments</comments>
+				<pubDate>Mon, 24 Sep 2012 20:48:49 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[freelance]]></category>
+		<category><![CDATA[startups]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=831</guid>
+				<description><![CDATA[What a difference a year makes. This time last year, I had finished an early prototype of my pet project of an Irish-focused tech magazine and was shopping it around to potential advertisers, contributors and partners. I had also successfully convinced the best designer I know, Stewart Curry, to be its design director. Just a [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>What a difference a year makes. This time last year, I had finished an early prototype of my pet project of an Irish-focused tech magazine and was shopping it around to potential advertisers, contributors and partners. I had also successfully convinced the best designer I know, Stewart Curry, to be its design director. Just a side project, no big woop.</p>
+<p>&nbsp;</p>
+<p><img class="alignnone size-medium wp-image-1025" title="Idea magazine on other devices" src="/wp-content/uploads/2018/07/devices.png" alt="Idea magazine on other devices" width="427" height="427" srcset="/wp-content/uploads/2018/07/devices.png 427w, /wp-content/uploads/2018/07/devices-150x150.png 150w, /wp-content/uploads/2018/07/devices-300x300.png 300w" sizes="(max-width: 427px) 100vw, 427px" /></p>
+<p>&nbsp;</p>
+<p>Fast-forward 365 days. With five issues of <a href="http://readidea.com/" target="_blank" rel="noopener">Idea magazine</a> published, we’re now working full-time on <a href="https://woop.ie/" target="_blank" rel="noopener">Woopie</a>, our platform for producing digital publications and just won a place in the new <a href="http://ie.wayra.org/" target="_blank" rel="noopener">Wayra Academy</a> in Dublin. There are a lot of reasons Wayra is a great fit for us: the great network opportunities, solid start-ups to share with &amp; learn from, huge support from a company that knows mobile &amp; devices, the community space Wayra provides, etc. But to be honest, the greatest benefit for me right now is the freedom to focus.</p>
+<p>&nbsp;</p>
+<p><img class="alignnone size-full wp-image-1028" style="background-image: none; margin: 5px 5px 6px; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="Woopie platform screenshot" src="/wp-content/uploads/2018/07/demo10.png" alt="Woopie platform screenshot" width="500" height="245" srcset="/wp-content/uploads/2018/07/demo10.png 500w, /wp-content/uploads/2018/07/demo10-300x147.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Focus in any business is both critical and expensive. Building companies from scratch is costly, and until the businesses are generating revenue, you have to find other ways to pay your bills. It was important to me that we not go looking for money until we had something of value. I was wary of giving away our company before we even had anything, and bootstrapping was the right thing to do. So in order to fund my two companies which generate no revenue yet and cost me a lot of my own money, I have continued doing freelance work over the last year. Teaching in the evenings, client projects during evenings &amp; weekends, contract work a couple of days a week, a day or two each week dedicated to Idea work, another couple of days for Woopie, and any additional time filled with community events and volunteering. Eventually, something had to give.</p>
+<p>Earlier this summer, I began examining what I could hand off. I had many conversations with myself that went like this:</p>
+<blockquote><p><em>“But honestly, running this event only takes a few emails and a couple of blog posts each month.” </em></p>
+<p><em>“But I really like volunteering, and it teaches me a lot about designing for users with different needs.” </em></p>
+<p><em>“But I still have all of these great ideas for organisation X, I can’t abandon it now.”</em></p></blockquote>
+<p>In the end it comes down to the opportunity cost of focus. I am very grateful to Gareth Stenson for taking over <a href="http://opencoffeedublin.com/" target="_blank" rel="noopener">OpenCoffee Dublin</a> and the dynamic duo of Jeannette Vollmer and Christina Lynch for taking over and reviving <a href="http://ireland.girlgeekdinners.com/" target="_blank" rel="noopener">Girl Geek Dinners</a>. I have stepped down from volunteer work and teaching for now and have minimized community activities and speaking gigs.</p>
+<p>All of these things are useful and have been invaluable in my career so far. But they each have a price. Even running an organisation which is free and involves “just a couple of blog posts” has a price. That price is focus. Every time I have to switch context, I lose time. I am slower at things. Developing all day in one language, going home to develop in another, and mentally working through different solutions takes a lot longer when you switch contexts frequently. Even setting up different work environments and rebuilding machines takes a not-insignificant amount of time.</p>
+<p>&nbsp;</p>
+<p><img style="background-image: none; margin: 5px auto 0px; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="Focus dictionary definition image" src="/wp-content/uploads/2012/09/focus.jpg" alt="Focus dictionary definition image" width="443" height="310" border="0" /></p>
+<p align="right"><em><span style="font-size: small;">              </span><span style="font-size: small;">   image courtesy of </span><a href="https://www.flickr.com/photos/hussain_quantum"><span style="font-size: small;">https://www.flickr.com/photos/hussain_quantum</span></a></em></p>
+<p>&nbsp;</p>
+<p>Being a part of Wayra means we get to focus on Woopie above everything else for the foreseeable future. It means I can expend all of my energy on working with customers, solving problems and building a great experience. I thought I would be reluctant to give away a part of our company, however small, but surprisingly it felt like exactly the right thing to do. Instead, it validated our approach so far and told us we are on to something that other people can believe in, too.</p>
+<p>So instead of feeling like we were giving something away, it felt like we were being given the very precious gift of focus. It’s going to be a very busy six months as we revise our product fit and finish based on our customers’ feedback, and continue to design and build Woopie, but I could not be more excited.</p>
+]]></content:encoded>
+							<wfw:commentRss>/the-price-of-focus/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">831</post-id>	</item>
+	</channel>
+</rss>

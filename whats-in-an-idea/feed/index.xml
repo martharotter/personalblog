@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>
+	Comments on: What&#8217;s in an Idea?	</title>
+	<atom:link href="/whats-in-an-idea/feed/" rel="self" type="application/rss+xml" />
+	<link>/whats-in-an-idea/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Wed, 25 Jul 2018 09:53:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+			<item>
+				<title>
+				By: Dennis Deery				</title>
+				<link>/whats-in-an-idea/#comment-55</link>
+		<dc:creator><![CDATA[Dennis Deery]]></dc:creator>
+		<pubDate>Sun, 11 Dec 2011 20:28:16 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=726#comment-55</guid>
+					<description><![CDATA[I really enjoyed the first issue Martha. You and the team can be very proud of the work you&#039;ve done. I look forward to seeing the effort continue!]]></description>
+		<content:encoded><![CDATA[<p>I really enjoyed the first issue Martha. You and the team can be very proud of the work you&#8217;ve done. I look forward to seeing the effort continue!</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

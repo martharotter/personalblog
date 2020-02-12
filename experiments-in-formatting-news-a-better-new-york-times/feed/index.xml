@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>
+	Comments on: Experiments in Formatting News: A Better New York Times	</title>
+	<atom:link href="/experiments-in-formatting-news-a-better-new-york-times/feed/" rel="self" type="application/rss+xml" />
+	<link>/experiments-in-formatting-news-a-better-new-york-times/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Fri, 17 Aug 2018 11:18:42 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+			<item>
+				<title>
+				By: Tuesday Newsday: Worldwide News Sites &#8211; Martha Rotter				</title>
+				<link>/experiments-in-formatting-news-a-better-new-york-times/#comment-79</link>
+		<dc:creator><![CDATA[Tuesday Newsday: Worldwide News Sites &#8211; Martha Rotter]]></dc:creator>
+		<pubDate>Fri, 17 Aug 2018 10:45:38 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=197#comment-79</guid>
+					<description><![CDATA[[&#8230;] a wonderful non-mobile browser-based reading experience of the NY Times, read my previous article on the Ochs extension for Chrome and give it a [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] a wonderful non-mobile browser-based reading experience of the NY Times, read my previous article on the Ochs extension for Chrome and give it a [&#8230;]</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Tuesday Newsday: Worldwide News Sites &#8211; Martha Rotter&#039;s Blog				</title>
+				<link>/experiments-in-formatting-news-a-better-new-york-times/#comment-17</link>
+		<dc:creator><![CDATA[Tuesday Newsday: Worldwide News Sites &#8211; Martha Rotter&#039;s Blog]]></dc:creator>
+		<pubDate>Wed, 31 Aug 2011 13:56:52 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=197#comment-17</guid>
+					<description><![CDATA[[...]  [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;]  [&#8230;]</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

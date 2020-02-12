@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>General &#8211; Martha Rotter</title>
+	<atom:link href="/category/general/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Wed, 29 Sep 2010 17:33:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+<site xmlns="com-wordpress:feed-additions:1">144031741</site>	<item>
+		<title>New Chapter, New Blog</title>
+		<link>/new-chapter-new-blog/</link>
+				<comments>/new-chapter-new-blog/#respond</comments>
+				<pubDate>Wed, 29 Sep 2010 17:33:12 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=4</guid>
+				<description><![CDATA[For the last three years, my blog has been at http://blogs.msdn.com/martharotter.&#160; It was appropriate because I started blogging as an experiment to see if I thought I would enjoy evangelism.&#160; I loved it, and kept my blog there since 2007.&#160; Mostly I blogged about new Microsoft technology, initiatives and events for Irish developers my team [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>For the last three years, my blog has been at <a href="http://blogs.msdn.com/martharotter">http://blogs.msdn.com/martharotter</a>.&nbsp; It was appropriate because I started blogging as an experiment to see if I thought I would enjoy evangelism.&nbsp; I loved it, and kept my blog there since 2007.&nbsp; Mostly I blogged about new Microsoft technology, initiatives and events for Irish developers my team and I were running, and occasionally personal posts about my life in Ireland or my family or travels.</p>
+<p>Friday, September 24th, 2010 was my last day at Microsoft after nine-and-a-half years.&nbsp; It’s still hard to believe I was there that long.&nbsp; But now it’s time to do something different, so it seemed appropriate to transfer my blog to a new home and change its focus a bit.&nbsp; I’ll still blog about the things I’m passionate about such as web and mobile technology, just now with a bit wider lens.</p>
+<p>I’m very excited to get back to building and architecting things, so I’m looking forward to creating new projects and blogging about them.&nbsp; Thanks for joining me here.</p>
+]]></content:encoded>
+							<wfw:commentRss>/new-chapter-new-blog/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">10</post-id>	</item>
+	</channel>
+</rss>

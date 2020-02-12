@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Idea Magazine &#8211; Martha Rotter</title>
+	<atom:link href="/category/idea-magazine/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Wed, 25 Jul 2018 11:31:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+<site xmlns="com-wordpress:feed-additions:1">144031741</site>	<item>
+		<title>What&#8217;s The Big Idea?</title>
+		<link>/whats-the-big-idea/</link>
+				<comments>/whats-the-big-idea/#comments</comments>
+				<pubDate>Wed, 18 Jul 2012 11:09:34 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Idea Magazine]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=794</guid>
+				<description><![CDATA[Yesterday we launched the brand new podcast from Idea Magazine, The Big Idea. The Big Idea is an audio addition to the magazine to continue on our theme for a few extra weeks. Each time we published an issue, I received a flurry of emails from people asking why we overlooked them, why they weren&#8217;t [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Yesterday we launched the brand new podcast from Idea Magazine, The Big Idea.</p>
+<p>The Big Idea is an audio addition to the magazine to continue on our theme for a few extra weeks. Each time we published an issue, I received a flurry of emails from people asking why we overlooked them, why they weren&#8217;t included, or with other stories of interest that we might have been able to cover given additional time.</p>
+<p>The truth is that with each theme we&#8217;ve had, we could go on researching and writing indefinitely. There is no shortage of interesting people to write about and stories to tell in these areas. But eventually you have to hit the publish button. Our podcast lets us continue these conversations and get more involved with our themes and subjects.</p>
+<p>So far it&#8217;s been a really fun experience, and I have to give my heartfelt thanks to all the podcast participants, who you&#8217;ll hear more from over the coming weeks, but also Dusty Rhodes and Digital Audio Productions whose excellent studio has helped us produce high-quality recordings. Dusty and his team are incredible.</p>
+<p>For now, you can listen to our first episode below where I interview Brian Suda about being a Master Informatician and working with data and visualisations on a day-to-day basis.</p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F52710890&width=false&height=false&auto_play=false&hide_related=false&visual=false&show_comments=false&color=false&show_user=false&show_reposts=false"></iframe>
+<p><a href="http://readidea.com/"><img class="aligncenter size-full wp-image-797" title="The Big Idea :: Idea Magazine podcast" src="/wp-content/uploads/2018/07/podcast-badge-1.png" alt="Logo for The Big Idea podcast" width="460" height="310" /></a></p>
+]]></content:encoded>
+							<wfw:commentRss>/whats-the-big-idea/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">794</post-id>	</item>
+		<item>
+		<title>What&#8217;s in an Idea?</title>
+		<link>/whats-in-an-idea/</link>
+				<comments>/whats-in-an-idea/#comments</comments>
+				<pubDate>Thu, 08 Dec 2011 16:05:40 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Idea Magazine]]></category>
+		<category><![CDATA[Idea]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=726</guid>
+				<description><![CDATA[What all goes into an idea? Well, our Idea consisted of: 3 core team members Over 30 contributors 21 logos 24 interviews 20MB of production files 6 digital formats Over 150 images, icons, logos, illustrations and photos Upwards of 15 frameworks evaluated Hundreds of emails, Twitter DMs, text messages and phone call Less than 20 [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>What all goes into an idea?</p>
+<p>Well, our Idea consisted of:</p>
+<ul>
+<li>3 core team members</li>
+<li>Over 30 contributors</li>
+<li>21 logos</li>
+<li>24 interviews</li>
+<li>20MB of production files</li>
+<li>6 digital formats</li>
+<li>Over 150 images, icons, logos, illustrations and photos</li>
+<li>Upwards of 15 frameworks evaluated</li>
+<li>Hundreds of emails, Twitter DMs, text messages and phone call</li>
+<li>Less than 20 in-person meetings</li>
+<li>Some Macs, a couple of PCs, some iPhones, a few iPads and a Windows Phone 7</li>
+<li>A handful of messy, convoluted platforms &amp; workflows</li>
+</ul>
+<p>And I&#8217;m not going to try to think about the collective hours. There are only so many hours in a day, and we all have full-time jobs and families. It was definitely a labour of love.</p>
+<div id="attachment_732" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/12/coverImage.jpg"><img aria-describedby="caption-attachment-732" class="size-medium wp-image-732" title="coverImage" src="/wp-content/uploads/2011/12/coverImage.jpg" alt="Cover Issue1" width="300" height="185" /></a><p id="caption-attachment-732" class="wp-caption-text">Cover Issue 1</p></div>
+<p>Launching<a title="Idea Magazine" href="http://readidea.com/" target="_blank"> Idea Magazine </a>was tough. I&#8217;ve been dreaming of creating Idea for years. On one hand, I just wanted to kick it out the door. On the other hand, I would have killed for another couple of weeks to make more fixes, edits, changes, revisions. But at some point you have to ship.</p>
+<p>In the last year, I&#8217;ve learned a lot about digital publishing and creating an environment that both accommodates and enhances reading experiences. I&#8217;ve learned there are a lot of religious wars about reading formats, but that there isn&#8217;t &#8220;The One Best Way.&#8221; Mostly, though, I&#8217;ve learned how difficult it is to build, reformat and distribute these publications. I&#8217;ve watched as people struggle with CMS after CMS, built to publish but not built FOR the people who are publishing.</p>
+<p>This can be better.</p>
+<p><strong>WOOPIE!</strong><br />
+Stewart Curry, the incredibly talented designer that I somehow convinced to work on Idea with me, saw these same problems. As we worked together on building the platform for Idea, we realized we were going to need a system and that the method we were using was unsustainable. We decided to take some time to build a platform not just for Idea, but for other publications who are struggling with similar issues of usability, functionality and sustainability. We&#8217;re calling it WOOPIE, for Write Only Once, Publish It Everywhere. I&#8217;m going to take a much-needed break between now and the new year, and when I come back I&#8217;ll be focusing on that.</p>
+<p>Making Idea come to life after thinking about it and believing in it for the last few years is honestly a dream come true. Building a platform to enable other people create something like this for their own communities is an amazing opportunity, and I can&#8217;t wait to get started.</p>
+<p>[Oh, and yes, Tuesday Newsday will resume next week.]</p>
+]]></content:encoded>
+							<wfw:commentRss>/whats-in-an-idea/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">726</post-id>	</item>
+		<item>
+		<title>Exciting Idea Magazine Addition: Help with Hiring</title>
+		<link>/exciting-idea-magazine-addition-help-with-hiring/</link>
+				<comments>/exciting-idea-magazine-addition-help-with-hiring/#respond</comments>
+				<pubDate>Fri, 25 Nov 2011 15:11:51 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Idea Magazine]]></category>
+		<category><![CDATA[ireland]]></category>
+		<category><![CDATA[Magazines]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/index.php/2011/11/exciting-idea-magazine-addition-help-with-hiring/</guid>
+				<description><![CDATA[If you’ve tried hiring people in the tech industry lately, you know what a tough and competitive market it is right now. Idea Magazine wants to help. Today we’re opening up a limited amount of job listings for our inaugural issue launching December 8th. We’re not interested in posting bulk ads with hidden company names. [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><img style="background-image: none; margin: 5px 5px 5px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; padding-top: 0px; border: 0px;" title="idea-logo-white" src="/wp-content/uploads/2011/11/idea-logo-white1.png" alt="idea-logo-white" width="141" height="149" align="left" border="0" />If you’ve tried hiring people in the tech industry lately, you know what a tough and competitive market it is right now.</p>
+<p>Idea Magazine wants to help.</p>
+<p>Today we’re opening up a limited amount of job listings for our inaugural issue launching December 8th. We’re not interested in posting bulk ads with hidden company names. We’re not interested in posting vague descriptions of what someone might be doing. We’re not interested in posting ads for interns to work for free. We’re not interested in posting ads for companies hiring you so they can outsource your skills.</p>
+<p>Here’s what we <em>ARE</em> interested in: we want to connect great people to great startups &amp; tech companies. And we think the best way to do that is by being transparent and helping you find each other.</p>
+<p>Our job listings cost only 35 Euros each and are featured in both the website and the magazine itself. This is a great deal as it delivers your ad to a very targeted audience of people interested and working in technology in Ireland and Northern Ireland.</p>
+<p>We will be selective about which job listings we post so that a) they’re not overwhelming for the readers and b) your job has a chance to stand out.</p>
+<p>You have the chance to make your position stand out – jobs will contain the below information so that the candidates contacting you will understand the requirements and be excited about joining your team.</p>
+<p>To get your startup job posted in the first issue of Idea Magazine, launching December 8th, fill in the form here: <a href="http://readidea.wufoo.com/forms/idea-magazine-startup-job-ads">http://readidea.wufoo.com/forms/idea-magazine-startup-job-ads</a></p>
+<p>Feedback on our job listings? Let us know! Email <a title="Email Martha" href="mailto:martha@readidea.com" target="_blank" rel="noopener">martha [at] readidea.com</a>.</p>
+<p>&nbsp;</p>
+<p><strong><em>SAMPLE JOB LISTINGS: </em></strong></p>
+<h4>Blue Pony Media</h4>
+<h5>Graphic Designer, Advanced</h5>
+<p><strong>Skills required:</strong></p>
+<p>Strong graphic design and logo design skills, Photoshop &amp; Illustrator</p>
+<p><strong>What you&#8217;ll be working on:</strong></p>
+<p>You&#8217;ll be working with our publishing and media clients to help them design beautiful and appropriate designs and logos for their interactive applications. Understanding an organisation&#8217;s vision and helping them to realise that is a big part of this role.</p>
+<p><strong>Why our company rocks:</strong></p>
+<p>Blue Pony Media is an award-winning media agency, creating interactive applications which delight people everywhere. We are very picky about which customers we take on to make sure to make sure we are proud of the work we do. Blue Pony Media values talented designers and developers and our extremely low turnover rate is proof of that. We&#8217;re located in Wicklow, but for the right designer, we&#8217;re open to a remote work option.</p>
+<h5>Blue Pony Media is a <strong>mature</strong> company with <strong>10-20</strong> employees.</h5>
+<h6>To apply or for more information see: http://omgponies.com/jobs</h6>
+<hr width="80%" />
+<h4>SuperCrazy Games</h4>
+<h5>XNA Developer, Beginner/Intermediate</h5>
+<p><strong>Skills required:</strong></p>
+<p>C#, XNA, Physics libraries such as Farseer would be a nice-to-have</p>
+<p><strong>What you&#8217;ll be working on:</strong></p>
+<p>You&#8217;ll be taking our concepts and turning them into interactive, playable mobile games. Building on top of our internally created animation foundation, you have the tools you need to iterate quickly and be creative. Our games run on PCs and Windows Phone 7 but we&#8217;re also building an environment to distribute our games through Xbox Live very soon.</p>
+<p><strong>Why our company rocks:</strong></p>
+<p>As a small but busy games studio, we&#8217;re turning the mobile games industry on its head. We&#8217;re agile and creative, so this is your chance to get in early and impact the future of mobile games by helping us create unique, viral concepts. We take fun very seriously, and our office is located in a developer hub in Galway so there&#8217;s plenty of excitement around. We believe in working flexible hours and doing anything we can (like bringing in lunch and providing you with the latest mobile devices) to help you focus on exciting projects.</p>
+<h5>SuperCrazy Games is a <strong>Startup</strong> company with <strong>1-10</strong> employees.</h5>
+<h6>To apply or for more information see: http://wearesupercrazygames.com/jobs</h6>
+]]></content:encoded>
+							<wfw:commentRss>/exciting-idea-magazine-addition-help-with-hiring/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">715</post-id>	</item>
+	</channel>
+</rss>

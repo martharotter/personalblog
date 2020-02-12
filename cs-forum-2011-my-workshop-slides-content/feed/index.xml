@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>
+	Comments on: CS Forum 2011 :: My Workshop Slides &#038; Content	</title>
+	<atom:link href="/cs-forum-2011-my-workshop-slides-content/feed/" rel="self" type="application/rss+xml" />
+	<link>/cs-forum-2011-my-workshop-slides-content/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Fri, 17 Aug 2018 10:33:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+			<item>
+				<title>
+				By: An Introduction to Treesaver &#8211; Martha Rotter				</title>
+				<link>/cs-forum-2011-my-workshop-slides-content/#comment-78</link>
+		<dc:creator><![CDATA[An Introduction to Treesaver &#8211; Martha Rotter]]></dc:creator>
+		<pubDate>Fri, 17 Aug 2018 10:32:36 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=423#comment-78</guid>
+					<description><![CDATA[[&#8230;] my Content Strategy Forum workshop, we created a short, online magazine called The CS Forum Times.&#160; The magazine used Treesaver [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] my Content Strategy Forum workshop, we created a short, online magazine called The CS Forum Times.&nbsp; The magazine used Treesaver [&#8230;]</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: An Introduction to Treesaver &#8211; - Martha Rotter&#039;s BlogMartha Rotter&#039;s Blog				</title>
+				<link>/cs-forum-2011-my-workshop-slides-content/#comment-31</link>
+		<dc:creator><![CDATA[An Introduction to Treesaver &#8211; - Martha Rotter&#039;s BlogMartha Rotter&#039;s Blog]]></dc:creator>
+		<pubDate>Tue, 20 Sep 2011 11:39:31 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=423#comment-31</guid>
+					<description><![CDATA[[...]  [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;]  [&#8230;]</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: b s musson				</title>
+				<link>/cs-forum-2011-my-workshop-slides-content/#comment-30</link>
+		<dc:creator><![CDATA[b s musson]]></dc:creator>
+		<pubDate>Sun, 18 Sep 2011 11:22:36 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=423#comment-30</guid>
+					<description><![CDATA[please do continue a good work]]></description>
+		<content:encoded><![CDATA[<p>please do continue a good work</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

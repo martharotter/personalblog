@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>quantifiedself &#8211; Martha Rotter</title>
+	<atom:link href="/tag/quantifiedself/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Wed, 25 Jul 2018 11:30:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+<site xmlns="com-wordpress:feed-additions:1">144031741</site>	<item>
+		<title>A New Kind of Resolution</title>
+		<link>/a-new-kind-of-resolution/</link>
+				<comments>/a-new-kind-of-resolution/#comments</comments>
+				<pubDate>Mon, 03 Mar 2014 01:20:22 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[quantifiedself]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=848</guid>
+				<description><![CDATA[Since I was a teenager, I&#8217;ve had a mid-January ritual of reflecting on the previous year and making resolutions for the upcoming year. Mid-January, because I always feel I need to let the year sink in for a couple of weeks before I can properly digest it. I go through my journal, look at what [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Since I was a teenager, I&#8217;ve had a mid-January ritual of reflecting on the previous year and making resolutions for the upcoming year. Mid-January, because I always feel I need to let the year sink in for a couple of weeks before I can properly digest it. I go through my journal, look at what my resolutions were from last year, and analyze each one in detail.</p>
+<p>This year, I decided to change it up a bit. 2013 went very differently than I had expected and had a lot of unpredictability. Some of my resolutions didn&#8217;t make sense given the changes. I don’t think 2014 will be much more predictable, given that I can hardly tell you where I’ll be more than two-three weeks out at this point!</p>
+<p>So I took a new tactic. For 2014 I decided to approach resolutions in an agile manner. Each month I am trying something different in order to see if it makes a difference as a habit or lifestyle change. I was inspired a great deal by Matt Cutts&#8217; ongoing series of <a title="Matt Cutts :: 30 Day Challenges" href="http://www.mattcutts.com/blog/type/30-days/">&#8220;30 Day Challenges.&#8221;</a></p>
+<p>Since I came up with this idea at the end of January, I started in February, and for February I started with working out everyday. I like going to the gym, but since relocating to San Francisco in October, I have found that I often had early morning calls with customers or partners in Europe, and work demands often wrecked my attempts to work out in the evenings.</p>
+<p>So in February I made a point to either get to the gym or do something physical corresponding to a workout every day. Running with an Americano to the train was not counted!</p>
+<p>It wasn&#8217;t easy, and it required a lot of planning. I missed a couple of days &#8211; our Demo Day weeks in San Francisco &amp; in New York were particularly challenging. But I wanted to address them head on instead of letting them “happen to me.” I picked up a book of resistance exercise workouts I could do anywhere, so that I wouldn’t have an excuse while travelling.</p>
+<p>However I feel a lot better right now having done this. It’s always rewarding for me when I work out, and with a lot of the stress from the end of our accelerator and demo day crunch time, it was very useful to ensure I had an hour or so each day to not think about work and to do something good for me. I&#8217;m definitely going to keep this up for March.</p>
+<p>What does March hold in store? Well &#8211; March is the beginning of Woopie seed round fundraising. I had a taste of this last year, as well as while I was converting our company to a US company. Although I feel I have a thicker shell and am more ready for it now, I know it will be incredibly stressful, frustrating and time-consuming.</p>
+<p>To try to counteract some of that I&#8217;m going to adopt a regular meditation routine for March. Since I&#8217;ve been on a super tight budget in San Francisco, I haven’t been able to go to many yoga classes, so I think this will be an okay substitute for now. Not sure when makes the most sense to incorporate into my schedule, whether am or pm, but I&#8217;ll do some research over the next couple of days to figure that out.</p>
+<p>Anyone been doing any meditation lately? Recommendations for websites or apps that have been useful? I’ve looked at headspace &amp; calm.com but open to any recommendations that folks have found useful.</p>
+]]></content:encoded>
+							<wfw:commentRss>/a-new-kind-of-resolution/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">848</post-id>	</item>
+		<item>
+		<title>Quantified Self Europe Review</title>
+		<link>/quantified-self-europe-review/</link>
+				<comments>/quantified-self-europe-review/#comments</comments>
+				<pubDate>Tue, 29 Nov 2011 00:58:27 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[quantifiedself]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/index.php/2011/11/qseurope-review/</guid>
+				<description><![CDATA[One of the first things I discovered this past weekend in Amsterdam at the first ever Quantified Self Europe conference is that I clearly do a bad job explaining what QS is. When asked why I obsessively track things in my life like sleep patterns, exercise habits, food intake, skin condition, and others, I usually [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="Quantified Self" src="/wp-content/uploads/2011/11/image11.png" alt="Quantified Self" width="449" height="116" border="0" />One of the first things I discovered this past weekend in Amsterdam at the first ever <a title="Quantified Self Europe 2011" href="http://quantifiedself.com/conference/Amsterdam-2011/">Quantified Self Europe conference</a> is that I clearly do a bad job explaining what QS is. When asked why I obsessively track things in my life like sleep patterns, exercise habits, food intake, skin condition, and others, I usually give a rambling answer about measuring things to make life better and improve myself and make changes and I like numbers.</p>
+<p>Then I’m met with a blank stare which reads, “Freakshow.”</p>
+<p>However I spoke with a lot of people this weekend (many of them wearing tracking devices like fitbit &amp; jawbone) who mentioned that when they talk about using RunKeeper or a Withings scale, the response is often “Wow cool, I want to do that too!”</p>
+<p>So I’m obviously not a great spokesperson for the movement. However measuring and tracking data about myself is something I’ve been doing ever since I was a little kid, tracking what I spent my babysitting money on and my pet rabbit’s snack intake. I once made a chart extrapolating out all of the possible outfit combinations in my closet (this wasn’t as hard as it might sound, I wore a school uniform during the school year &amp; a camp uniform during the summer, and my mom made the rest of my clothes &#8211; it was slim pickings). I was born a data nerd.</p>
+<p>&nbsp;</p>
+<p><strong>WHAT IS QUANTIFIED SELF?</strong></p>
+<p>I’ve already disqualified myself from answering that question, so I’m stealing the definition from the <a title="About Quantified Self" href="http://quantifiedself.com/about/" target="_blank" rel="noopener">Quantified Self site</a>: <em>“Quantified Self is a collaboration of users and tool makers who share an interest in self knowledge through self-tracking. We exchange information about our personal projects, the tools we use, tips we’ve gleaned, lessons we’ve learned.”</em>  There. Make sense?</p>
+<p>I discovered QS through two of my heroes:  1) <a title="Seth Roberts' Blog" href="http://blog.sethroberts.net/">a researcher named Seth Roberts</a>, who has been blogging for years about his attempts to improve his lifestyle through self-experimentation and 2) <a title="Feltron.com" href="http://feltron.com/" target="_blank" rel="noopener">Nicholas Felton, creator of the annual Feltron Report</a>, a collection of beautiful graphics illustrating achievements and quantified activities of Felton throughout the year. Both of these individuals inspired me to begin tracking data to find correlations and improve my life.</p>
+<p>&nbsp;</p>
+<p><strong>I GET THE IDEA, BUT WHAT’S WITH THE MEETUPS?</strong></p>
+<p>Quantified Self meetups happen all over the world (<a title="Quantified Self Meetup in Dublin" href="http://www.meetup.com/Quantified-Self-Dublin/" target="_blank" rel="noopener">and just started in Dublin</a>!). People use them to share what they’ve learned, ask questions and grow together. It’s a community movement of people who want to make their lives and the world around them better.</p>
+<p>Show &amp; Tell meetups allow people to discuss things they’re trying, problems they’ve had, get suggestions and then report back on their successes or issues.  The conference is an annual event for both users and those building apps and tools for self-trackers to meet and discuss the needs of the community.</p>
+<p>&nbsp;</p>
+<p><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="Quantified Self Europe" src="/wp-content/uploads/2011/11/image12.png" alt="Quantified Self Europe" width="334" height="106" border="0" /><strong>QS EUROPE </strong></p>
+<p>You know you’re at a Quantified Self meetup when people show up in the morning with kinks in their hair where their <a title="Zeo" href="http://www.myzeo.com/sleep/" target="_blank" rel="noopener">Zeo band</a> was. I can’t tell you how much I learned from the insightful and forward-thinking people at QS Europe. I am very glad I went. I learned about personal data visualization integration, building tools for others, objective versus subjective tracking, and lots in between. I met many inspiring people and returned to Dublin quite energized and enthusiastic (and with some ideas for my Christmas list this year like the jawbone bracelet tracker!).</p>
+<p>&nbsp;</p>
+<p><strong>CURING YOUR SKIN WOES WITH FOOD</strong></p>
+<p>The talk I gave was one of the hardest I’ve ever given because it was so personal. I’m very comfortable giving tech talks, discussing APIs and doing programming demonstrations, but I don’t usually talk about personal things.</p>
+<p>One’s face is very personal. When I moved to Ireland in 2007, I began to have skin problems. It began gradually and I attributed it to the move, to stress, to late nights drinking with developers and clients, to travel, to whatever excuses I could think of. The stress was multiplied by the anxiety of being embarrassed about how my face looked, but also because my new job in Ireland involved me being on stage in front of large audiences constantly, often several times a week. A year later my skin was perpetually inflamed, red, full of sores and very painful. When one spot would go away, two more would spring up in its place. It was a tough time. I cried a lot.</p>
+<p>Frustrated, I went to see my hometown dermatologist while I was home for holidays. <span class="pullquote">He told me that a) this was completely normal and b) there was nothing I could do but go on antibiotics for a year (in addition to spending a fortune on creams and pills). I didn’t believe either of those things.</span></p>
+<p>I was not interested in being on an antibiotic for a year, nor was I interested in Accutane (my best friend has had it multiple times and it hasn’t had long term results, plus it can be risky). What I was interested in was figuring out why this was happening and changing my life to make it stop. I refused to accept my dermatologist’s insistence that what you put in your body has no effect on how you look and feel.</p>
+<p>I began systematically cutting things out of my diet to see how I reacted. First chicken and soy, based on a recommendation from a food allergist. Over the course of a year I cut out sugar, gluten, carbs, starches, caffeine, meat, fish until finally the magical month of December 2010 when I cut out dairy. My skin was my own again by New Year’s day this year.</p>
+<p>It took a year to figure it out. It was completely worth it. There’s nothing wrong with Irish dairy, it just doesn’t work for me. I drink Americanos instead of lattes now, I don’t eat cereal; none of that is a huge deal. For what it’s worth, I can drink goat’s milk.</p>
+<p>It was worth it but it was still tough. So I spoke at QS Europe about my journey in the hopes that it can help and inspire others who are embarrassed about their skin condition or scared of long stints of antibiotics or potentially risky treatments like Accutane. My slides, while not very exciting since it was a lot more storytelling than slide showing, are below. If you are going through something similar I encourage you to find a group of kind and helpful people like QS-ers, or use a community forum like <a href="http://curetogether.com/">http://curetogether.com/</a> to help get support and suggestions.</p>
+<div id="__ss_10372060" style="width: 425px;">
+<p><strong style="margin: 12px 0px 4px; display: block;"><a title="Curing Your Skin With Food" href="http://www.slideshare.net/martharotter/curing-your-skin-with-food" target="_blank" rel="noopener">Curing Skin Woes Through Experimentation</a></strong> <iframe src="//www.slideshare.net/slideshow/embed_code/10372060" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<div style="padding: 5px 0px 12px 0px;">View more <a href="http://www.slideshare.net/" target="_blank" rel="noopener">presentations</a> from <a href="http://www.slideshare.net/martharotter" target="_blank" rel="noopener">Martha Rotter</a></div>
+</div>
+<p>&nbsp;</p>
+<p>Quantified Self isn’t for everyone, but <em>everyone</em> should feel they have the power to change things in their body and their life for the better.</p>
+]]></content:encoded>
+							<wfw:commentRss>/quantified-self-europe-review/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">720</post-id>	</item>
+	</channel>
+</rss>

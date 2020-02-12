@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Technology &#8211; Martha Rotter</title>
+	<atom:link href="/category/technology/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Fri, 17 Aug 2018 12:29:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+<site xmlns="com-wordpress:feed-additions:1">144031741</site>	<item>
+		<title>Nevertheless, she coded</title>
+		<link>/nevertheless-she-coded/</link>
+				<comments>/nevertheless-she-coded/#respond</comments>
+				<pubDate>Wed, 14 Mar 2018 13:56:32 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Technology]]></category>
+
+		<guid isPermaLink="false">/?p=994</guid>
+				<description><![CDATA[I rarely write anymore about &#8220;women in tech&#8221; types of things, but one of my colleagues mentioned an initiative for #SheCoded, and I really loved the coding journeys and stories. So I decided to participate, too. Something that comes to mind when I think about why these stories are important might be less relevant today [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>I rarely write anymore about &#8220;women in tech&#8221; types of things, but one of my colleagues mentioned an <a href="https://dev.to/jess/everyone-please-join-us-for-shecoded-2018--56l2">initiative for #SheCoded</a>, and I really loved the coding journeys and stories. So <a href="https://dev.to/martharotter/nevertheless-martha-rotter-coded--26nk">I decided to participate, too</a>.</p>
+<p>Something that comes to mind when I think about why these stories are important might be less relevant today in my circles. But maybe it&#8217;s still something that affects people in smaller or more sheltered communities. I recognize that I was very lucky to go away to school and to be in a place where I had the freedom to take random classes that sounded interesting to me, but even so I might still have missed my path.</p>
+<p>When I got to college and took an actual C programming course for the first time (not just messing around on the command line or building HyperCard stacks), an explosion went off in my head. All I wanted to do was be in that computer lab &amp; learn more. Suddenly I felt maybe everyone telling me all my life I wasn&#8217;t creative was wrong! Here I could be creative and make things I cared about. I never left the computer lab without having done something new. It was the greatest environment I never knew.</p>
+<p>But when I tried to think about how to do this for the rest of my life, I was stumped. My parents didn&#8217;t use computers for work. I didn&#8217;t know anything about software jobs. What could I actually do with this? Luckily I had taken a part-time job in the university&#8217;s career center where I had time to read up on the different paths for someone who studied computer science. I was convinced that this, not the business school (where I had already declared my major of international business), was where my future was.</p>
+<p>Calling my parents to tell them that I was going to switch majors after only a few weeks of college was a surprise for both me and them. They panicked because they, like me, didn&#8217;t know the first thing about these types of careers. They thought it was a fad and who would take me seriously anyway. You love math! We all know you should be an accountant! Please don&#8217;t drop out of the business school and end up moving back home when you can&#8217;t get a job!</p>
+<p>I figured out a way to do both and graduated in five years with both computer science and international business degrees. Along the way, I got programming internships and part-time jobs, and each time my parents shrugged and told me best of luck. When I graduated and moved from Missouri to Seattle to start my new job at Microsoft, I think it finally sunk in that this wasn&#8217;t going to be a fad.</p>
+<p>Like I said above, I think this is less of a barrier for young people today. I doubt students are being talked out of careers in computer science because their family still thinks it&#8217;s a fad or not a safe job market. But here in Ireland I have met students with high standardized test scores whose parents convince them to go to med school, not engineering school, because it&#8217;s a &#8220;better future.&#8221; So I think it is very important to be able to explore career paths, understand options, and read stories about how people got to where they are today.</p>
+<p>Thank you everyone else who participated and shared your stories &#8211; you may be helping to change someone&#8217;s future.</p>
+<h6 style="text-align: right;"><em> image courtesy of <a href="http://www.flickr.com/photos/contusion">http://www.flickr.com/photos/contusion</a></em></h6>
+]]></content:encoded>
+							<wfw:commentRss>/nevertheless-she-coded/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">994</post-id>	</item>
+		<item>
+		<title>On Rediscovering Fiction</title>
+		<link>/rediscovering-fiction/</link>
+				<comments>/rediscovering-fiction/#respond</comments>
+				<pubDate>Sun, 21 Sep 2014 18:01:43 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Technology]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=870</guid>
+				<description><![CDATA[In the last nine months, I’ve read more fiction books than I collectively have for the previous five years. How did this happen? I blame one little app. “I’m not really a ‘fiction reader’,” I remember telling Susannah and Niree, the two women who built Connu. I explained why I would not be their target market: [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>In the last nine months, I’ve read more fiction books than I collectively have for the previous five years. How did this happen? I blame one little app.</p>
+<p>“I’m not really a ‘fiction reader’,” I remember telling Susannah and Niree, the two women who built Connu. I explained why I would not be their target market: “I’m mostly into nerdy programming books &amp; reading stuff I can apply, like business non-fiction.” But we were friends and shared an office, so I installed the app to dutifully test it out.</p>
+<p><a title="Connu" href="http://connu.co/" target="_blank" rel="noopener">Connu</a> is a short fiction mobile app, designed to deliver “commute-length” stories to you, in written and audio format, a few times a week. The authors are mostly new or unknown but recommended by other successful writers like David Sedaris.</p>
+<p><img class="alignnone size-medium wp-image-1026" src="/wp-content/uploads/2018/07/Screen-Shot-2014-09-21-at-10.23.34.png" alt="Screenshot of Connu app" width="923" height="875" srcset="/wp-content/uploads/2018/07/Screen-Shot-2014-09-21-at-10.23.34.png 923w, /wp-content/uploads/2018/07/Screen-Shot-2014-09-21-at-10.23.34-300x284.png 300w, /wp-content/uploads/2018/07/Screen-Shot-2014-09-21-at-10.23.34-768x728.png 768w" sizes="(max-width: 923px) 100vw, 923px" /></p>
+<p>With my 20 minute train ride from Cole Valley to SOMA every day, I usually used the time to go through my RSS feeds. One morning I hadn’t synched Reeder, so I launched Connu instead.</p>
+<p>“Take Me Home” by Amy Silverberg was the story of the day. I gasped as I finished the story, and it haunted me the rest of the day. Over the next few weeks I flew through the entire collection. I felt nostalgic for Hilmar, met baby-attacking rattlesnakes, pondered working side-by-side with a full-size chinchilla. The stories were sometimes serious, sometimes fanciful, sometimes romantic or sad, but always interesting and engaging. They made me think differently about things, a bit like yoga for my overactive, analytical mind.</p>
+<h3><strong>Choice versus Curation</strong></h3>
+<p>What I loved most was the lack of choice. Every time I opened the app, it had something that fit my timeframe, was curated for me, and began immediately. I was suprised at how comforting it was to not have to choose.</p>
+<p>Having gotten through most of the Connu collection, I rediscovered the joy of a great book. When you mostly read non-fiction, there isn’t that “pause, wonder what happens next, what would I do” feeling for most of them. I love non-fiction, but fiction does a different thing to your head &amp; your heart. I found that while perhaps I need advice and learning from my non-fiction books, opening my mind to fiction, fantasy and science fiction is equally useful for my business by improving and expanding creativity.</p>
+<h3><strong>Fiction Recommendations</strong></h3>
+<p>Since installing Connu, I have read some fantastic books. I still read business and computer books, but because this blog post is about fiction, here are the very best fiction books I’ve read in the last few months. Some old, some new, but hopefully if you&#8217;re looking for a new read, you&#8217;ll find something interesting here.</p>
+<ul>
+<li><em> Fahrenheit 451</em> by Ray Bradbury (read a bunch of other Bradbury stuff too &#8211; I also highly recommend the 1966 film, so great!)</li>
+<li><em>Ready Player One</em> by Ernest Cline</li>
+<li><em>The War of the Worlds</em> by H. G. Wells</li>
+<li><em>Mr. Penumbra’s 24-Hour Bookstore</em> by Robin Sloan</li>
+<li><em>Little Brother</em> by Cory Doctorow</li>
+<li><em>The Dinner</em> by Herman Koch</li>
+<li><em>The Shadow of the Wind</em> by Carlos Ruiz Zafón</li>
+<li><em>The Radio Wall Chronicles</em> by Susannah Luthi (<a title="The Radio Wall Chronicles" href="http://theradiowall.tumblr.com/" target="_blank" rel="noopener">http://theradiowall.tumblr.com/</a>)</li>
+</ul>
+<p>Any other suggestions? I&#8217;m reading <em>Homeland</em> and <em>The Martian</em> now, but looking for any other good recommendations, too!</p>
+]]></content:encoded>
+							<wfw:commentRss>/rediscovering-fiction/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">870</post-id>	</item>
+		<item>
+		<title>Updated Podcast Recommendations</title>
+		<link>/updated-podcast-recommendations/</link>
+				<comments>/updated-podcast-recommendations/#respond</comments>
+				<pubDate>Wed, 07 Nov 2012 16:33:34 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=833</guid>
+				<description><![CDATA[Podcasts are so awesome. I love discovering new topics and conversations, and find them great to listen to both at work and at home. Since I listen to a lot of podcasts &#38; adjust my listening frequently, I usually have new things to recommend. If you’re looking for something new to listen to, check out [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Podcasts are so awesome. I love discovering new topics and conversations, and find them great to listen to both at work and at home. Since I listen to a lot of podcasts &amp; adjust my listening frequently, I usually have new things to recommend. If you’re looking for something new to listen to, check out some of the below.</p>
+<p>I’m currently using Stitcher almost exclusively for listening to podcasts. It’s fantastic. It works everywhere, stores lists of my favourites, and I don’t need to sync anything. There are a handful of podcasts I like that aren’t on Stitcher, but for pretty much everything else, I love it. Additionally I think the Downcast app for iOS is great if you’re looking for something to sync &amp; listen offline.</p>
+<p>&nbsp;</p>
+<p><strong>New (or new to me) podcasts: </strong></p>
+<p><em>HackerNews Pod, or HNPod</em> – generally around an hour, only 15 episodes so far, but have had great guests and interesting topics for developers.</p>
+<p><a href="http://hnpod.com/">http://hnpod.com/</a></p>
+<p><em>Monocle 24</em> – I love the Monocle magazine, and now they have a series of podcasts I like, too. Specifically The Stack, which is about print media, but The Globalist, The Urbanist, The Menu, The Entrepreneurs, &amp; Section D are all great.</p>
+<p><a href="http://monocle.com/24/">http://monocle.com/24/</a></p>
+<p><em>Jobs to be Done Radio</em> – Fans of The Re-Wired Group or disciples of the Jobs-to-be-done framework will like this podcast talking about applying the methodology, product design and business.</p>
+<p><a href="http://jobstobedone.org/topics/radio/">http://jobstobedone.org/topics/radio/</a></p>
+<p><em>Tools of Change for Publishing</em> – O’Reilly has started producing an excellent podcast for people working in the publishing industry.</p>
+<p><a href="http://toc.oreilly.com/tag/toc-podcast">http://toc.oreilly.com/tag/toc-podcast</a></p>
+<p>&nbsp;</p>
+<p><strong>Thought-provoking stuff: </strong></p>
+<p><em>99% Invisible</em> – My find of the year. 99% Invisible by Roman Mars is a fascinating look into design, architecture and how the things around us affect our communities. It’s so well-produced and researched. Much kudos to the team behind it, it sets a very high bar for podcast quality. Plus they’re all an ideal length at around 8-15 minutes.</p>
+<p><a href="http://99percentinvisible.org/">http://99percentinvisible.org/</a></p>
+<p><em>Freakonomics Radio</em> – Who didn’t love the Freakonomics books? Freakonomics Radio follows on from there and produces always surprising looks  into people’s behaviour. Looking at tough topics like is college worth it and $15 tomatoes keeps this podcast at the top of my queue each week.</p>
+<p><a href="http://www.freakonomics.com/radio/">www.freakonomics.com/radio/</a></p>
+<p><em>NPR Planet Money</em> – I have liked Planet Money for a while, but in 2012 it has just become a powerhouse of interesting and insightful reporting. Their conversations with economists on creating a fake, ideal political candidate and marketing him, for example, was a wonderful experiment. In these tough financial times, Planet Money is great for helping you to understand where the world’s money is going.</p>
+<p><a href="http://www.npr.org/templates/story/story.php?storyId=127413729">http://www.npr.org/templates/story/story.php?storyId=127413729</a></p>
+<p>&nbsp;</p>
+<p><strong>Short, daily tech updates:</strong></p>
+<p>I gave up listening to the longer, TWIT/TWIG episodes a long time ago. They just got to be too long and rambling for me. Now I generally listen to more focused shows, and for general tech news, I just listen to the following short shows in the morning on Stitcher before heading off to work:</p>
+<p><em>TechCrunch Headlines</em></p>
+<p><em>Tuaw Daily Update</em></p>
+<p><em>Wall Street Journal Tech News Briefing</em></p>
+<p>&nbsp;</p>
+<p><strong>Longer or more focused tech/start-up podcasts: </strong></p>
+<p><em>Entrepreneurial Thought Leaders</em> – a lecture series produced by Stanford University. It’s a weekly speaker series with leaders from technology, business and education such as Noam Wasserman, Melinda Gates, and more.</p>
+<p><a href="http://etl.stanford.edu/">http://etl.stanford.edu/</a></p>
+<p><em>The Industry</em> &#8211;  A new voice in tech media, with Jared Erondu, Adam Stacoviak (formerly did the Founders Talk podcast series, which I also liked), and Drew Wilson. Interesting discussions about start-ups, design and tech. They even mentioned Woopie once so I like them even more.</p>
+<p><a href="http://theindustry.cc/category/podcast/">http://theindustry.cc/category/podcast/</a></p>
+<p><em>The Big Web Show</em> – I’ve been a long-time fan of Jeffrey Zeldman’s show interviewing my internet heroes, it’s always interesting.</p>
+<p><a href="http://5by5.tv/bigwebshow">http://5by5.tv/bigwebshow</a></p>
+<p><em>The JavaScript Show</em> – Really well-produced JavaScript developer podcast, short and focused with always relevant content.</p>
+<p><a href="http://javascriptshow.com/">http://javascriptshow.com/</a></p>
+<p><em>A Django Podcast</em> – This may have ended, but has been good &amp; would love to hear more episodes!</p>
+<p><a href="http://3rdaverad.io/shows/django-podcast/">http://3rdaverad.io/shows/django-podcast/</a></p>
+<p>&nbsp;</p>
+<p><strong>Miscellaneous Fun stuff: </strong></p>
+<p><em>60-Second Mind </em></p>
+<p><a href="http://www.scientificamerican.com/podcast/podcasts.cfm?type=60-second-mind">http://www.scientificamerican.com/podcast/podcasts.cfm?type=60-second-mind</a></p>
+<p><em>BrainStuff, from HowStuffWorks.com </em></p>
+<p><a href="http://entertainment.howstuffworks.com/hsw-shows/brain-stuff-podcast.htm">http://entertainment.howstuffworks.com/hsw-shows/brain-stuff-podcast.htm</a></p>
+<p><em>Latest in Paleo </em></p>
+<p>&#8211; <a href="http://www.latestinpaleo.com/">http://www.latestinpaleo.com/</a></p>
+<p><em>Stuff You Missed in History Class </em></p>
+<p><a href="http://entertainment.howstuffworks.com/hsw-shows/stuff-you-missed-in-history-class-podcast.htm">http://entertainment.howstuffworks.com/hsw-shows/stuff-you-missed-in-history-class-podcast.htm</a></p>
+<p><em>Everyday Russian</em></p>
+<p><a href="http://everydayrussianlanguage.com/">http://everydayrussianlanguage.com/</a></p>
+]]></content:encoded>
+							<wfw:commentRss>/updated-podcast-recommendations/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">833</post-id>	</item>
+		<item>
+		<title>Just in time for Last-Minute Gift Givers: Subscriptions to Idea!</title>
+		<link>/just-in-time-for-last-minute-gift-givers-subscriptions-to-idea/</link>
+				<comments>/just-in-time-for-last-minute-gift-givers-subscriptions-to-idea/#respond</comments>
+				<pubDate>Tue, 20 Dec 2011 08:20:54 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Idea]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=741</guid>
+				<description><![CDATA[Since Idea went live almost two weeks ago, the biggest complaint we heard was, “Why can’t I give you money?” We’ve gone back and forth on what’s the right thing to do for the community and how best to make sure what we’re doing is reasonably priced but sustainable too. &#160; &#160; So today we’re [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Since Idea went live almost two weeks ago, the biggest complaint we heard was, “Why can’t I give you money?” We’ve gone back and forth on what’s the right thing to do for the community and how best to make sure what we’re doing is reasonably priced but sustainable too.</p>
+<p>&nbsp;</p>
+<p><a title="Subscribe to Idea Magazine" href="http://www.readidea.com/subscribe/" target="_blank"><img style="background-image: none; border-right-width: 0px; margin: 0px auto 6px; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Subscribe to Idea Magazine" border="0" alt="Subscribe to Idea Magazine" src="http://www.readidea.com/img/subscribe-image.jpg"></a></p>
+<p>&nbsp;</p>
+<p><span class="pullquote">So today we’re answering your calls &amp; <a title="Subscribe to Idea Magazine!" href="http://www.readidea.com/subscribe/" target="_blank">opening up for subscriptions</a>!&nbsp; Subscriptions will begin with our next issue in February</span>. And we have two reasons why you should get your subscription sooner rather than later: </p>
+<p>1) Prices for annual subscriptions will go up shortly before the next issue (February 15th) launches, so make sure you get your subscription now to lock in a fantastic deal.</p>
+<p>2) We have a special Christmas gift this week: one lucky subscriber will win <strong><a title="Win a DODOcase from clickcase.ie" href="http://www.clickcase.ie/proddetail.php?prod=DODO" target="_blank">a gorgeous DODOcase</a></strong> from our friends at <a href="http://clickcase.ie/">http://clickcase.ie/</a>! If you haven’t taken a look at the DODOcase, it is stunning, constructed from black Moroccan cloth and bamboo, and was even chosen by Barack Obama for the presidential iPad. You’ll be the envy of everyone for your superb taste and quality.</p>
+<p><a title="DODOcase on clickcase.ie" href="http://www.clickcase.ie/proddetail.php?prod=DODO" target="_blank"><img style="background-image: none; border-right-width: 0px; margin: 0px auto 6px; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="" border="0" alt="DODOcase - iPad 2" src="http://www.clickcase.ie/prodimages/medium/dodo2.jpg.jpg"></a></p>
+<p>Anyone who purchases a subscription for themselves or a friend between now and 12:00am December 25th (for the really last-minute gift givers) is entered to win the DODOcase, and we’ll post it on our site and email the winner on Christmas day.</p>
+<p>&nbsp;</p>
+<p>I was surprised by the number of people who have honestly asked me, “Can you just put up a donation thing so we can make sure this keeps going?” It seems so unbelievable that today, in the middle of a tough recession, while governments and corporations are terrified of piracy, that there are people who are actually looking for ways to not get things for free. But along those lines we’ve also seen a lot of great websites and services go out of business because they never had a business model. This excellent blog post from Maciej at Pinboard describes exactly that phenomenon: <a href="http://blog.pinboard.in/2011/12/don_t_be_a_free_user/">http://blog.pinboard.in/2011/12/don_t_be_a_free_user/</a>. </p>
+<p>So while we have a lot of creative plans in store for Idea, we’re also focusing on making sure it’s a sustainable effort and sticks around for a while. We’re committed to making this work and appreciate the kind words and support from everyone who liked what they saw and read so far. I won’t promise the business model will be the same this time next year, but I do promise that the magazine will still be here and hopefully by then fully supporting itself.</p>
+<p>Thanks again for your enthusiasm!</p>
+<p>And hey, the next issue is already kicking off! For those of you thinking about a change of pace to a startup or other small, fast-paced project and trying to run the numbers to see if it might work, we think we can help.</p>
+]]></content:encoded>
+							<wfw:commentRss>/just-in-time-for-last-minute-gift-givers-subscriptions-to-idea/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">741</post-id>	</item>
+		<item>
+		<title>A New Idea</title>
+		<link>/a-new-idea/</link>
+				<comments>/a-new-idea/#comments</comments>
+				<pubDate>Tue, 08 Nov 2011 15:23:33 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[ireland]]></category>
+		<category><![CDATA[Magazines]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/index.php/2011/11/a-new-idea/</guid>
+				<description><![CDATA[For a place with such an amazing tech community of developers, designers, startups, entrepreneurs and just plain “do-ers”, it’s shockingly hard to know what’s going on all the time with the Irish technology scene. The most effective way to find out about interesting startups, new technologies, cool design studios, great places to work, upcoming events, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><img style="background-image: none; margin: 0px auto 6px; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" src="http://quantifyyourself.com/readidea/wp-content/uploads/2011/10/ideaLogo.png" alt="Idea Magazine" border="0" /></p>
+<p>For a place with such an amazing tech community of developers, designers, startups, entrepreneurs and just plain “do-ers”, it’s shockingly hard to know what’s going on all the time with the Irish technology scene. The most effective way to find out about interesting startups, new technologies, cool design studios, great places to work, upcoming events, testing techniques, great new fonts, etc. is usually an impromptu meetup with a fellow geek.</p>
+<p>When I moved to Dublin four-and-a-half years ago I spent a lot of money on technology magazines, from Ireland and abroad, to find out what was going on (still do – I am a magazine junkie). Foreign magazines always had cool profiles of interesting people, tutorials on things that are new and might be useful techniques, list of stuff that was going on and things to get involved with.</p>
+<p>I rarely read about anything interesting happening in Ireland.<strong> &lt;sadFace/&gt;</strong></p>
+<p>But at the same time, I was constantly blown away by unique companies being created here. Things like <a title="Build" href="http://2011.buildconf.com/">Build</a> (happening this week in Belfast for the third year!), <a title="Coder Dojo" href="http://coderdojo.com/">Coder Dojo</a> (happening every weekend now!), <a title="24theWeb" href="http://24theweb.com/">24theWeb</a> (2nd annual event happened a couple of weeks ago!), that are all creative and beautifully executed initiatives. Studios that turn out gorgeous websites and mobile applications. People turning industries on their heads.</p>
+<p><strong><em>AUGH! AREN’T YOU SO FREAKING PROUD OF IT ALL?! </em></strong></p>
+<p>But there’s no platform for talking about it yet. Existing publications write about global gadgets &amp; popular “apps you need now!” They cover huge sales deals. They publish bland PR for big brands. It’s time for something new.</p>
+<p>&nbsp;</p>
+<p><strong>WITHOUT FURTHER ADO</strong></p>
+<p><a title="Idea Magazine" href="http://readidea.com/"><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="image" src="/wp-content/uploads/2011/11/image10.png" alt="image" width="458" height="418" border="0" /></a></p>
+<p>I’d like to introduce <a title="Idea Magazine" href="http://readidea.com/" target="_blank" rel="noopener"><em>Idea Magazine</em></a>. <em>Idea Magazine</em> is a brand new, bi-monthly digital magazine by and for the tech scene of Ireland and Northern Ireland. We’ll be launching on <strong>December 8th</strong> with our first issue available online for free.</p>
+<p><span class="pullquote"><em>Idea Magazine</em> aims to highlight startups and technology created in Ireland and Northern Ireland, along with excellent design, educational programs and training, investment and business-related information of interest to the tech community</span>. Things like “Which accelerator program has the best terms”, “What should you know about patenting your software”, “Tips for increasing customer engagement in web apps”, “Which tech events are happening next month”, and much more will be covered in <em>Idea Magazine</em>.</p>
+<p>Together with the incredibly talented <a title="Stewart Curry on Twitter" href="http://twitter.com/irishstu">Stewart Curry</a> as Design Director, we have an excellent team working together to make sure we are covering interesting, relevant and useful topics for you, the tech community. If you have suggestions or things you’d like to see in future issues of <em>Idea Magazine</em>, please feel free to contact me at <a title="email martha" href="mailto:martha@readidea.com">martha [at] readidea.com</a>.</p>
+<p>&nbsp;</p>
+<p><strong>WHERE CAN I LEARN MORE?</strong></p>
+<p>If you’re interested in learning more, you can go to (the very lovely and responsive) <a href="http://readidea.com/">http://readidea.com/</a> &amp; sign up for our newsletter today or follow us on Twitter at <a title="@readidea on Twitter" href="http://twitter.com/readidea">@readidea</a>. Our launch is only a month away, so we’re busy getting our content and new platform ready for you.</p>
+<p>I’d love your feedback and suggestions any time &amp; look forward to creating an outstanding magazine for an outstanding community.</p>
+]]></content:encoded>
+							<wfw:commentRss>/a-new-idea/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">683</post-id>	</item>
+		<item>
+		<title>Visualizing Áras Election, Part Two</title>
+		<link>/visualizing-aras-election-part-two/</link>
+				<comments>/visualizing-aras-election-part-two/#respond</comments>
+				<pubDate>Thu, 20 Oct 2011 13:12:54 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[datavisualization]]></category>
+		<category><![CDATA[ireland]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/index.php/2011/10/visualizing-ras-election-part-two/</guid>
+				<description><![CDATA[I received some good feedback on additional things people thought might be interesting to look investigate regarding next week’s election. So today I’ve done two things: 1) Taken a brief look at media outlet perception of candidates based on published articles and 2) Re-examined the Irish twitter stream with a new sentiment engine to see [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>I received some good feedback on additional things people thought might be interesting to look investigate regarding next week’s election. So today I’ve done two things: 1) Taken a brief look at media outlet perception of candidates based on published articles and 2) Re-examined the Irish twitter stream with a new sentiment engine to see how the individual candidates stack up against each other.</p>
+<p>&nbsp;</p>
+<p><strong>NEWS SOURCE PERCEPTIONS</strong></p>
+<p>Once again using <a title="ScraperWiki" href="https://scraperwiki.com/" target="_blank">ScraperWiki</a>, I picked two different news sites to scrape for their election coverage. RTÉ and <em>The Irish Times</em> both make it a bit awkward to find all of their Áras election coverage in one place. On RTÉ, the best source was <a href="http://www.rte.ie/news/presidential-special-reports.html">http://www.rte.ie/news/presidential-special-reports.html</a>, but I’m not positive it’s comprehensive as it was a link I stumbled on to while digging around their site.&nbsp; For <em>The Irish Times</em>, I used a search function to pull up 100 articles containing the word “Aras.” </p>
+<p>The best site, which I ran out of time today to include but will add it later, is unsurprisingly TheJournal.ie as they have a nice tagging system. <span class="pullquote">You can simply visit <a href="http://www.thejournal.ie/topic/race-for-the-aras/">http://www.thejournal.ie/topic/race-for-the-aras/</a> for all of their great election coverage.</span></p>
+<p>Back to <em>The Irish Times</em> and RTÉ: using scrapers to comb through their HTML I pulled out article titles and descriptions to get a brief understanding of what tone comes through and who is talked about most. With more time, one could easily walk through all of the articles and grab and parse that text as well, but this is a basic exercise. Another tough thing about RTÉ’s coverage and what may limit me digging deeper there is that they have so much video coverage and I couldn’t seem to find any transcripts of video reports. Parsing audio into text from video reports is a whole other project!</p>
+<p><em>The Irish Times: </em></p>
+<p><img style="margin: 0px 0px 6px" title="The Irish Times election article word cloud" alt="The Irish Times election article word cloud" src="http://www-958.ibm.com/software/data/cognos/manyeyes/files/thumbnails/ba9bba4a-fae5-11e0-b674-000255111976.wm.png"></p>
+<p>RTÉ</p>
+<p><img style="margin: 0px 0px 6px" title="RTE election article word cloud" alt="RTE election article word cloud" src="http://www-958.ibm.com/software/data/cognos/manyeyes/files/thumbnails/54b0619a-fae5-11e0-b674-000255111976.wm.png"></p>
+<p>The data sets and visualizations are all linked on <a title="Martha Rotter on Many Eyes" href="http://www-958.ibm.com/software/data/cognos/manyeyes/users/Martha+M+Rotter" target="_blank">my Many Eyes page here</a> in case you’d like to do your own visualization of the data.</p>
+<p>&nbsp;</p>
+<p><strong>IMPROVED TWITTER SENTIMENT</strong></p>
+<p>In my <a title="Visualizing Aras Election Part One" href="/index.php/2011/10/visualizing-aras-election/" target="_blank">last related post</a>, I used <a title="twitrratr" href="http://twitrratr.com/" target="_blank">twitrratr</a> to do a very simple analysis of how people in Ireland were feeling about the election. However it is a very simple application and I wanted to expand on it, using a better sentiment algorithm.&nbsp; </p>
+<p><a title="R Documentation" href="http://www.r-project.org/" target="_blank">R</a> is a statistical computing and graphics generation language and tool. R allows very interesting and complex analysis of language and data. I used two R tools to help source and evaluate the Tweets.&nbsp; First I used <a title="twitteR : R based Twitter client" href="http://cran.r-project.org/web/packages/twitteR/" target="_blank">Jeff Gentry’s twitteR package</a> which has some very easy methods for searching twitter timelines. A search for tweets related to David Norris, for example, might look something like this: </p>
+<blockquote>
+<p><font color="#00ff00" size="2" face="Courier New">norris.tweets = searchTwitter(‘aras11 AND norris OR david OR SenDavidNorris’, n=1500)</font> </p>
+</blockquote>
+<p>where the words in quotes are my search terms and the n=1500 refers to how many tweets it should return. So I built queries like these to search for tweets related to the individual candidates.</p>
+<p>The next tool I used was an “opinion lexicon” by Hu &amp; Liu. If you’re not familiar with processing language, the easiest way to explain this is it’s a big dictionary with almost 7,000 words which are categorized as positive or negative. Words like “love” or “amazing” would be categorized as positive, and words like “hate” or “sucks” would be considered negative. Of course this doesn’t allow for sarcasm, so we have to assume that most people mean what they say. In the future maybe we’ll have to also search for a “sarcasm” hash tag and then reverse the word values!</p>
+<p>With the opinion lexicon, we can go through all of the tweets and score them depending on whether the words in the tweet are more positive or negative.</p>
+<p>Finally, we can plot the answers on a histogram as shown below. The diagram is a bar chart showing for each candidate, how many tweets were considered positive versus negative. We can see that Dana Scallon has relatively more negative tweets than the others, and that Michael Higgins has relatively more positive tweets than the others. Higgins also seems to have the widest variety, with tweets going up to a score of six and down to a negative five.</p>
+<p><img style="margin: 0px 0px 6px" title="Histogram of Irish Candidate Sentiment on Twitter" alt="Histogram of Irish Candidate Sentiment on Twitter" src="http://cl.ly/0J2u2235092S3W2e162r/Image_2011.10.20_13_52_31.png"></p>
+<p><em>*many thanks to Jeffrey Breen for his <a title="Jeffrey Breen :: slides from my R tutorial on Twitter text mining #rstats" href="http://jeffreybreen.wordpress.com/2011/07/04/twitter-text-mining-r-slides/" target="_blank">excellent slides on Twitter text mining</a> and for <a title="R tutorial code on github" href="https://github.com/jeffreybreen/twitter-sentiment-analysis-tutorial-201107" target="_blank">publishing the code</a> – very helpful!*</em></p>
+<p>&nbsp;</p>
+<p><strong>WHAT ELSE?</strong></p>
+<p>I’d like to go deeper into the actual published articles, which will take a bit more time but could provide some interesting results.&nbsp; I would also love to look at additional sources such as TheJournal.ie and <em>The Irish Independent</em>.&nbsp; As I have with the previous charts, I’ll continue to update these daily until the election and see if Twitter is able to make a good prediction about the final result.&nbsp; </p>
+<p>After the election I’ll also do a blog post on how to create your own data visualizations from public sources with easy tools that you don’t have to be a programmer to use.</p>
+]]></content:encoded>
+							<wfw:commentRss>/visualizing-aras-election-part-two/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">639</post-id>	</item>
+		<item>
+		<title>Visualizing Áras Election</title>
+		<link>/visualizing-aras-election/</link>
+				<comments>/visualizing-aras-election/#comments</comments>
+				<pubDate>Mon, 17 Oct 2011 13:59:25 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[datavisualization]]></category>
+		<category><![CDATA[ireland]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=597</guid>
+				<description><![CDATA[The Irish presidential election is just about a week away. As a non-citizen resident of Ireland, I can’t vote in this election (only local elections). But I still find it interesting so I took a look at some social media data on the topic to make some visualizations. These are not meant to be predictions, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><img style="background-image: none; border-right-width: 0px; margin: 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="(image from Wikipedia)" border="0" alt="(image from Wikipedia)" align="right" src="/wp-content/uploads/2011/10/image25.png" width="249" height="413">The Irish presidential election is just about a week away. As a non-citizen resident of Ireland, I can’t vote in this election (only local elections). But I still find it interesting so I took a look at some social media data on the topic to make some visualizations. These are not meant to be predictions, it’s just a bit of fun to see what people are thinking today in Ireland.</p>
+<p>I am using a tool called <a title="ScraperWiki" href="http://scraperwiki.com/" target="_blank">ScraperWiki</a> that I learned earlier this year at a Hacks and Hackers Day in Dublin. ScraperWiki lets you scrape data from various sources such as a PDF or in this case, Twitter. My scraper grabs any tweet mentioning aras, aras11 or president originating from Ireland.</p>
+<p>&nbsp;</p>
+<p><strong>JUST THE WORDS</strong></p>
+<p>We can use a tool like <a title="Many Eyes" href="http://www-958.ibm.com/software/data/cognos/manyeyes/" target="_blank">IBM’s Many Eyes</a> to visualize the most frequently referenced words in these tweets. The visualization below, embedded from Many Eyes, shows that Norris and Gallagher are probably the two most discussed politicians on Twitter.&nbsp; You can right click on the visualization to alter it, remove certain words (I removed things like “RT” and “QUOT” and “ARAS11” as they weren’t relevant), change colours, etc.</p>
+<p><em>*NOTE: Many Eyes is a Java tool, so you will need Java to interact with the data. If you can’t view the visualizations, please <a href="#screenshots">scroll to the bottom</a> where I have screenshots of the data instead* </em></p>
+<p><script type="text/javascript" src="http://www-958.ibm.com/me/visualizations/13eb224cfaba11e0a583000255111976/comments/13edf38cfaba11e0a583000255111976.js"></script></p>
+<p>&nbsp;</p>
+<p><strong>WHAT ABOUT ASSOCIATIONS?</strong></p>
+<p>More interesting than the individual words themselves, to me, are the associations they have. In other words, is one candidate’s name mentioned frequently in the context of other certain words or phrases?</p>
+<p>The Customized Word Tree, another tool from Many Eyes, allows you to upload a text and then enter specific words to find other terms associated with it. To use this interactive tool, simply type in a name like “Gallagher”, “Norris”, “Dana”, etc. into the Search textbox &amp; hit return. You’ll see a visualization of words and phrases most frequently associated with that candidate.</p>
+<p><em><font size="2">*NOTE: Many Eyes is a Java tool, so you will need Java to interact with the data. If you can’t view the visualizations, please <a href="#screenshots">scroll to the bottom</a> where I have screenshots of the data instead* </font></em></p>
+<p><script type="text/javascript" src="http://www-958.ibm.com/me/visualizations/93c7a57cfab911e0b520000255111976/comments/93d3bb8cfab911e0b520000255111976.js"></script></p>
+<p>&nbsp;</p>
+<p><strong>SENTIMENT</strong></p>
+<p>Does anyone care about sentiment analysis anymore? Sentiment analysis is trying to understand the general feeling, positive or negative, from a group given a topic. So if you did sentiment analysis on Twitter for the term “taxes”, you’d probably find most people associate that with negative feelings, frown emoticons, and an overall negative sentiment. Unless of course the government had announced huge tax refunds for everyone, in which case it would likely be overwhelmingly positive.</p>
+<p><a title="twitrratr" href="http://twitrratr.com/" target="_blank">twitrratr</a> is an example of a tool that does sentiment analysis given a topic. It’s as simple to use as Twitter search, but the results in this case aren’t incredibly useful.&nbsp; You can check the sentiment yourself easily by clicking here: <a href="http://twitrratr.com/search/aras11">http://twitrratr.com/search/aras11</a>.</p>
+<p><a title="twitrratr aras11 search" href="http://twitrratr.com/search/aras11" target="_blank"><img style="background-image: none; border-right-width: 0px; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="twitrratr" border="0" alt="twitrratr" src="/wp-content/uploads/2011/10/image26.png" width="468" height="543"></a></p>
+<p>&nbsp;</p>
+<p><strong>HOW TO CREATE YOUR OWN</strong></p>
+<p><span class="pullquote"><a title="ScraperWiki" href="https://scraperwiki.com/" target="_blank">ScraperWiki</a> is great because you can use a variety of programming languages and it has support for lots of different sources including PDFs which are notoriously hard to parse.</span></p>
+<p>I forked a basic Twitter scraper that looks for tweets containing keywords. You can see my scraper here: <a href="https://scraperwiki.com/scrapers/aras_election_data/">https://scraperwiki.com/scrapers/aras_election_data/</a>.&nbsp; The Twitter search API lets you use regular expressions, so I edited the keyword to be ‘aras OR aras11 OR president’.&nbsp; Searching for president could definitely bring up irrelevant tweets for this purpose, so I also added a geolocation query. The Twitter search API lets you use a latitude &amp; longitude followed by a radius to find tweets in a particular area. I added some very simple Python code to the scraper to allow it to handle geolocation queries.</p>
+<p>As you’re developing your scraper, you can run it every time you change something to make sure you are getting the results you expect. Once you’ve finished, you can schedule it to run daily, weekly, etc.&nbsp; If you get stuck, the ScraperWiki community is a great group of people, they have <a title="ScraperWiki Google Group" href="http://groups.google.com/group/scraperwiki" target="_blank">a very active Google Group</a> and <a title="ScraperWiki docs and tutorials" href="https://scraperwiki.com/docs/" target="_blank">growing documentation</a>.</p>
+<p>Once you have the data you need, you can export it as a SQLite database or a CSV file. There are plenty of tools you can use with this data. Many Eyes is a good one to start with as it’s very user friendly. If you’re into programming, there are many good JavaScript libraries and other tools you can use to manipulate the data.&nbsp; Just search online for things like “data visualization tools.”</p>
+<p>&nbsp;</p>
+<p><strong>MORE ON THIS</strong></p>
+<p>My scraper runs once a day, so I’ll be updating the interactive charts daily from now until October 26th when the election is held. If there’s other information you think would be useful or interesting to look at, related to the candidates or the upcoming election, please leave a comment and I’ll take a look.</p>
+<p>&nbsp;</p>
+<p><strong><a name="screenshots">S</a>CREENSHOTS FOR THOSE WHO CAN’T VIEW MANY EYES</strong></p>
+<p>Word Analysis:</p>
+<p><a href="/wp-content/uploads/2011/10/image27.png"><img style="background-image: none; border-right-width: 0px; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Many Eyes Word Cloud" border="0" alt="Many Eyes Word Cloud" src="/wp-content/uploads/2011/10/image27.png" width="487" height="270"></a></p>
+<p>&nbsp;</p>
+<p>Candidate Association Examples:</p>
+<p><a href="/wp-content/uploads/2011/10/image28.png"><img style="background-image: none; border-right-width: 0px; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Many Eyes Word Tree" border="0" alt="Many Eyes Word Tree" src="/wp-content/uploads/2011/10/image28.png" width="540" height="268"></a></p>
+<p><a href="/wp-content/uploads/2011/10/image29.png"><img style="background-image: none; border-right-width: 0px; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Many Eyes Word Tree" border="0" alt="Many Eyes Word Tree" src="/wp-content/uploads/2011/10/image29.png" width="540" height="254"></a></p>
+<p><a href="/wp-content/uploads/2011/10/image30.png"><img style="background-image: none; border-right-width: 0px; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Many Eyes Word Tree" border="0" alt="Many Eyes Word Tree" src="/wp-content/uploads/2011/10/image30.png" width="540" height="258"></a></p>
+]]></content:encoded>
+							<wfw:commentRss>/visualizing-aras-election/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">597</post-id>	</item>
+		<item>
+		<title>An Introduction to Treesaver</title>
+		<link>/an-introduction-to-treesaver/</link>
+				<comments>/an-introduction-to-treesaver/#comments</comments>
+				<pubDate>Tue, 20 Sep 2011 01:21:20 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Magazines]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[Training]]></category>
+		<category><![CDATA[treesaver]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=439</guid>
+				<description><![CDATA[In my Content Strategy Forum workshop, we created a short, online magazine called The CS Forum Times.&#160; The magazine used Treesaver to quickly layout the articles and images and make them work well on a variety of browsers and devices.&#160; This is an overview of how we built The CS Forum Times and how you [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><img style="background-image: none; border-right-width: 0px; margin: 5px 5px 5px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="The CS Forum Times" border="0" alt="The CS Forum Times" align="right" src="/wp-content/uploads/2011/09/image12.png" width="172" height="221">In my <a title="CS Forum Workshop Recap post" href="/cs-forum-2011-my-workshop-slides-content/" target="_blank">Content Strategy Forum workshop</a>, we created a short, online magazine called <em><a title="The CS Forum Times" href="https://martharotter.com/csforum/ts/index.html" target="_blank">The CS Forum Times</a>.&nbsp; </em>The magazine used <a title="treesaver JS" href="http://treesaverjs.com/" target="_blank">Treesaver</a> to quickly layout the articles and images and make them work well on a variety of browsers and devices.&nbsp; This is an overview of how we built <em>The CS Forum Times</em> and how you can do something similar very quickly and easily.&nbsp; The before and after files we used are <a title="CS Forum Workshop Files" href="https://martharotter.com/csforum/" target="_blank">located here</a> for you to download.</p>
+<p>&nbsp;</p>
+<p><em>To create your own online publication, the simple steps are as follows: </em></p>
+<ol>
+<li>1) Source your content
+<li>2) Source your art/imagery
+<li>3) Create a new HTML file for each article &amp; paste in the content
+<li>4) Style using an HTML editor
+<li>5) Resize images if necessary &amp; add in image tags
+<li>6) Edit the TOC file &amp; make sure you’ve included each article
+<li>7) Upload to your server</li>
+</ol>
+<p>&nbsp;</p>
+<p><strong>1) SOURCE YOUR CONTENT</strong></p>
+<p>With <em>The CS Forum Times, </em>I chose published articles from well-known speakers and organizers of CS Forum 2011.&nbsp; Using content that is on the web makes it much easier as converting content from a PDF or Word document into HTML can be a pain. </p>
+<p><em><font size="2"><strong>NOTE</strong>: As this is just a short, proof-of-concept tutorial, I am not covering rights management, copyright, asset management, etc.&nbsp; It is <u>your</u> responsibility to make sure you have the right permissions to reuse and publish material that is not yours or not original.</font></em></p>
+<p>&nbsp;</p>
+<p><strong>2) SOURCE YOUR ART/IMAGERY</strong></p>
+<p>I was lucky with the articles I found in that most of them already had relevant artwork in the articles.&nbsp; For a couple of the longer articles, I also added things like company and conference logos as well as headshots.</p>
+<p>I wanted to have a cover, but it may or may not be necessary for your title.&nbsp; I did this simply by creating a few full-page sized images in an image editor using logos and text from the event.</p>
+<p>&nbsp;</p>
+<p><strong>3) CREATE A NEW HTML FILE FOR EACH ARTICLE</strong></p>
+<p>Now here I’ve helped you out by creating a small boilerplate zip file.&nbsp; Inside the <a title="WorkshopBegin zip file" href="https://martharotter.com/csforum/WorkshopBegin.zip" target="_blank">WorkshopBegin</a> folder you’ll find everything you need for a simple Treesaver magazine.&nbsp; Index.html is a sample cover page.&nbsp; Page1.html is a sample article page.</p>
+<p>The best thing to do is duplicate page1.html for each article you have.&nbsp; So if you have four articles, copy it three times and rename them so you have page1.html, page2.html, etc. Or use better names that make more sense to you.&nbsp; </p>
+<p>Inside page1.html I’ve added two comment tags that look like this: <br /><font color="#9bbb59" face="Courier New">&lt;!&#8211; PASTE CONTENT BELOW THIS LINE –&gt;<br /></font><font color="#9bbb59" face="Courier New">&lt;!&#8211; PASTE CONTENT ABOVE THIS LINE –&gt;<br /></font>Inside those two lines is where you want to paste the content of the article.&nbsp; What are you actually pasting? Lets say we’re including my last blog post: <a href="/cs-forum-2011-my-workshop-slides-content/">/cs-forum-2011-my-workshop-slides-content/</a>.&nbsp; I can copy &amp; paste from the browser, starting with “Last week…” and ending with “…excellent places to start.”&nbsp; Alternately, I can do a “View page source” from my browser to take all the HTML styling with me and save me some time later.&nbsp; So instead I would be starting with whatever comes after <font color="#9bbb59" face="Courier New">“&lt;div class=”entry-content”&gt;</font>”, which is how WordPress tells you the blog post text is starting.&nbsp; That would have me copying starting with “&lt;p&gt;Last week I …” and ending with “…&lt;/a&gt; are excellent places to start.&lt;/p&gt;”</p>
+<p>&nbsp;</p>
+<p><strong>4) STYLE USING AN HTML EDITOR</strong></p>
+<p>If you copied HTML content including the tags, you may not have to style it.&nbsp; However it’s more likely that you’ll want to do a bit of styling to create paragraph breaks, make headings stand out, etc.&nbsp; If you use any HTML editor such as <a title="CoffeeCup HTML Editor" href="http://www.coffeecup.com/" target="_blank">CoffeeCup</a>, <a title="BBEdit HTML editor" href="http://www.barebones.com/products/bbedit/" target="_blank">BBEdit</a> or something similar, then go ahead and open your new HTML files there and give them some style.&nbsp; Take it slow at first and check frequently to make sure it’s looking the way you’d expect.</p>
+<p>Due to browser security restrictions, the files will appear most accurate if you view Treesaver content running in a local web server.&nbsp; A free app like <a title="XAMPP install page" href="http://www.apachefriends.org/en/xampp.html" target="_blank">XAMPP</a> (works on Windows, OS X, Linux) is easy-to-use and adequate for viewing the files on a local server and checking to make sure they look and work right.</p>
+<p>&nbsp;</p>
+<p><strong>5) RESIZE IMAGES IF NECESSARY AND EDIT IMAGE TAGS</strong></p>
+<p>As you may notice if you resize your browser, Treesaver will adjust the image used for your content.&nbsp; This has some great benefits, including mobile devices will not try to download an enormous image and then resize it and differently sized images don’t have to be of the same thing.</p>
+<p>But those benefits do mean that you will need to resize and save your images at a few different sizes.&nbsp; I’d recommend going for at least two, one for a mobile device (width of 280 or so) and one for a desktop browser (width of 600-ish), but you can create more depending on your style.&nbsp; For the cover page, as an example, I created three to make sure the full-size image fit well for the viewer.</p>
+<p>Any image editor will work fine, you just need to resize the image (keep the proportions intact) and save it with a different name.&nbsp; I typically add the width to the end of the image file name to keep them straight.&nbsp; So if my initial image was headshot.jpg, I resize and end up with headshot-280.jpg &amp; headshot-600.jpg.</p>
+<p>Editing the image tags can be tricky so be careful.&nbsp; Each set of resized images must be enclosed in a &lt;figure&gt; tag.&nbsp;&nbsp; The image tags themselves should have their height &amp; weight attributes set.&nbsp; So as an example, the two images above might look like this at the end of the html file: </p>
+<blockquote>
+<p><font color="#9bbb59" face="Courier New">&lt;figure&gt;<br />&nbsp;&nbsp;&nbsp; &lt;img data-sizes=&#8221;single&#8221; src=&#8221;</font><a href="https://martharotter.com/csforum/ts/img/01-ala-280.jpg"><font color="#9bbb59" face="Courier New">img/headshot-200.jpg</font></a><font color="#9bbb59" face="Courier New">&#8220;<br />width=&#8221;280&#8243; height=&#8221;130&#8243; /&gt;<br />&nbsp;&nbsp;&nbsp; &lt;img data-sizes=&#8221;double&#8221; data-src=&#8221;headshot-600.jpg&#8221;<br />width=&#8221;600&#8243; height=&#8221;280&#8243; /&gt;<br />&lt;/figure&gt;</font></p>
+</blockquote>
+<p>The image tags are to be placed in the corresponding article’s HTML file.</p>
+<p>&nbsp;</p>
+<p><strong>6) EDIT THE TOC FILE</strong></p>
+<p>The last thing you need to do before you upload is edit the Table of Contents file.&nbsp; The TOC file specifies the order of the articles and which ones are included so it’s very important.</p>
+<p>For each article to be included, you’ll need a hyperlink to the article with the attribute “itemprop=url”.&nbsp; A typical article might look like this: </p>
+<blockquote>
+<p align="left"><font color="#9bbb59" face="Courier New">&lt;div class=&#8221;keeptogether&#8221; itemscope&gt;<br />&lt;h5 itemprop=&#8221;title&#8221;&gt;&lt;a itemprop=&#8221;url&#8221; href=&#8221;</font><a href="https://martharotter.com/csforum/ts/01-jonathankahn.html"><font color="#9bbb59" face="Courier New">article1.html</font></a><font color="#9bbb59" face="Courier New">&#8220;&gt;My First Article&lt;/a&gt;&lt;/h5&gt;<br />&lt;/div&gt;</font></p>
+</blockquote>
+<p>The TOC file can get more complex including things like advertisements, an actual page for the TOC (the one included keeps itself hidden) with titles, bylines &amp; thumbnails, etc.&nbsp; We’re keeping it as a simple list of article titles here.</p>
+<p>&nbsp;</p>
+<p><strong>7) UPLOAD TO SERVER</strong></p>
+<p>Once you have everything ready to go and you’ve checked it out in XAMPP or another local file server, you’re ready to upload everything onto your server.&nbsp; You’ll need to include everything that was in the .zip file including resources.html, style.css and your edited article and TOC files.&nbsp; You’ll also need the image files you resized, whether they’re in the same folder or a subfolder.&nbsp; Upload all of that to your webserver and navigate to it in a browser.&nbsp; Voila!&nbsp; Your brand new publication is online and live.</p>
+<p>&nbsp;</p>
+<p><strong>I REALLY MEANT “BRIEF OVERVIEW”</strong></p>
+<p><a href="/wp-content/uploads/2011/09/image13.png"><img style="background-image: none; border-right-width: 0px; margin: 0px 10px 10px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="treesaver logo" border="0" alt="treesaver logo" align="left" src="/wp-content/uploads/2011/09/image_thumb5.png" width="159" height="52"></a>Yes, this is a very short overview.&nbsp; <span class="pullquote"><a title="Treesaver JS website" href="http://treesaverjs.com/" target="_blank">Treesaver</a> is quite powerful in terms of what it can do and I’ve tried to minimize as much complexity as I could to make it a fast tool to get started with.</span> To learn more, check out the <a title="Treesaver on Google Groups" href="http://groups.google.com/group/treesaverjs" target="_blank">discussion on Google Groups</a> and walk through the <a title="GitHub Tutorial of Treesaver" href="https://github.com/Treesaver/treesaver/wiki/Walkthrough" target="_blank">tutorial on GitHub</a>.&nbsp; To do more with Treesaver you’ll need to start to understand how the resources.html &amp; style.css files depend on each other to define the layout and customize content further.&nbsp; There’s a bit about this in the GitHub tutorial, but it takes some time to get your head around it.</p>
+<p>&nbsp;</p>
+<p><strong>WHERE ARE THE TOOLS?</strong></p>
+<p>I know, I know, cut-and-paste is not a valid tool or method of publishing.&nbsp; Treesaver is new and still building its community.&nbsp; I hear there are folks working on plug-ins for a few popular CMSs like Expression Engine, WordPress and Drupal.&nbsp; Your best bet for the latest news on those is the Google Group.&nbsp; If you are working in an organization with a custom CMS, your tech team can look at Treesaver to see if it’s an option for them to build a plug-in for it.</p>
+<p>&nbsp;</p>
+<p><strong>SUMMARY</strong></p>
+<p>If you give it a shot, please be sure to let me know how it goes.&nbsp; If you get stuck or confused, e-mail me or check the Google Group discussions for more information.&nbsp; If there are additional pieces that are tricky or could use some more clear instructions, let me know and I’ll do a more in-depth piece on specific sections.&nbsp; Good luck and publish away.</p>
+]]></content:encoded>
+							<wfw:commentRss>/an-introduction-to-treesaver/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">439</post-id>	</item>
+		<item>
+		<title>Free eBooks, Audiobooks and More, Courtesy of Your Local Library</title>
+		<link>/free-ebooks-audiobooks-and-more-courtesy-of-your-local-library/</link>
+				<comments>/free-ebooks-audiobooks-and-more-courtesy-of-your-local-library/#respond</comments>
+				<pubDate>Mon, 12 Sep 2011 12:16:37 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Books]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/index.php/2011/09/free-ebooks-audiobooks-and-more-courtesy-of-your-local-library/</guid>
+				<description><![CDATA[I’ve explained how to do this to so many people that I thought it was worth writing a blog post about it. For several months, I’ve been enjoying downloading free audio and eBooks from the Dun Laoghaire library website.&#160; A friend of mine told me about this in the US earlier this year, and I [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>I’ve explained how to do this to so many people that I thought it was worth writing a blog post about it. For several months, I’ve been enjoying downloading free audio and eBooks from the Dun Laoghaire library website.&nbsp; A friend of mine told me about this in the US earlier this year, and I was incredibly jealous.&nbsp; I was delighted to come back to Dublin and find that my local library has this capability also.</p>
+<p>&nbsp;</p>
+<p><strong>HOW DOES IT WORK?</strong></p>
+<p>On the <a title="DLR Library Website" href="http://www.dlrcoco.ie/library/" target="_blank">Dun Laoghaire-Rathdown County Council library page</a>, you can see links to a few different services: Clipper DL, which are audiobooks, and Overdrive, which are audiobooks as well as eBooks.&nbsp; Without a membership, you can still browse a bit to see what the selection looks like.</p>
+<p><a href="/wp-content/uploads/2011/09/image1.png"><img style="background-image: none; border-right-width: 0px; margin: 0px 0px 6px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="DLR Library Website" border="0" alt="DLR Library Website" src="/wp-content/uploads/2011/09/image_thumb1.png" width="512" height="352"></a></p>
+<p>For Clipper DL, you’ll need to log in to the library site with your library card number &amp; PIN first, then get redirected to the Clipper DL site where you’ll need to create a one-time user ID &amp; password.&nbsp; To download content, you’ll have to download their Download Manager, which works on both Mac and PC.&nbsp; As you’re installing that, you can decide if you are going to listen to the books via Windows Media (if you’re on a PC) or use iTunes to put it on an iPod or other Apple device.&nbsp; It might sound painful but the whole process for your first download will take less than three minutes to install &amp; set up, and after that it will be much quicker.</p>
+<p><a href="/wp-content/uploads/2011/09/image2.png"><img style="background-image: none; border-right-width: 0px; margin: 0px auto 6px; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Clipper DL Download Manager on PC" border="0" alt="Clipper DL Download Manager on PC" src="/wp-content/uploads/2011/09/image_thumb2.png" width="467" height="327"></a></p>
+<p>Each audiobook you download you can keep for 21 days after which the DRM expires it and you have to renew if you’re not finished listening to it.&nbsp; Clipper DL has a catalogue of around 600 titles, and each month they add five new ones, so the selection is a bit small.&nbsp; It’s definitely better for fiction than non-fiction titles.</p>
+<p>&nbsp;</p>
+<p>Overdrive has a bit better selection (though neither one is Amazon, so you usually won’t get cutting-edge, brand new or niche topic books).&nbsp; You can browse through audiobooks, eBooks, and even music and video.&nbsp; The audiobooks have samples, which is great as the reader’s voice matters a great deal in audiobooks.&nbsp; Most audiobooks can be downloaded to Mac, PC, burned to a CD, or downloaded as WMA or MP3 for various portable audio devices.</p>
+<p><a href="/wp-content/uploads/2011/09/image3.png"><img style="background-image: none; border-right-width: 0px; margin: 0px auto 6px; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Overdrive Download Options" border="0" alt="Overdrive Download Options" src="/wp-content/uploads/2011/09/image_thumb3.png" width="453" height="308"></a></p>
+<p>Similarly to Clipper DL, Overdrive gives you a checkout of 21 days for most downloads, with the exception of music and video which are 14 days maximum.&nbsp; One of the things I love about Overdrive, though, is that there’s a native iPad app which lets you download, view and listen to eBooks and audiobooks you’ve checked out.&nbsp; The process is a little clunky but it works and it’s nice to be able to access your checked out books anywhere.</p>
+<p align="center"><a href="/wp-content/uploads/2011/09/Photo-12-09-2011-12-50-11.png"><img style="background-image: none; border-right-width: 0px; margin: 0px 0px 6px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="OverDrive App Splash Screen" border="0" alt="OverDrive App Splash Screen" src="/wp-content/uploads/2011/09/Photo-12-09-2011-12-50-11_thumb.png" width="248" height="336"></a>&nbsp;&nbsp;&nbsp; <a href="/wp-content/uploads/2011/09/Photo-12-09-2011-13-04-37.png"><img style="background-image: none; border-right-width: 0px; margin: 0px 0px 6px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="OverDrive App Contents" border="0" alt="OverDrive App Contents" src="/wp-content/uploads/2011/09/Photo-12-09-2011-13-04-37_thumb.png" width="248" height="336"></a></p>
+<p>With both of these services, there are limited digital copies at a time due to licensing restrictions, so you can request books that are checked out.&nbsp; You’ll get an e-mail notification when the book is returned or has expired and then it’s held for you for three days to go to the site &amp; check it out.</p>
+<p>&nbsp;</p>
+<p><strong>AVAILABILITY</strong></p>
+<p>I don’t know if every library in Ireland has this capability or if Dun Laoghaire-Rathdown is the only one, <span class="pullquote">but for the amount of free content, it’s worth investigating your local library to see if they offer access to this</span> or similar content.&nbsp; It’s such an amazing resource.&nbsp; I’m embarrassed to say I was a little shocked at how forward-thinking this library system is to offer these services but also things like language lessons, the Dictionary of Irish Biography, and many other interesting and useful resources.&nbsp; So if you are spending a lot of money on eBooks or audiobooks, it’s definitely worth your time to go find your local library’s website and take a look.</p>
+]]></content:encoded>
+							<wfw:commentRss>/free-ebooks-audiobooks-and-more-courtesy-of-your-local-library/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">378</post-id>	</item>
+		<item>
+		<title>Fun With Data &#038; Goal-Setting</title>
+		<link>/fun-with-data-goal-setting/</link>
+				<comments>/fun-with-data-goal-setting/#comments</comments>
+				<pubDate>Sat, 27 Aug 2011 00:50:47 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[datavisualization]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=213</guid>
+				<description><![CDATA[I’m working on a small project which involves personal data tracking, so I’ve been doing a bit of user research on people who set goals and track their progress towards them. 43Things is a popular and easy-to-use site for setting goals and recording your progress, and I’ve enjoyed using it in the past myself.&#160; I [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>I’m working on a small project which involves personal data tracking, so I’ve been doing a bit of user research on people who set goals and track their progress towards them.</p>
+<p><img style="background-image: none; border-right-width: 0px; margin: 0px auto 6px; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/wp-content/uploads/2011/08/image15.png" width="544" height="253"></p>
+<p><a title="43Things.com" href="http://www.43things.com/" target="_blank">43Things</a> is a popular and easy-to-use site for setting goals and recording your progress, and I’ve enjoyed using it in the past myself.&nbsp; I figured they might have some useful information on what types of goals people are setting and tracking today as well as some predictors for success.</p>
+<p>On their <a title="43Things Zeitgeist" href="http://www.43things.com/zeitgeist/goals" target="_blank">“Zeitgeist” page</a>, 43Things aggregates some interesting lists from member data such as all-time most popular goals (“lose weight” is the top goal by far), new goals (“Become the next Frank Sinatra” was on there as I was writing this), popular goals today, and more.</p>
+<p>I took the list of top 100 all-time goals and list of top 100 achieved goals and merged them to see where the overlaps are, where the gaps are, and if there is a correlation between popular goals set and popular goals achieved.&nbsp; I found some interesting things.</p>
+<p>&nbsp;</p>
+<p><strong>THINGS PEOPLE ACHIEVE: </strong></p>
+<p><span class="pullquote">If you regularly set personal or professional goals for yourself, it won’t surprise you to learn that the goals with the highest number of achievers are generally measurable.</span> It’s probable that no one marked off having achieved “Get in shape” or “Be more confident” because they&#8217;re hard to quantify. “Lose weight” is a bad goal because unless you give yourself a bit more guidance, it is difficult to say when it’s accomplished.&nbsp; “Lose ten pounds in three months by decreasing my soda and snacks intake and working out three times a week” is definitely more wordy, but it’s also more concrete and has a higher likelihood of success.</p>
+<p>I won’t try to argue if the top achieved goal, “Fall in love”, is quantifiable, but most of the top achieved goals are, in fact, very measurable.</p>
+<div id="containerSetAchieved" style="width: 800px; height: 400px; margin: 0 auto"></div>
+<p>&nbsp;</p>
+<p><strong>THINGS PEOPLE IDEALLY WANT TO DO BUT DON’T: </strong></p>
+<p>The next interesting thing is the gaps where lots of people are setting goals but no one seems to be achieving them. Some of these are, as above, not so measurable.&nbsp; But others are more along the lines of “things I’d like to say I did, but I don’t have the time or the passion.”&nbsp; There are quite a few language learning goals in this category, as well as things that require a large commitment of time such as running a marathon, traveling the world or writing a novel.</p>
+<div id="containerSetNotAchieved" style="width: 800px; height: 600px; margin: 0 auto"></div>
+<p><strong>THINGS PEOPLE DO WITHOUT EXPLICITLY SETTING A GOAL: </strong></p>
+<p>Have you ever written a to-do list, and then thrown an item or two on there that you’ve already finished? Just to make you have some feeling of accomplishment? I have, especially if the day’s task list looks endless. The last interesting category I noticed seemed to be these things. Things people did without realizing it was a goal they wanted to achieve. Graduating from school, getting a passport, donating blood, doing ten full push-ups all fall into this category.&nbsp; They’re often not the types of goals people think they need to be strategic to achieve, but that&#8217;s not to say they&#8217;re any easier than the other goals.</p>
+<div id="containerAchievedNotSet" style="width: 800px; height: 400px; margin: 0 auto"></div>
+<p><strong>CREATING THE CHARTS:</strong></p>
+<p>I used a JavaScript charting library called <a title="Highcharts JS" href="http://www.highcharts.com/" target="_blank">Highcharts</a>. Highcharts is incredibly simple to get up and running, and they have a larger variety of chart types than many other charting packages, including stacked bar charts which I wanted to use to show some of the gaps in certain goals. 43Things actually has an API you can use to pull this type of information dynamically, so it would be possible to create a dynamic version of these goal numbers quite easily to do something interesting like track increases or decreases of certain goals over the course of time or with respect to current events (e.g., there are probably more people with the goals of “Get out of debt” and “Pay off mortgage” today versus five years ago!).</p>
+<p>&nbsp;</p>
+<p><strong>[UPDATE-30/8/2011]BLOG POST FROM 43THINGS:</strong></p>
+<p>The creators of 43Things.com, The Robot Co-op, featured my blog post on their&nbsp; excellent blog about 43Things &amp; the other projects they build.&nbsp; You can read the post here: <a title="Robot Co-op Blog" href="http://blog.robotcoop.com/2011/08/30/fun-with-43-things-data/" target="_blank">http://blog.robotcoop.com/2011/08/30/fun-with-43-things-data/</a>.&nbsp; Thanks for taking a look, Robot Co-op, and keep up the great work!</p>
+<p>&nbsp;</p>
+<p><strong>[UPDATE-27/8/2011]ALTERNATE VIEWING OF INFORMATION: </strong></p>
+<p>It was suggested that since Highcharts doesn’t work in some mobile browsers, I include an alternate form of viewing the data, so I’ve added the images below in case that helps.&nbsp; Thanks for the great suggestion.</p>
+<p>&nbsp;</p>
+<p><a href="/wp-content/uploads/2011/08/image18.png"><img style="background-image: none; border-right-width: 0px; margin: 0px 0px 6px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Most Popular Set And Achieved Goals" border="0" alt="Most Popular Set And Achieved Goals" src="/wp-content/uploads/2011/08/image_thumb.png" width="536" height="348"></a></p>
+<p>&nbsp;</p>
+<p><a title="Goals Set Not Achieved Image" href="/wp-content/uploads/2011/08/image16.png" target="_blank"><img style="background-image: none; border-right-width: 0px; margin: 0px 0px 6px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Top Goals Set But Not Achieved" border="0" alt="Top Goals Set But Not Achieved" src="/wp-content/uploads/2011/08/image16.png" width="540" height="433"></a></p>
+<p>&nbsp;</p>
+<p><a title="Goals Achieved Not Set" href="/wp-content/uploads/2011/08/image17.png" target="_blank"><img style="background-image: none; border-right-width: 0px; margin: 0px 0px 6px; padding-left: 0px; padding-right: 0px; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" border="0" alt="" src="/blog/wp-content/uploads/2011/08/image17.png" width="548" height="316"></a></p>
+]]></content:encoded>
+							<wfw:commentRss>/fun-with-data-goal-setting/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">213</post-id>	</item>
+	</channel>
+</rss>

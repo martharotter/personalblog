@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Martha Rotter</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Wed, 25 Jul 2018 09:39:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+<site xmlns="com-wordpress:feed-additions:1">144031741</site>	<item>
+		<title>Nevertheless, she coded</title>
+		<link>/nevertheless-she-coded/</link>
+				<comments>/nevertheless-she-coded/#respond</comments>
+				<pubDate>Wed, 14 Mar 2018 13:56:32 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Technology]]></category>
+
+		<guid isPermaLink="false">/?p=994</guid>
+				<description><![CDATA[I rarely write anymore about &#8220;women in tech&#8221; types of things, but one of my colleagues mentioned an initiative for #SheCoded, and I really loved the coding journeys and stories. So I decided to participate, too. Something that comes to mind when I think about why these stories are important might be less relevant today [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>I rarely write anymore about &#8220;women in tech&#8221; types of things, but one of my colleagues mentioned an <a href="https://dev.to/jess/everyone-please-join-us-for-shecoded-2018--56l2">initiative for #SheCoded</a>, and I really loved the coding journeys and stories. So <a href="https://dev.to/martharotter/nevertheless-martha-rotter-coded--26nk">I decided to participate, too</a>.</p>
+<p>Something that comes to mind when I think about why these stories are important might be less relevant today in my circles. But maybe it&#8217;s still something that affects people in smaller or more sheltered communities. I recognize that I was very lucky to go away to school and to be in a place where I had the freedom to take random classes that sounded interesting to me, but even so I might still have missed my path.</p>
+<p>When I got to college and took an actual C programming course for the first time (not just messing around on the command line or building HyperCard stacks), an explosion went off in my head. All I wanted to do was be in that computer lab &amp; learn more. Suddenly I felt maybe everyone telling me all my life I wasn&#8217;t creative was wrong! Here I could be creative and make things I cared about. I never left the computer lab without having done something new. It was the greatest environment I never knew.</p>
+<p>But when I tried to think about how to do this for the rest of my life, I was stumped. My parents didn&#8217;t use computers for work. I didn&#8217;t know anything about software jobs. What could I actually do with this? Luckily I had taken a part-time job in the university&#8217;s career center where I had time to read up on the different paths for someone who studied computer science. I was convinced that this, not the business school (where I had already declared my major of international business), was where my future was.</p>
+<p>Calling my parents to tell them that I was going to switch majors after only a few weeks of college was a surprise for both me and them. They panicked because they, like me, didn&#8217;t know the first thing about these types of careers. They thought it was a fad and who would take me seriously anyway. You love math! We all know you should be an accountant! Please don&#8217;t drop out of the business school and end up moving back home when you can&#8217;t get a job!</p>
+<p>I figured out a way to do both and graduated in five years with both computer science and international business degrees. Along the way, I got programming internships and part-time jobs, and each time my parents shrugged and told me best of luck. When I graduated and moved from Missouri to Seattle to start my new job at Microsoft, I think it finally sunk in that this wasn&#8217;t going to be a fad.</p>
+<p>Like I said above, I think this is less of a barrier for young people today. I doubt students are being talked out of careers in computer science because their family still thinks it&#8217;s a fad or not a safe job market. But here in Ireland I have met students with high standardized test scores whose parents convince them to go to med school, not engineering school, because it&#8217;s a &#8220;better future.&#8221; So I think it is very important to be able to explore career paths, understand options, and read stories about how people got to where they are today.</p>
+<p>Thank you everyone else who participated and shared your stories &#8211; you may be helping to change someone&#8217;s future.</p>
+<h6 style="text-align: right;"><em> image courtesy of <a href="http://www.flickr.com/photos/contusion">http://www.flickr.com/photos/contusion</a></em></h6>
+]]></content:encoded>
+							<wfw:commentRss>/nevertheless-she-coded/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">994</post-id>	</item>
+		<item>
+		<title>Books for Startup Founders</title>
+		<link>/books-for-startup-founders/</link>
+				<comments>/books-for-startup-founders/#respond</comments>
+				<pubDate>Sat, 04 Oct 2014 04:42:12 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[startuplife]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=883</guid>
+				<description><![CDATA[Building a startup means learning how to do a lot of things you have never done. Things that are hard (scaling a product). Things that turn out to be really fun (talking to customers). Things that are tedious (filing financial reports, getting people to agree to and sign legal documents). Things you may never have [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Building a startup means learning how to do a lot of things you have never done. Things that are hard (scaling a product). Things that turn out to be really fun (talking to customers). Things that are tedious (filing financial reports, getting people to agree to and sign legal documents). Things you may never have imagined you&#8217;d ever have to do (move a company internationally). Lots of other things that you forget about because in the meantime you&#8217;re developing a product, fixing bugs, selling, doing customer support, blogging, talking to investors, and nine million other things that have to get done on a daily basis.</p>
+<p>Not surprisingly, no one is an expert in all of these things immediately after creating a company for the first time. While I have been <a title="On Rediscovering Fiction" href="http://martharotter.com/blog/index.php/2014/09/rediscovering-fiction/" target="_blank" rel="noopener">reading a lot of great fiction lately</a> (good for clearing your head and helping you think creatively &#8211; another thing on your to-do list!), I have learned a lot about building and running <a title="Woopie :: Write Only Once, Publish It Everywhere" href="http://woop.ie/" target="_blank" rel="noopener">Woopie</a> from the books below, several of which I wish I would have read before I had even considered starting a company.</p>
+<p>&nbsp;</p>
+<p><strong>BEFORE YOU GET STARTED</strong></p>
+<p>There&#8217;s a lot of pressure in startup land to &#8220;just get started!&#8221; &#8220;Get it out there!&#8221; &#8220;Quit your job!&#8221; &#8220;What do you have to lose?!&#8221; The tough reality is that not everyone has thick enough skin or the determination to create a company, especially a high-growth startup. These books will help you figure that out. If you&#8217;re still convinced you have a great business idea and you want to make it happen after reading these, go for it. If reading them has you in the fetal position clutching your 401k with a death grip, you might want to wait a bit.</p>
+<ul>
+<li><a title="The Founder's Dilemmas by Noam Wasserman" href="https://www.goodreads.com/book/show/13234710-the-founder-s-dilemmas" target="_blank" rel="noopener">The Founder&#8217;s Dilemmas</a> by Noam WassermanMan I wish I had been introduced to this book four years ago, it would have saved me a lot of money and stress. Wasserman has been studying startups that succeed and fail for years. He has smart advice about how to build a team, structure equity and set up a company. If you don&#8217;t read this before setting up your company, chances are you&#8217;ll have to spend money to fix your company&#8217;s structure later.</li>
+<li><a title="Zero to One by Peter Thiel and Blake Masters" href="https://www.goodreads.com/book/show/18050143-zero-to-one" target="_blank" rel="noopener">Zero to One</a> by Peter Thiel &amp; Blake MastersA lot of companies get confused when they can&#8217;t get funding. Thiel describes the difference between an okay business idea and a VC-fundable company. This book will force you to think about whether you want to focus on a huge problem like the Googles, Facebooks and Microsofts did in their infancies, or you want to build a stable business around an existing market need (note: both are totally fine choices! But knowing which path you want will change a lot about how your company comes to be.).</li>
+<li><a title="The Hard Thing About Hard Things by Ben Horowitz" href="https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things" target="_blank" rel="noopener">The Hard Thing About Hard Things</a> by Ben HorowitzThis book makes even my toughest days seem like a much smaller problem. Horowitz has built large companies &amp; huge, loyal teams and carried them through incredibly difficult times. You will not only learn a lot from this book, but it will be helpful for those dark days because you&#8217;ll realize how much worse your problems could be.</li>
+<li>All of <a title="Paul Graham's Essays" href="http://www.paulgraham.com/articles.html" target="_blank" rel="noopener">Paul Graham&#8217;s essays</a>, but especially this one:  <a title="Before the Startup" href="http://www.paulgraham.com/before.html" target="_blank" rel="noopener">http://www.paulgraham.com/before.html</a>There are <a title="Quora - Paul Graham essays" href="https://www.quora.com/What-are-Paul-Grahams-best-essays-and-why" target="_blank" rel="noopener">entire</a> <a title="Paul Graham essays on Quora" href="https://www.quora.com/Why-do-entrepreneurs-like-essays-by-Paul-Graham" target="_blank" rel="noopener">quora</a> <a title="Paul Graham essays on Quora" href="https://www.quora.com/Are-Paul-Grahams-essays-on-startups-outdated" target="_blank" rel="noopener">threads</a> on which of Paul&#8217;s essays are most indispensible, and I find myself going back to them again and again to remind myself and reality-check myself. Start, What Startups are Really Like, How not to Die are all classics to me, and reminders of what it actually takes to build a product customers love.</li>
+<li><a title="Delivering Happiness by Tony Hsieh" href="https://www.goodreads.com/book/show/6828896-delivering-happiness" target="_blank" rel="noopener">Delivering Happiness</a> by Tony HsiehWhatever about the problems that Startup City is having right now, this is a great book and will tell you a lot about building a company and a culture that make a difference. Tony candidly discusses his mistakes and lessons in the companies he built, and there is a lot to learn from this book. I found it really inspiring.</li>
+<li><a title="Venture Deals by Brad Feld and Jason Mendelson" href="https://www.goodreads.com/book/show/11865558-venture-deals" target="_blank" rel="noopener">Venture Deals</a> by Brad Feld and Jason MendelsonDon&#8217;t talk to any investors, whether they&#8217;re in an accelerator, an angel, a VC firm, whoever &#8211; until you&#8217;ve read this book. It explains everything about funding companies, how people will try to screw you over, and how to set yourself up to be an investable company.</li>
+</ul>
+<p>Any books you wish you had read before you started working in a startup?</p>
+]]></content:encoded>
+							<wfw:commentRss>/books-for-startup-founders/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">883</post-id>	</item>
+		<item>
+		<title>On Rediscovering Fiction</title>
+		<link>/rediscovering-fiction/</link>
+				<comments>/rediscovering-fiction/#respond</comments>
+				<pubDate>Sun, 21 Sep 2014 18:01:43 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Technology]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=870</guid>
+				<description><![CDATA[In the last nine months, I’ve read more fiction books than I collectively have for the previous five years. How did this happen? I blame one little app. “I’m not really a ‘fiction reader’,” I remember telling Susannah and Niree, the two women who built Connu. I explained why I would not be their target market: [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>In the last nine months, I’ve read more fiction books than I collectively have for the previous five years. How did this happen? I blame one little app.</p>
+<p>“I’m not really a ‘fiction reader’,” I remember telling Susannah and Niree, the two women who built Connu. I explained why I would not be their target market: “I’m mostly into nerdy programming books &amp; reading stuff I can apply, like business non-fiction.” But we were friends and shared an office, so I installed the app to dutifully test it out.</p>
+<p><a title="Connu" href="http://connu.co/" target="_blank" rel="noopener">Connu</a> is a short fiction mobile app, designed to deliver “commute-length” stories to you, in written and audio format, a few times a week. The authors are mostly new or unknown but recommended by other successful writers like David Sedaris.</p>
+<p><img class="alignnone size-medium wp-image-1026" src="/wp-content/uploads/2018/07/Screen-Shot-2014-09-21-at-10.23.34.png" alt="Screenshot of Connu app" width="923" height="875" srcset="/wp-content/uploads/2018/07/Screen-Shot-2014-09-21-at-10.23.34.png 923w, /wp-content/uploads/2018/07/Screen-Shot-2014-09-21-at-10.23.34-300x284.png 300w, /wp-content/uploads/2018/07/Screen-Shot-2014-09-21-at-10.23.34-768x728.png 768w" sizes="(max-width: 923px) 100vw, 923px" /></p>
+<p>With my 20 minute train ride from Cole Valley to SOMA every day, I usually used the time to go through my RSS feeds. One morning I hadn’t synched Reeder, so I launched Connu instead.</p>
+<p>“Take Me Home” by Amy Silverberg was the story of the day. I gasped as I finished the story, and it haunted me the rest of the day. Over the next few weeks I flew through the entire collection. I felt nostalgic for Hilmar, met baby-attacking rattlesnakes, pondered working side-by-side with a full-size chinchilla. The stories were sometimes serious, sometimes fanciful, sometimes romantic or sad, but always interesting and engaging. They made me think differently about things, a bit like yoga for my overactive, analytical mind.</p>
+<h3><strong>Choice versus Curation</strong></h3>
+<p>What I loved most was the lack of choice. Every time I opened the app, it had something that fit my timeframe, was curated for me, and began immediately. I was suprised at how comforting it was to not have to choose.</p>
+<p>Having gotten through most of the Connu collection, I rediscovered the joy of a great book. When you mostly read non-fiction, there isn’t that “pause, wonder what happens next, what would I do” feeling for most of them. I love non-fiction, but fiction does a different thing to your head &amp; your heart. I found that while perhaps I need advice and learning from my non-fiction books, opening my mind to fiction, fantasy and science fiction is equally useful for my business by improving and expanding creativity.</p>
+<h3><strong>Fiction Recommendations</strong></h3>
+<p>Since installing Connu, I have read some fantastic books. I still read business and computer books, but because this blog post is about fiction, here are the very best fiction books I’ve read in the last few months. Some old, some new, but hopefully if you&#8217;re looking for a new read, you&#8217;ll find something interesting here.</p>
+<ul>
+<li><em> Fahrenheit 451</em> by Ray Bradbury (read a bunch of other Bradbury stuff too &#8211; I also highly recommend the 1966 film, so great!)</li>
+<li><em>Ready Player One</em> by Ernest Cline</li>
+<li><em>The War of the Worlds</em> by H. G. Wells</li>
+<li><em>Mr. Penumbra’s 24-Hour Bookstore</em> by Robin Sloan</li>
+<li><em>Little Brother</em> by Cory Doctorow</li>
+<li><em>The Dinner</em> by Herman Koch</li>
+<li><em>The Shadow of the Wind</em> by Carlos Ruiz Zafón</li>
+<li><em>The Radio Wall Chronicles</em> by Susannah Luthi (<a title="The Radio Wall Chronicles" href="http://theradiowall.tumblr.com/" target="_blank" rel="noopener">http://theradiowall.tumblr.com/</a>)</li>
+</ul>
+<p>Any other suggestions? I&#8217;m reading <em>Homeland</em> and <em>The Martian</em> now, but looking for any other good recommendations, too!</p>
+]]></content:encoded>
+							<wfw:commentRss>/rediscovering-fiction/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">870</post-id>	</item>
+		<item>
+		<title>A New Kind of Resolution</title>
+		<link>/a-new-kind-of-resolution/</link>
+				<comments>/a-new-kind-of-resolution/#comments</comments>
+				<pubDate>Mon, 03 Mar 2014 01:20:22 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[quantifiedself]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=848</guid>
+				<description><![CDATA[Since I was a teenager, I&#8217;ve had a mid-January ritual of reflecting on the previous year and making resolutions for the upcoming year. Mid-January, because I always feel I need to let the year sink in for a couple of weeks before I can properly digest it. I go through my journal, look at what [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Since I was a teenager, I&#8217;ve had a mid-January ritual of reflecting on the previous year and making resolutions for the upcoming year. Mid-January, because I always feel I need to let the year sink in for a couple of weeks before I can properly digest it. I go through my journal, look at what my resolutions were from last year, and analyze each one in detail.</p>
+<p>This year, I decided to change it up a bit. 2013 went very differently than I had expected and had a lot of unpredictability. Some of my resolutions didn&#8217;t make sense given the changes. I don’t think 2014 will be much more predictable, given that I can hardly tell you where I’ll be more than two-three weeks out at this point!</p>
+<p>So I took a new tactic. For 2014 I decided to approach resolutions in an agile manner. Each month I am trying something different in order to see if it makes a difference as a habit or lifestyle change. I was inspired a great deal by Matt Cutts&#8217; ongoing series of <a title="Matt Cutts :: 30 Day Challenges" href="http://www.mattcutts.com/blog/type/30-days/">&#8220;30 Day Challenges.&#8221;</a></p>
+<p>Since I came up with this idea at the end of January, I started in February, and for February I started with working out everyday. I like going to the gym, but since relocating to San Francisco in October, I have found that I often had early morning calls with customers or partners in Europe, and work demands often wrecked my attempts to work out in the evenings.</p>
+<p>So in February I made a point to either get to the gym or do something physical corresponding to a workout every day. Running with an Americano to the train was not counted!</p>
+<p>It wasn&#8217;t easy, and it required a lot of planning. I missed a couple of days &#8211; our Demo Day weeks in San Francisco &amp; in New York were particularly challenging. But I wanted to address them head on instead of letting them “happen to me.” I picked up a book of resistance exercise workouts I could do anywhere, so that I wouldn’t have an excuse while travelling.</p>
+<p>However I feel a lot better right now having done this. It’s always rewarding for me when I work out, and with a lot of the stress from the end of our accelerator and demo day crunch time, it was very useful to ensure I had an hour or so each day to not think about work and to do something good for me. I&#8217;m definitely going to keep this up for March.</p>
+<p>What does March hold in store? Well &#8211; March is the beginning of Woopie seed round fundraising. I had a taste of this last year, as well as while I was converting our company to a US company. Although I feel I have a thicker shell and am more ready for it now, I know it will be incredibly stressful, frustrating and time-consuming.</p>
+<p>To try to counteract some of that I&#8217;m going to adopt a regular meditation routine for March. Since I&#8217;ve been on a super tight budget in San Francisco, I haven’t been able to go to many yoga classes, so I think this will be an okay substitute for now. Not sure when makes the most sense to incorporate into my schedule, whether am or pm, but I&#8217;ll do some research over the next couple of days to figure that out.</p>
+<p>Anyone been doing any meditation lately? Recommendations for websites or apps that have been useful? I’ve looked at headspace &amp; calm.com but open to any recommendations that folks have found useful.</p>
+]]></content:encoded>
+							<wfw:commentRss>/a-new-kind-of-resolution/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">848</post-id>	</item>
+		<item>
+		<title>Forward March</title>
+		<link>/forward/</link>
+				<comments>/forward/#comments</comments>
+				<pubDate>Sun, 02 Mar 2014 00:02:57 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[woopie]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=842</guid>
+				<description><![CDATA[A little over a year ago I stopped writing online, save for a few posts on the Woopie blog. I stopped writing for myself, for other people, for freelance work. What my startup needed at the end of 2012 was focus. A year later, and what a year! I&#8217;m on a plane back to San [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>A little over a year ago I stopped writing online, save for a few posts on the <a title="Woopie :: Write Only Once, Publish It Everywhere" href="http://woop.ie/" target="_blank" rel="noopener">Woopie</a> blog. I stopped writing for myself, for other people, for freelance work. What my startup needed at the end of 2012 was focus.</p>
+<p>A year later, and what a year! I&#8217;m on a plane back to San Francisco from New York where we spent a week showing off Woopie to investors, media properties, friends, advisors and customers, and the reactions from people were incredible and invigorating. We have new customers on trial subscriptions, a queue of people looking to discuss their scenario more and how they can reach a larger audience on Woopie, investors ready to write cheques to sustain &amp; grow our company, and supporters and advisors cheering us on the whole way.</p>
+<p>I had been dreading the process of raising our seed round up until now. But at this point I realize we are 100% ready to take this step as a company. Moving Woopie from an Irish corporation to a US corporation was very painful, expensive and time-consuming, but it has prepared us both mentally and logistically to deal with the time-consuming and often frustrating process.</p>
+<p>I promised many folks that I would write up an overview of what it took to convert our company, given that it’s really hard to find solid advice from other companies about when &amp; how it makes sense to do so. I think it’s important to share experiences like this to help other people make informed decisions for their startups. I’m waiting for a few final things to go through before I do that, but hopefully will have that live over the next couple of weeks.</p>
+]]></content:encoded>
+							<wfw:commentRss>/forward/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">842</post-id>	</item>
+		<item>
+		<title>Updated Podcast Recommendations</title>
+		<link>/updated-podcast-recommendations/</link>
+				<comments>/updated-podcast-recommendations/#respond</comments>
+				<pubDate>Wed, 07 Nov 2012 16:33:34 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=833</guid>
+				<description><![CDATA[Podcasts are so awesome. I love discovering new topics and conversations, and find them great to listen to both at work and at home. Since I listen to a lot of podcasts &#38; adjust my listening frequently, I usually have new things to recommend. If you’re looking for something new to listen to, check out [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Podcasts are so awesome. I love discovering new topics and conversations, and find them great to listen to both at work and at home. Since I listen to a lot of podcasts &amp; adjust my listening frequently, I usually have new things to recommend. If you’re looking for something new to listen to, check out some of the below.</p>
+<p>I’m currently using Stitcher almost exclusively for listening to podcasts. It’s fantastic. It works everywhere, stores lists of my favourites, and I don’t need to sync anything. There are a handful of podcasts I like that aren’t on Stitcher, but for pretty much everything else, I love it. Additionally I think the Downcast app for iOS is great if you’re looking for something to sync &amp; listen offline.</p>
+<p>&nbsp;</p>
+<p><strong>New (or new to me) podcasts: </strong></p>
+<p><em>HackerNews Pod, or HNPod</em> – generally around an hour, only 15 episodes so far, but have had great guests and interesting topics for developers.</p>
+<p><a href="http://hnpod.com/">http://hnpod.com/</a></p>
+<p><em>Monocle 24</em> – I love the Monocle magazine, and now they have a series of podcasts I like, too. Specifically The Stack, which is about print media, but The Globalist, The Urbanist, The Menu, The Entrepreneurs, &amp; Section D are all great.</p>
+<p><a href="http://monocle.com/24/">http://monocle.com/24/</a></p>
+<p><em>Jobs to be Done Radio</em> – Fans of The Re-Wired Group or disciples of the Jobs-to-be-done framework will like this podcast talking about applying the methodology, product design and business.</p>
+<p><a href="http://jobstobedone.org/topics/radio/">http://jobstobedone.org/topics/radio/</a></p>
+<p><em>Tools of Change for Publishing</em> – O’Reilly has started producing an excellent podcast for people working in the publishing industry.</p>
+<p><a href="http://toc.oreilly.com/tag/toc-podcast">http://toc.oreilly.com/tag/toc-podcast</a></p>
+<p>&nbsp;</p>
+<p><strong>Thought-provoking stuff: </strong></p>
+<p><em>99% Invisible</em> – My find of the year. 99% Invisible by Roman Mars is a fascinating look into design, architecture and how the things around us affect our communities. It’s so well-produced and researched. Much kudos to the team behind it, it sets a very high bar for podcast quality. Plus they’re all an ideal length at around 8-15 minutes.</p>
+<p><a href="http://99percentinvisible.org/">http://99percentinvisible.org/</a></p>
+<p><em>Freakonomics Radio</em> – Who didn’t love the Freakonomics books? Freakonomics Radio follows on from there and produces always surprising looks  into people’s behaviour. Looking at tough topics like is college worth it and $15 tomatoes keeps this podcast at the top of my queue each week.</p>
+<p><a href="http://www.freakonomics.com/radio/">www.freakonomics.com/radio/</a></p>
+<p><em>NPR Planet Money</em> – I have liked Planet Money for a while, but in 2012 it has just become a powerhouse of interesting and insightful reporting. Their conversations with economists on creating a fake, ideal political candidate and marketing him, for example, was a wonderful experiment. In these tough financial times, Planet Money is great for helping you to understand where the world’s money is going.</p>
+<p><a href="http://www.npr.org/templates/story/story.php?storyId=127413729">http://www.npr.org/templates/story/story.php?storyId=127413729</a></p>
+<p>&nbsp;</p>
+<p><strong>Short, daily tech updates:</strong></p>
+<p>I gave up listening to the longer, TWIT/TWIG episodes a long time ago. They just got to be too long and rambling for me. Now I generally listen to more focused shows, and for general tech news, I just listen to the following short shows in the morning on Stitcher before heading off to work:</p>
+<p><em>TechCrunch Headlines</em></p>
+<p><em>Tuaw Daily Update</em></p>
+<p><em>Wall Street Journal Tech News Briefing</em></p>
+<p>&nbsp;</p>
+<p><strong>Longer or more focused tech/start-up podcasts: </strong></p>
+<p><em>Entrepreneurial Thought Leaders</em> – a lecture series produced by Stanford University. It’s a weekly speaker series with leaders from technology, business and education such as Noam Wasserman, Melinda Gates, and more.</p>
+<p><a href="http://etl.stanford.edu/">http://etl.stanford.edu/</a></p>
+<p><em>The Industry</em> &#8211;  A new voice in tech media, with Jared Erondu, Adam Stacoviak (formerly did the Founders Talk podcast series, which I also liked), and Drew Wilson. Interesting discussions about start-ups, design and tech. They even mentioned Woopie once so I like them even more.</p>
+<p><a href="http://theindustry.cc/category/podcast/">http://theindustry.cc/category/podcast/</a></p>
+<p><em>The Big Web Show</em> – I’ve been a long-time fan of Jeffrey Zeldman’s show interviewing my internet heroes, it’s always interesting.</p>
+<p><a href="http://5by5.tv/bigwebshow">http://5by5.tv/bigwebshow</a></p>
+<p><em>The JavaScript Show</em> – Really well-produced JavaScript developer podcast, short and focused with always relevant content.</p>
+<p><a href="http://javascriptshow.com/">http://javascriptshow.com/</a></p>
+<p><em>A Django Podcast</em> – This may have ended, but has been good &amp; would love to hear more episodes!</p>
+<p><a href="http://3rdaverad.io/shows/django-podcast/">http://3rdaverad.io/shows/django-podcast/</a></p>
+<p>&nbsp;</p>
+<p><strong>Miscellaneous Fun stuff: </strong></p>
+<p><em>60-Second Mind </em></p>
+<p><a href="http://www.scientificamerican.com/podcast/podcasts.cfm?type=60-second-mind">http://www.scientificamerican.com/podcast/podcasts.cfm?type=60-second-mind</a></p>
+<p><em>BrainStuff, from HowStuffWorks.com </em></p>
+<p><a href="http://entertainment.howstuffworks.com/hsw-shows/brain-stuff-podcast.htm">http://entertainment.howstuffworks.com/hsw-shows/brain-stuff-podcast.htm</a></p>
+<p><em>Latest in Paleo </em></p>
+<p>&#8211; <a href="http://www.latestinpaleo.com/">http://www.latestinpaleo.com/</a></p>
+<p><em>Stuff You Missed in History Class </em></p>
+<p><a href="http://entertainment.howstuffworks.com/hsw-shows/stuff-you-missed-in-history-class-podcast.htm">http://entertainment.howstuffworks.com/hsw-shows/stuff-you-missed-in-history-class-podcast.htm</a></p>
+<p><em>Everyday Russian</em></p>
+<p><a href="http://everydayrussianlanguage.com/">http://everydayrussianlanguage.com/</a></p>
+]]></content:encoded>
+							<wfw:commentRss>/updated-podcast-recommendations/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">833</post-id>	</item>
+		<item>
+		<title>The price of focus</title>
+		<link>/the-price-of-focus/</link>
+				<comments>/the-price-of-focus/#comments</comments>
+				<pubDate>Mon, 24 Sep 2012 20:48:49 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[freelance]]></category>
+		<category><![CDATA[startups]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=831</guid>
+				<description><![CDATA[What a difference a year makes. This time last year, I had finished an early prototype of my pet project of an Irish-focused tech magazine and was shopping it around to potential advertisers, contributors and partners. I had also successfully convinced the best designer I know, Stewart Curry, to be its design director. Just a [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>What a difference a year makes. This time last year, I had finished an early prototype of my pet project of an Irish-focused tech magazine and was shopping it around to potential advertisers, contributors and partners. I had also successfully convinced the best designer I know, Stewart Curry, to be its design director. Just a side project, no big woop.</p>
+<p>&nbsp;</p>
+<p><img class="alignnone size-medium wp-image-1025" title="Idea magazine on other devices" src="/wp-content/uploads/2018/07/devices.png" alt="Idea magazine on other devices" width="427" height="427" srcset="/wp-content/uploads/2018/07/devices.png 427w, /wp-content/uploads/2018/07/devices-150x150.png 150w, /wp-content/uploads/2018/07/devices-300x300.png 300w" sizes="(max-width: 427px) 100vw, 427px" /></p>
+<p>&nbsp;</p>
+<p>Fast-forward 365 days. With five issues of <a href="http://readidea.com/" target="_blank" rel="noopener">Idea magazine</a> published, we’re now working full-time on <a href="https://woop.ie/" target="_blank" rel="noopener">Woopie</a>, our platform for producing digital publications and just won a place in the new <a href="http://ie.wayra.org/" target="_blank" rel="noopener">Wayra Academy</a> in Dublin. There are a lot of reasons Wayra is a great fit for us: the great network opportunities, solid start-ups to share with &amp; learn from, huge support from a company that knows mobile &amp; devices, the community space Wayra provides, etc. But to be honest, the greatest benefit for me right now is the freedom to focus.</p>
+<p>&nbsp;</p>
+<p><img class="alignnone size-full wp-image-1028" style="background-image: none; margin: 5px 5px 6px; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="Woopie platform screenshot" src="/wp-content/uploads/2018/07/demo10.png" alt="Woopie platform screenshot" width="500" height="245" srcset="/wp-content/uploads/2018/07/demo10.png 500w, /wp-content/uploads/2018/07/demo10-300x147.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Focus in any business is both critical and expensive. Building companies from scratch is costly, and until the businesses are generating revenue, you have to find other ways to pay your bills. It was important to me that we not go looking for money until we had something of value. I was wary of giving away our company before we even had anything, and bootstrapping was the right thing to do. So in order to fund my two companies which generate no revenue yet and cost me a lot of my own money, I have continued doing freelance work over the last year. Teaching in the evenings, client projects during evenings &amp; weekends, contract work a couple of days a week, a day or two each week dedicated to Idea work, another couple of days for Woopie, and any additional time filled with community events and volunteering. Eventually, something had to give.</p>
+<p>Earlier this summer, I began examining what I could hand off. I had many conversations with myself that went like this:</p>
+<blockquote><p><em>“But honestly, running this event only takes a few emails and a couple of blog posts each month.” </em></p>
+<p><em>“But I really like volunteering, and it teaches me a lot about designing for users with different needs.” </em></p>
+<p><em>“But I still have all of these great ideas for organisation X, I can’t abandon it now.”</em></p></blockquote>
+<p>In the end it comes down to the opportunity cost of focus. I am very grateful to Gareth Stenson for taking over <a href="http://opencoffeedublin.com/" target="_blank" rel="noopener">OpenCoffee Dublin</a> and the dynamic duo of Jeannette Vollmer and Christina Lynch for taking over and reviving <a href="http://ireland.girlgeekdinners.com/" target="_blank" rel="noopener">Girl Geek Dinners</a>. I have stepped down from volunteer work and teaching for now and have minimized community activities and speaking gigs.</p>
+<p>All of these things are useful and have been invaluable in my career so far. But they each have a price. Even running an organisation which is free and involves “just a couple of blog posts” has a price. That price is focus. Every time I have to switch context, I lose time. I am slower at things. Developing all day in one language, going home to develop in another, and mentally working through different solutions takes a lot longer when you switch contexts frequently. Even setting up different work environments and rebuilding machines takes a not-insignificant amount of time.</p>
+<p>&nbsp;</p>
+<p><img style="background-image: none; margin: 5px auto 0px; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="Focus dictionary definition image" src="/wp-content/uploads/2012/09/focus.jpg" alt="Focus dictionary definition image" width="443" height="310" border="0" /></p>
+<p align="right"><em><span style="font-size: small;">              </span><span style="font-size: small;">   image courtesy of </span><a href="https://www.flickr.com/photos/hussain_quantum"><span style="font-size: small;">https://www.flickr.com/photos/hussain_quantum</span></a></em></p>
+<p>&nbsp;</p>
+<p>Being a part of Wayra means we get to focus on Woopie above everything else for the foreseeable future. It means I can expend all of my energy on working with customers, solving problems and building a great experience. I thought I would be reluctant to give away a part of our company, however small, but surprisingly it felt like exactly the right thing to do. Instead, it validated our approach so far and told us we are on to something that other people can believe in, too.</p>
+<p>So instead of feeling like we were giving something away, it felt like we were being given the very precious gift of focus. It’s going to be a very busy six months as we revise our product fit and finish based on our customers’ feedback, and continue to design and build Woopie, but I could not be more excited.</p>
+]]></content:encoded>
+							<wfw:commentRss>/the-price-of-focus/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">831</post-id>	</item>
+		<item>
+		<title>What&#8217;s The Big Idea?</title>
+		<link>/whats-the-big-idea/</link>
+				<comments>/whats-the-big-idea/#comments</comments>
+				<pubDate>Wed, 18 Jul 2012 11:09:34 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Idea Magazine]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=794</guid>
+				<description><![CDATA[Yesterday we launched the brand new podcast from Idea Magazine, The Big Idea. The Big Idea is an audio addition to the magazine to continue on our theme for a few extra weeks. Each time we published an issue, I received a flurry of emails from people asking why we overlooked them, why they weren&#8217;t [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Yesterday we launched the brand new podcast from Idea Magazine, The Big Idea.</p>
+<p>The Big Idea is an audio addition to the magazine to continue on our theme for a few extra weeks. Each time we published an issue, I received a flurry of emails from people asking why we overlooked them, why they weren&#8217;t included, or with other stories of interest that we might have been able to cover given additional time.</p>
+<p>The truth is that with each theme we&#8217;ve had, we could go on researching and writing indefinitely. There is no shortage of interesting people to write about and stories to tell in these areas. But eventually you have to hit the publish button. Our podcast lets us continue these conversations and get more involved with our themes and subjects.</p>
+<p>So far it&#8217;s been a really fun experience, and I have to give my heartfelt thanks to all the podcast participants, who you&#8217;ll hear more from over the coming weeks, but also Dusty Rhodes and Digital Audio Productions whose excellent studio has helped us produce high-quality recordings. Dusty and his team are incredible.</p>
+<p>For now, you can listen to our first episode below where I interview Brian Suda about being a Master Informatician and working with data and visualisations on a day-to-day basis.</p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F52710890&width=false&height=false&auto_play=false&hide_related=false&visual=false&show_comments=false&color=false&show_user=false&show_reposts=false"></iframe>
+<p><a href="http://readidea.com/"><img class="aligncenter size-full wp-image-797" title="The Big Idea :: Idea Magazine podcast" src="/wp-content/uploads/2018/07/podcast-badge-1.png" alt="Logo for The Big Idea podcast" width="460" height="310" /></a></p>
+]]></content:encoded>
+							<wfw:commentRss>/whats-the-big-idea/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">794</post-id>	</item>
+		<item>
+		<title>EdTech 2012 Keynote Slides :: Digital Literacies for Life</title>
+		<link>/edtech-2012-keynote-slides/</link>
+				<comments>/edtech-2012-keynote-slides/#respond</comments>
+				<pubDate>Wed, 18 Jul 2012 10:12:55 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Speaking]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=780</guid>
+				<description><![CDATA[In June I gave a keynote at the annual EdTech conference, organised by the Irish Learning Technology Association (ILTA). The event&#8217;s theme was &#8220;Digital Literacies for Life.&#8221; This was a really well-run event, and I was impressed over and over by the forward-thinking attendees. I really enjoyed talks by Doug Belshaw and the team of [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>In June I gave a keynote at the annual EdTech conference, organised by the Irish Learning Technology Association (ILTA). The event&#8217;s theme was &#8220;Digital Literacies for Life.&#8221;</p>
+<p>This was a really well-run event, and I was impressed over and over by the forward-thinking attendees. I really enjoyed talks by Doug Belshaw and the team of Lesley Gourlay &amp; Martin Oliver. I learned about using ePortfolios, creating mobile apps with students, using wikis and virtual worlds and many other innovative teaching techniques.</p>
+<p>I&#8217;ve shared my slides below as I&#8217;ve gotten a few requests for them. My thanks to the ILTA committee for inviting me and for putting together such an interesting and energetic conference. I&#8217;m looking forward to using a lot of these techniques in my teaching strategies.</p>
+<p><script async class="speakerdeck-embed" data-id="5006853836af010002023d97" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script></p>
+]]></content:encoded>
+							<wfw:commentRss>/edtech-2012-keynote-slides/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">780</post-id>	</item>
+		<item>
+		<title>Writing Elsewhere Around the Web</title>
+		<link>/writing-elsewhere-around-the-web/</link>
+				<comments>/writing-elsewhere-around-the-web/#respond</comments>
+				<pubDate>Sat, 17 Mar 2012 18:39:45 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Speaking]]></category>
+		<category><![CDATA[Magazines]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=777</guid>
+				<description><![CDATA[I took a short break from Tuesday Newsday and regular writing here to do some guest posts recently. Below is a quick roundup of what I’ve been up to in terms of articles written, podcasts and speaking engagements. &#160; Designing Engaging and Enjoyable Long-Form Reading Experiences – guest article for Smashing Magazine This article incorporates [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>I took a short break from Tuesday Newsday and regular writing here to do some guest posts recently. Below is a quick roundup of what I’ve been up to in terms of articles written, podcasts and speaking engagements.</p>
+<p>&nbsp;</p>
+<p><a title="Smashing Magazine :: Designing Engaging and Enjoyable Long-Form Reading Experiences" href="http://uxdesign.smashingmagazine.com/2012/03/07/designing-engaging-enjoyable-long-form-reading-experiences/" target="_blank" rel="noopener">Designing Engaging and Enjoyable Long-Form Reading Experiences</a> – <em>guest article for Smashing Magazine</em></p>
+<p>This article incorporates a lot of concepts that have been driving me crazy about digital content lately, some of which I’ve mentioned in this blog. Bad advertisements, disrespecting the reader, poorly chosen typography and lack of whitespace are just some of the concerns I cover here. If you’re spending time writing for the web, why not make sure it’s visible in a format that is inviting to the reader? Check out this article for ways to show your site or app’s visitors that you’re glad they’re there.</p>
+<p>&nbsp;</p>
+<p><a title=".net magazine :: Top 10 Ways to Create Digital Magazines" href="http://www.netmagazine.com/features/top-10-ways-create-digital-magazines" target="_blank" rel="noopener">The Top 10 Ways to Create Digital Magazines</a> – <em>guest article for .net magazine</em></p>
+<p>I wrote this post for .net magazine, one of my favourite magazines both in print and in digital, on some of the available methods and frameworks for creating digital magazines. I focused on systems which don’t export to just one platform as I don’t believe that’s a sustainable model for most publishers today. Instead I covered things like Laker Compendium (which we use for Idea magazine) and Treesaver that prioritize great web experiences over proprietary formats.</p>
+<p>&nbsp;</p>
+<p><strong>“Deep, Dark Secrets of Rupert Murdoch” –</strong> talk at Dublin’s #BeerMob event</p>
+<p>At  the first (but hopefully not the last!) Dublin #BeerMob, we talked about topics of interest to those who are developing sites or apps for mobile. And there was beer. I talked about Rupert Murdoch of all people, and the secrets behind The Daily. I covered why this isn’t a sustainable method or one anyone should copy and what designers and developers should focus on instead for their users. Slides are below:</p>
+<p><script async class="speakerdeck-embed" data-id="4f56007c80584d001f017bb7" data-ratio="1.1743119266055" src="//speakerdeck.com/assets/embed.js"></script></p>
+<p>&nbsp;</p>
+<p><strong>“Beware the Shiny” –</strong> talk at <a title="Refresh Dublin" href="http://refreshingcitiesdublin.org/" target="_blank" rel="noopener">Refresh Dublin</a> on March 15th</p>
+<p>I spoke at Refresh Dublin this month on the topic of being cautious of trying to learn too many things all at once. Sounds like a strange topic from someone who lectures in web development! But I see a lot of students spin and spin, not building a foundation as they jump from one shiny framework to the next. We all want to learn new things and keep our skills competitive, but it’s important to do so in a sustainable manner. Below are my slides from the talk:</p>
+<p><script async class="speakerdeck-embed" data-id="4f63c24e2b345b0022000c41" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script></p>
+<p>&nbsp;</p>
+<p><strong>Guest podcast on the Small Business Show</strong></p>
+<p>I had the opportunity to speak with Conn and Kehlan this week on the Small Business Show podcast about current news items in the Irish world of SMEs.</p>
+<p><a href="http://www.focusmeireland.com/small-business-show-35-with-martha-rotter-of-idea-magazine">http://www.focusmeireland.com/small-business-show-35-with-martha-rotter-of-idea-magazine</a></p>
+<p>&nbsp;</p>
+<p><strong>Guest podcast on the Technology.ie podcast with Stewart Curry</strong></p>
+<p>Stewart Curry and I chatted recently with Conn and Michele on the Technology.ie podcast, giving a behind-the-scenes view of Idea magazine and Woop.ie.</p>
+<p><a href="http://technology.ie/martha-rotter-and-stewart-curry-from-idea-magazine-tech-heroes-podcast-2/">http://technology.ie/martha-rotter-and-stewart-curry-from-idea-magazine-tech-heroes-podcast-2/</a></p>
+<p>&nbsp;</p>
+<p><strong>Guest posts for Information Week during Mobile World Congress</strong></p>
+<p>Speaking of shiny things, I had the opportunity to attend Mobile World Congress and work with the Information Week team. Mobile World Congress is something I’ve wanted to attend for a long time, so it was great to get to help out such an excellent team. Below are some of the articles I contributed:</p>
+<p><a title="Information Week :: Samsung Galaxy Beam Turns Heads: MWC 2012" href="http://informationweek.com/video/mobility/smart_phones/232601908" target="_blank" rel="noopener">Samsung Galaxy Beam Turns Heads: MWC 2012</a></p>
+<p><a title="Information Week :: SecureVoice Encrypts Mobile VoIP Communications" href="http://informationweek.com/video/security/mobile/232601831" target="_blank" rel="noopener">SecureVoice Encrypts Mobile VoIP Communications</a></p>
+<p><a title="Information Week :: Emporia Telecom: Mobile Phones for Elderly Users" href="http://informationweek.com/video/personal-tech/smart-phones/232601816" target="_blank" rel="noopener">Emporia Telecom: Mobile Phones for Elderly Users</a></p>
+<p><a title="Information Week :: 9 Coolest Smartphones at Mobile World Congress" href="http://informationweek.com/news/galleries/mobility/smart_phones/232601764" target="_blank" rel="noopener">9 Coolest Smartphones at Mobile World Congress</a></p>
+<p><a title="Information Week :: Coyote Systems Driver Info App Expands Across Europe" href="http://informationweek.com/video/personal-tech/mobile-apps/232601673?queryText=martha%20rotter" target="_blank" rel="noopener">Coyote Systems Driver Info App Expands Across Europe</a></p>
+<p><a title="Information Week :: MWC 2012: Smartphone Apps, Gadgets for Cars" href="http://informationweek.com/news/galleries/mobility/smart_phones/232601569" target="_blank" rel="noopener">MWC 2012: Smartphone Apps, Gadgets for Cars</a></p>
+<p><a title="Information Week :: HTC One Smartphone Debut at MWC 2012" href="http://informationweek.com/video/mobility/smart_phones/232601618" target="_blank" rel="noopener">HTC One Smartphone Debut at MWC 2012</a></p>
+<p><a title="Information Week :: ON Voicefeed Aims to Modernize Mobile Voicemail" href="http://informationweek.com/video/mobility/smart_phones/232601634" target="_blank" rel="noopener">ON Voicefeed Aims to Modernize Mobile Voicemail</a></p>
+<p><a title="Information Week :: MWC 2012: Waterproof Your Smartphones, Tablets" href="http://informationweek.com/news/galleries/mobility/smart_phones/232601518" target="_blank" rel="noopener">MWC 2012: Waterproof Your Smartphones, Tablets</a></p>
+]]></content:encoded>
+							<wfw:commentRss>/writing-elsewhere-around-the-web/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">777</post-id>	</item>
+	</channel>
+</rss>

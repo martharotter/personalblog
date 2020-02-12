@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>
+	Comments on: Tuesday Newsday: Worldwide News Sites	</title>
+	<atom:link href="/tuesday-newsday-worldwide-news-sites/feed/" rel="self" type="application/rss+xml" />
+	<link>/tuesday-newsday-worldwide-news-sites/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Fri, 17 Aug 2018 11:07:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+			<item>
+				<title>
+				By: martha				</title>
+				<link>/tuesday-newsday-worldwide-news-sites/#comment-29</link>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+		<pubDate>Mon, 05 Sep 2011 14:03:02 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/index.php/2011/08/tuesday-newsday-worldwide-news-sites/#comment-29</guid>
+					<description><![CDATA[Hi John and thanks for your comment. 
+
+Yes, that is bad design as many people don&#039;t realize they have to specifically go to the &quot;m.&quot; site versus the &quot;www.&quot; site.  It&#039;s an easy thing to detect and fix, too. I hope they will update their site to detect and redirect at some point.]]></description>
+		<content:encoded><![CDATA[<p>Hi John and thanks for your comment. </p>
+<p>Yes, that is bad design as many people don&#8217;t realize they have to specifically go to the &#8220;m.&#8221; site versus the &#8220;www.&#8221; site.  It&#8217;s an easy thing to detect and fix, too. I hope they will update their site to detect and redirect at some point.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: John Muldoon				</title>
+				<link>/tuesday-newsday-worldwide-news-sites/#comment-28</link>
+		<dc:creator><![CDATA[John Muldoon]]></dc:creator>
+		<pubDate>Wed, 31 Aug 2011 20:28:39 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/index.php/2011/08/tuesday-newsday-worldwide-news-sites/#comment-28</guid>
+					<description><![CDATA[Martha,
+You did an awful lot of work on those comparisons! 
+Oddly enough, I was complaining to someone recently about the Irish Times site and how bad it was on my phone compared to the Guardian and Telegraph out of Britain. I didn&#039;t realize the IT had a mobile-friendly site for phones until I read this article. So a failing of the IT is that the main www site does not check for screen size and render automatically for the phone.
+John]]></description>
+		<content:encoded><![CDATA[<p>Martha,<br />
+You did an awful lot of work on those comparisons!<br />
+Oddly enough, I was complaining to someone recently about the Irish Times site and how bad it was on my phone compared to the Guardian and Telegraph out of Britain. I didn&#8217;t realize the IT had a mobile-friendly site for phones until I read this article. So a failing of the IT is that the main www site does not check for screen size and render automatically for the phone.<br />
+John</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

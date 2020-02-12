@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>
+	Comments on: Daily Lessons from 2011	</title>
+	<atom:link href="/daily-lessons-from-2011/feed/" rel="self" type="application/rss+xml" />
+	<link>/daily-lessons-from-2011/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Wed, 25 Jul 2018 09:44:57 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+			<item>
+				<title>
+				By: Tikitakatechy				</title>
+				<link>/daily-lessons-from-2011/#comment-56</link>
+		<dc:creator><![CDATA[Tikitakatechy]]></dc:creator>
+		<pubDate>Tue, 13 Mar 2012 14:00:29 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=756#comment-56</guid>
+					<description><![CDATA[Hey Martha.
+
+What a fantastic idea.
+
+I definitely suffer from poor recall of everything from major project i have worked on to what i had for breakfast yesterday. I&#039;ll start a daily list myself, see if it can jog my memory.]]></description>
+		<content:encoded><![CDATA[<p>Hey Martha.</p>
+<p>What a fantastic idea.</p>
+<p>I definitely suffer from poor recall of everything from major project i have worked on to what i had for breakfast yesterday. I&#8217;ll start a daily list myself, see if it can jog my memory.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

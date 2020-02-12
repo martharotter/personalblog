@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>
+	Comments on: Visualizing Áras Election	</title>
+	<atom:link href="/visualizing-aras-election/feed/" rel="self" type="application/rss+xml" />
+	<link>/visualizing-aras-election/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Sat, 11 Aug 2018 16:17:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+			<item>
+				<title>
+				By: VISUALIZING &#193;RAS ELECTION, Part Two &#8211; - Martha Rotter&#039;s BlogMartha Rotter&#039;s Blog				</title>
+				<link>/visualizing-aras-election/#comment-38</link>
+		<dc:creator><![CDATA[VISUALIZING &#193;RAS ELECTION, Part Two &#8211; - Martha Rotter&#039;s BlogMartha Rotter&#039;s Blog]]></dc:creator>
+		<pubDate>Thu, 20 Oct 2011 13:13:11 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=597#comment-38</guid>
+					<description><![CDATA[[...] my last related post, I used twitrratr to do a very simple ana­lysis of how people in Ire­land were feel­ing about [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] my last related post, I used twitrratr to do a very simple ana­lysis of how people in Ire­land were feel­ing about [&#8230;]</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: martha				</title>
+				<link>/visualizing-aras-election/#comment-37</link>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2011 20:11:50 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=597#comment-37</guid>
+					<description><![CDATA[Hi Greg, 
+
+Thanks very much for your comment and for taking a look. I agree, I think it would be really interesting to take a look at how the media outlets are perceiving the individual candidates. Great idea. I&#039;ll take a look this week and see if I can put together some sentiment data from news sites.
+
+Thanks again Greg.]]></description>
+		<content:encoded><![CDATA[<p>Hi Greg, </p>
+<p>Thanks very much for your comment and for taking a look. I agree, I think it would be really interesting to take a look at how the media outlets are perceiving the individual candidates. Great idea. I&#8217;ll take a look this week and see if I can put together some sentiment data from news sites.</p>
+<p>Thanks again Greg.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Greg Connolly				</title>
+				<link>/visualizing-aras-election/#comment-36</link>
+		<dc:creator><![CDATA[Greg Connolly]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2011 19:06:35 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=597#comment-36</guid>
+					<description><![CDATA[Hi Martha,
+Thats very interesting. Wouldn&#039;t it be interesting to see what the data looks like relative to media sources? I.e. does &#039;RTE&#039; reflect broadly negative sentiment or conversations and, for example, does &#039;MRBI&#039; reflect positive sentiment? Taking it a step further how about individual presenters...&#039;Marian&#039;,&#039;Vincent&#039;,&#039;George&#039;,&#039;Sean&#039; etc. 
+
+Just a thought. 
+Cheers,
+Greg]]></description>
+		<content:encoded><![CDATA[<p>Hi Martha,<br />
+Thats very interesting. Wouldn&#8217;t it be interesting to see what the data looks like relative to media sources? I.e. does &#8216;RTE&#8217; reflect broadly negative sentiment or conversations and, for example, does &#8216;MRBI&#8217; reflect positive sentiment? Taking it a step further how about individual presenters&#8230;&#8217;Marian&#8217;,&#8217;Vincent&#8217;,&#8217;George&#8217;,&#8217;Sean&#8217; etc. </p>
+<p>Just a thought.<br />
+Cheers,<br />
+Greg</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

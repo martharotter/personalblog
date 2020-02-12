@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Books &#8211; Martha Rotter</title>
+	<atom:link href="/tag/books/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Fri, 17 Aug 2018 10:40:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+<site xmlns="com-wordpress:feed-additions:1">144031741</site>	<item>
+		<title>Free eBooks, Audiobooks and More, Courtesy of Your Local Library</title>
+		<link>/free-ebooks-audiobooks-and-more-courtesy-of-your-local-library/</link>
+				<comments>/free-ebooks-audiobooks-and-more-courtesy-of-your-local-library/#respond</comments>
+				<pubDate>Mon, 12 Sep 2011 12:16:37 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Books]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/index.php/2011/09/free-ebooks-audiobooks-and-more-courtesy-of-your-local-library/</guid>
+				<description><![CDATA[I’ve explained how to do this to so many people that I thought it was worth writing a blog post about it. For several months, I’ve been enjoying downloading free audio and eBooks from the Dun Laoghaire library website.&#160; A friend of mine told me about this in the US earlier this year, and I [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>I’ve explained how to do this to so many people that I thought it was worth writing a blog post about it. For several months, I’ve been enjoying downloading free audio and eBooks from the Dun Laoghaire library website.&nbsp; A friend of mine told me about this in the US earlier this year, and I was incredibly jealous.&nbsp; I was delighted to come back to Dublin and find that my local library has this capability also.</p>
+<p>&nbsp;</p>
+<p><strong>HOW DOES IT WORK?</strong></p>
+<p>On the <a title="DLR Library Website" href="http://www.dlrcoco.ie/library/" target="_blank">Dun Laoghaire-Rathdown County Council library page</a>, you can see links to a few different services: Clipper DL, which are audiobooks, and Overdrive, which are audiobooks as well as eBooks.&nbsp; Without a membership, you can still browse a bit to see what the selection looks like.</p>
+<p><a href="/wp-content/uploads/2011/09/image1.png"><img style="background-image: none; border-right-width: 0px; margin: 0px 0px 6px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="DLR Library Website" border="0" alt="DLR Library Website" src="/wp-content/uploads/2011/09/image_thumb1.png" width="512" height="352"></a></p>
+<p>For Clipper DL, you’ll need to log in to the library site with your library card number &amp; PIN first, then get redirected to the Clipper DL site where you’ll need to create a one-time user ID &amp; password.&nbsp; To download content, you’ll have to download their Download Manager, which works on both Mac and PC.&nbsp; As you’re installing that, you can decide if you are going to listen to the books via Windows Media (if you’re on a PC) or use iTunes to put it on an iPod or other Apple device.&nbsp; It might sound painful but the whole process for your first download will take less than three minutes to install &amp; set up, and after that it will be much quicker.</p>
+<p><a href="/wp-content/uploads/2011/09/image2.png"><img style="background-image: none; border-right-width: 0px; margin: 0px auto 6px; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Clipper DL Download Manager on PC" border="0" alt="Clipper DL Download Manager on PC" src="/wp-content/uploads/2011/09/image_thumb2.png" width="467" height="327"></a></p>
+<p>Each audiobook you download you can keep for 21 days after which the DRM expires it and you have to renew if you’re not finished listening to it.&nbsp; Clipper DL has a catalogue of around 600 titles, and each month they add five new ones, so the selection is a bit small.&nbsp; It’s definitely better for fiction than non-fiction titles.</p>
+<p>&nbsp;</p>
+<p>Overdrive has a bit better selection (though neither one is Amazon, so you usually won’t get cutting-edge, brand new or niche topic books).&nbsp; You can browse through audiobooks, eBooks, and even music and video.&nbsp; The audiobooks have samples, which is great as the reader’s voice matters a great deal in audiobooks.&nbsp; Most audiobooks can be downloaded to Mac, PC, burned to a CD, or downloaded as WMA or MP3 for various portable audio devices.</p>
+<p><a href="/wp-content/uploads/2011/09/image3.png"><img style="background-image: none; border-right-width: 0px; margin: 0px auto 6px; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Overdrive Download Options" border="0" alt="Overdrive Download Options" src="/wp-content/uploads/2011/09/image_thumb3.png" width="453" height="308"></a></p>
+<p>Similarly to Clipper DL, Overdrive gives you a checkout of 21 days for most downloads, with the exception of music and video which are 14 days maximum.&nbsp; One of the things I love about Overdrive, though, is that there’s a native iPad app which lets you download, view and listen to eBooks and audiobooks you’ve checked out.&nbsp; The process is a little clunky but it works and it’s nice to be able to access your checked out books anywhere.</p>
+<p align="center"><a href="/wp-content/uploads/2011/09/Photo-12-09-2011-12-50-11.png"><img style="background-image: none; border-right-width: 0px; margin: 0px 0px 6px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="OverDrive App Splash Screen" border="0" alt="OverDrive App Splash Screen" src="/wp-content/uploads/2011/09/Photo-12-09-2011-12-50-11_thumb.png" width="248" height="336"></a>&nbsp;&nbsp;&nbsp; <a href="/wp-content/uploads/2011/09/Photo-12-09-2011-13-04-37.png"><img style="background-image: none; border-right-width: 0px; margin: 0px 0px 6px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="OverDrive App Contents" border="0" alt="OverDrive App Contents" src="/wp-content/uploads/2011/09/Photo-12-09-2011-13-04-37_thumb.png" width="248" height="336"></a></p>
+<p>With both of these services, there are limited digital copies at a time due to licensing restrictions, so you can request books that are checked out.&nbsp; You’ll get an e-mail notification when the book is returned or has expired and then it’s held for you for three days to go to the site &amp; check it out.</p>
+<p>&nbsp;</p>
+<p><strong>AVAILABILITY</strong></p>
+<p>I don’t know if every library in Ireland has this capability or if Dun Laoghaire-Rathdown is the only one, <span class="pullquote">but for the amount of free content, it’s worth investigating your local library to see if they offer access to this</span> or similar content.&nbsp; It’s such an amazing resource.&nbsp; I’m embarrassed to say I was a little shocked at how forward-thinking this library system is to offer these services but also things like language lessons, the Dictionary of Irish Biography, and many other interesting and useful resources.&nbsp; So if you are spending a lot of money on eBooks or audiobooks, it’s definitely worth your time to go find your local library’s website and take a look.</p>
+]]></content:encoded>
+							<wfw:commentRss>/free-ebooks-audiobooks-and-more-courtesy-of-your-local-library/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">378</post-id>	</item>
+	</channel>
+</rss>
