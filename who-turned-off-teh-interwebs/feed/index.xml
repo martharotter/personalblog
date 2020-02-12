@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>
+	Comments on: Who Turned off Teh Interwebs?	</title>
+	<atom:link href="/who-turned-off-teh-interwebs/feed/" rel="self" type="application/rss+xml" />
+	<link>/who-turned-off-teh-interwebs/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Tue, 11 Jan 2011 16:06:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+			<item>
+				<title>
+				By: Dave Cahill				</title>
+				<link>/who-turned-off-teh-interwebs/#comment-9</link>
+		<dc:creator><![CDATA[Dave Cahill]]></dc:creator>
+		<pubDate>Tue, 11 Jan 2011 16:06:53 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/index.php/2011/01/who-turned-off-teh-interwebs/#comment-9</guid>
+					<description><![CDATA[Yep, pretty dodgy alright - Facebook&#039;s mapping of links
+between folks produced a pretty tight global map, China being the
+main notable missing link (other than sub-Saharan Africa);
+http://www.facebook.com/note.php?note_id=469716398919]]></description>
+		<content:encoded><![CDATA[<p>Yep, pretty dodgy alright &#8211; Facebook&#8217;s mapping of links<br />
+between folks produced a pretty tight global map, China being the<br />
+main notable missing link (other than sub-Saharan Africa);<br />
+<a href="http://www.facebook.com/note.php?note_id=469716398919" rel="nofollow">http://www.facebook.com/note.php?note_id=469716398919</a></p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

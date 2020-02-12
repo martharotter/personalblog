@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>
+	Comments on: Forward March	</title>
+	<atom:link href="/forward/feed/" rel="self" type="application/rss+xml" />
+	<link>/forward/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Tue, 13 Mar 2018 16:43:54 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+			<item>
+				<title>
+				By: martha				</title>
+				<link>/forward/#comment-60</link>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2014 01:26:23 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=842#comment-60</guid>
+					<description><![CDATA[Ha, thanks Des. Man, after re-reading that blog post there are a lot of things I would do differently if I knew what I know now when I wrote that! I guess hindsight is 20:20. But thanks, I did mean it and focusing, regardless of anything else, was the right thing to do to get where things are today.]]></description>
+		<content:encoded><![CDATA[<p>Ha, thanks Des. Man, after re-reading that blog post there are a lot of things I would do differently if I knew what I know now when I wrote that! I guess hindsight is 20:20. But thanks, I did mean it and focusing, regardless of anything else, was the right thing to do to get where things are today.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Des Traynor				</title>
+				<link>/forward/#comment-59</link>
+		<dc:creator><![CDATA[Des Traynor]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2014 00:54:05 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=842#comment-59</guid>
+					<description><![CDATA[There&#039;s something great about a very old post from you (in 2012) talking about focus you would now have: http://martharotter.com/blog/index.php/2012/09/the-price-of-focus/
+
+Shows you really meant it.]]></description>
+		<content:encoded><![CDATA[<p>There&#8217;s something great about a very old post from you (in 2012) talking about focus you would now have: <a href="http://martharotter.com/blog/index.php/2012/09/the-price-of-focus/" rel="nofollow">http://martharotter.com/blog/index.php/2012/09/the-price-of-focus/</a></p>
+<p>Shows you really meant it.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>development &#8211; Martha Rotter</title>
+	<atom:link href="/tag/development/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Wed, 25 Jul 2018 11:40:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+<site xmlns="com-wordpress:feed-additions:1">144031741</site>	<item>
+		<title>Tuesday Newsday: Data News Sites</title>
+		<link>/tuesday-newsday-data-news-sites/</link>
+				<comments>/tuesday-newsday-data-news-sites/#respond</comments>
+				<pubDate>Tue, 20 Dec 2011 18:51:17 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[News/Magazines]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[datavisualization]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[Newspapers]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=748</guid>
+				<description><![CDATA[Data journalism, news apps, open government data. In this age of Anonymous, Wikileaks, and proactive sources publishing freely available data, it is becoming critical that we have journalists and developers working together to make sense of it all and understand how it affects us. Today there are a growing number of news outlets doing a [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Data journalism, news apps, open government data. In this age of Anonymous, Wikileaks, and proactive sources publishing freely available data, it is becoming critical that we have journalists and developers working together to make sense of it all and understand how it affects us.</p>
+<p>Today there are a growing number of news outlets doing a fantastic job of both publishing data and creating interactions and visualizations to make sense of it. I wanted to showcase a handful of those sites so that people can understand why this type of journalism is important and how it works. And maybe even how to get involved if it’s of interest to you.</p>
+<p>&nbsp;</p>
+<p><strong>DATA SET PROVIDERS:</strong></p>
+<p>There is no shortage of people providing data sets today, the only thing to learn is how to narrow it down to the most useful one for you.</p>
+<p>Fingal Open Data is doing a nice job in Ireland encouraging councils to open up their data. Their site <a href="http://data.fingal.ie/">http://data.fingal.ie/</a> provides data in CSV, XML and KML formats, and they’re currently <a title="apps4fingal" href="http://data.fingal.ie/Apps4Fingal/" target="_blank" rel="noopener">running a competition</a> for people to build useful apps given the available data.</p>
+<p>Additionally in Ireland, sites like <a title="The Story: In Search of Transparency" href="http://thestory.ie/">Gavin Sheridan’s The Story</a> and <a title="KildareStreet.com" href="http://www.kildarestreet.com/">John Handelaar’s Kildare Street</a> are excellent resources for presenting data but also learning more about the types of data available in Ireland</p>
+<p>I mentioned <a title="The Guardian's Data Blog" href="http://www.guardian.co.uk/news/datablog" target="_blank" rel="noopener"><em>The Guardian’s</em> Data Blog</a> in <a title="Tuesday Newsday: Newspaper Developer Blogs" href="http://martharotter.com/blog/index.php/2011/11/tuesday-newsday-newspaper-developer-blogs/" target="_blank" rel="noopener">a recent post about news developer blogs</a> as a great example of community building. But clearly it is also one of the best sources in the UK for a wide range of freely available data sets. For each set of data they post, they offer a download of the data and recommend that if you do anything with it, you post it to their Flickr group. They often have additional visualizations and comparisons as well.</p>
+<p><a title="The Guardian Data Blog: Who works the longest hours in Europe" href="http://www.guardian.co.uk/news/datablog/2011/dec/08/europe-working-hours" target="_blank" rel="noopener"><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="Example of data provided by The Guardian Data Blog" src="/wp-content/uploads/2011/12/image.png" alt="Example of data provided by The Guardian Data Blog" width="448" height="595" border="0" /></a></p>
+<p>&nbsp;</p>
+<p>There are loads of additional resources for finding data, the trick is knowing how to search for the information you need. Sites like ScraperWiki (<a href="https://scraperwiki.com/">https://scraperwiki.com/</a>), DataSift (<a href="http://datasift.com/">http://datasift.com/</a>), The World Bank (<a href="http://data.worldbank.org/">http://data.worldbank.org/</a>),   BuzzData (<a href="http://buzzdata.com/">http://buzzdata.com/</a>) and more sites are growing and becoming available to the public for research and data mining.</p>
+<p>&nbsp;</p>
+<p><strong>NEWS APP EXAMPLES: </strong></p>
+<p><span class="pullquote">It’s no coincidence that a lot of my news app examples have shown up in prior blog posts – there are some organizations who are very seriously ahead of the pack in terms of understanding how news and technology work together</span>. On one hand I am delighted to have bright minds like these folks paving the way! On the other hand, it makes me a little depressed when I realize that Ireland is nowhere near this level of thinking.</p>
+<p>NPR’s StateImpact (<a href="http://stateimpact.npr.org/">http://stateimpact.npr.org/</a>) is a collaboration among NPR and local public radio stations in eight pilot states to examine public policy issues in depth. They provide explanatory, data-driven stories focused on how people’s lives are affected by government decisions.</p>
+<p><a title="NPR's StateImpact" href="http://http://stateimpact.npr.org/" target="_blank" rel="noopener"><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="NPR's StateImpact" src="/wp-content/uploads/2011/12/image1.png" alt="NPR's StateImpact" width="504" height="392" border="0" /></a></p>
+<p>The New York Times definitely has a well-respected team of interactive news developers and infographic designers. However it’s not always very easy to find them on their site. The <a title="NY Times Multimedia/Photos page" href="http://www.nytimes.com/pages/multimedia/index.html">Multimedia page</a> is the best resource I’ve found for taking a look at cool interactive apps and images they create, but Small labs Inc has also put together a nice collection here: <a href="http://www.smallmeans.com/new-york-times-infographics/">http://www.smallmeans.com/new-york-times-infographics/</a></p>
+<p><a title="NY Times Multimedia / Photos page" href="http://www.nytimes.com/pages/multimedia/index.html"><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="NY Times Multimedia / Photos page" src="/wp-content/uploads/2011/12/image2.png" alt="NY Times Multimedia / Photos page" width="519" height="489" border="0" /></a></p>
+<p>The Chicago Tribune has some of the busiest &amp; best news app builders in the United States today and they are constantly kicking out new, interesting information in nice visual formats. Check out their site which has apps in many areas including community, schools, business, politics and more.</p>
+<p><a title="Chicago Tribune Maps &amp; Apps" href="http://www.chicagotribune.com/news/data/"><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="Chicago Tribune Maps &amp; Apps" src="/wp-content/uploads/2011/12/image3.png" alt="Chicago Tribune Maps &amp; Apps" width="504" height="425" border="0" /></a></p>
+<p><strong><a href="http://www.propublica.org/tools">ProPublica</a></strong> creates not only fantastic interactive news applications like Dollars for Docs (which I referenced in my Quantified Self talk on skin problems), they also create excellent reusable tools like DocDiver that allow readers to work with the ProPublica reporters.</p>
+<p><a title="ProPublica Tools &amp; Data" href="http://www.propublica.org/tools/"><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="ProPublica Tools &amp; Data" src="/wp-content/uploads/2011/12/image4.png" alt="ProPublica Tools &amp; Data" width="520" height="321" border="0" /></a></p>
+<p>&nbsp;</p>
+<p><strong>DATA JOURNALISM RESOURCES: </strong></p>
+<p>To learn more about data journalism, here are a few useful sites to check out and blogs to follow:</p>
+<p><a title="The Data Journalism Handbook" href="https://docs.google.com/document/d/18YOaGj0LyRn6x1tcCH2wIWHYqwnMiDCGInbVHe210rM/edit?authkey=CLrotIQH&amp;hl=en_US&amp;authkey=CLrotIQH&amp;pli=1" target="_blank" rel="noopener">The Data Journalism Handbook</a>: a work-in-progress coordinated by the European Journalism Centre &amp; the Open Knowledge Foundation launched at the Mozilla Festival in London on November 5th 2011.</p>
+<p>Data Journalism Blog: <a href="http://www.datajournalismblog.com/">http://www.datajournalismblog.com/</a></p>
+<p>Hacks/Hackers: <a href="http://hackshackers.com/">http://hackshackers.com/</a> A grassroots journalism organization on a mission to create a network of journalists and technologists who rethink the future of news and information.</p>
+<p>ProPublica’s Dan Nguyen’s Scraping for Journalism: A Guide for Collecting Data <a href="http://www.propublica.org/nerds/item/doc-dollars-guides-collecting-the-data">http://www.propublica.org/nerds/item/doc-dollars-guides-collecting-the-data</a> – a great introduction to how to grab data that is in maybe less-than-optimal formats.</p>
+<p>Also from Dan Nguyen, The Bastards Book of Ruby <a href="http://ruby.bastardsbook.com/">http://ruby.bastardsbook.com/</a> – an introduction to programming and its practical uses for journalists, researchers, scientists, analysts and anyone else who needs to make sense of data.</p>
+<p>At the Society of News Design conference earlier this year, <a title="SND STL Review" href="http://martharotter.com/blog/index.php/2011/10/snd-stl-review-part-two/">I went to some excellent talks</a> by newsroom app developers who recommended that if you are thinking of going into this area, you need to know either Ruby on Rails or Django/Python, as those seem to be the dominant requested skills for news apps. I also liked this article recently on Poynter about using Backbone to create data news apps: <a href="http://www.poynter.org/how-tos/digital-strategies/147605/how-journalists-can-use-backbone-to-create-data-driven-projects/">http://www.poynter.org/how-tos/digital-strategies/147605/how-journalists-can-use-backbone-to-create-data-driven-projects/</a>. You don’t need to know everything, just pick one and start creating projects.</p>
+<p>&nbsp;</p>
+<p>And lastly, from the perfect timing department, here’s Matt Stiles, who is a data journalist from NPR, talking very recently about best practices in building news apps:</p>
+<p><iframe src="https://player.vimeo.com/video/28728286" width="640" height="424" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p><a href="http://vimeo.com/28728286">Data Best Practices</a> from <a href="http://vimeo.com/user7691280">StateImpact</a> on <a href="http://vimeo.com/">Vimeo</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>/tuesday-newsday-data-news-sites/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">748</post-id>	</item>
+		<item>
+		<title>Tuesday Newsday: Newspaper Developer Blogs</title>
+		<link>/tuesday-newsday-newspaper-developer-blogs/</link>
+				<comments>/tuesday-newsday-newspaper-developer-blogs/#comments</comments>
+				<pubDate>Tue, 01 Nov 2011 19:46:04 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[News/Magazines]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[Newspapers]]></category>
+		<category><![CDATA[publishing]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=668</guid>
+				<description><![CDATA[A common trait of successful online news and magazine sites is, surprisingly, a developer blog. Think of a developer blog as a look into the minds of the people building the site: what limitations they have, what they’re working on, what they believe their readers want or need, success stories of how they built interesting [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>A common trait of successful online news and magazine sites is, surprisingly, a developer blog. Think of a developer blog as a look into the minds of the people building the site: what limitations they have, what they’re working on, what they believe their readers want or need, success stories of how they built interesting things, and even day-to-day tidbits that remind readers that the site is built by thinking, feeling people instead of a faceless entity.</p>
+<ul>
+<li>I’ve heard many excuses for not wanting to have a developer blog:<br />
+<em>“Who would update the thing? Our team is busy!”<br />
+<em>“</em>No one wants to read stuff like this, they want to read the news.”<br />
+<em>“</em>We absolutely cannot publish this information, it’s secret. What if someone were to copy us?!”<br />
+<em>“</em>We’re developers, not writers. We wouldn’t know what to say.”<br />
+<em>“</em>Taking the time to write blog posts takes us away from being able to build the technology our team needs.”<br />
+</em>The list goes on and on.</li>
+</ul>
+<p>But for teams who do make the effort to create and update developer blogs, the rewards are great. I’m going to walk through some of the benefits of creating a developer blog for your site, using excellent existing blogs as examples of how to do this well.</p>
+<p>&nbsp;</p>
+<p><strong>EDUCATION</strong></p>
+<p>I believe very strongly that the best way to learn something yourself is to teach others and share your knowledge. This has become apparent to me from many directions including mentoring, teaching, writing tutorials, giving talks and training others. I always learn more each time I share with others.</p>
+<p>This industry moves so quickly. Suggestions on things that work and things that don’t as well as best practices and “how to” articles are invaluable for people. A solid “why we did it this way” or “the fastest way to do x” type of article can save other developers a great deal of time and make them eternally grateful to you.  Google recently changed their Maps API Terms of Service, causing a lot of confusion. <a title="Madison.com Labs :: Data-journo-hacker-mappers navigate through the changes to the Google Maps API" href="http://labs.madison.com/blog/2011/10/data-journo-hacker-mappers-navigate-through-the-changes-to-the-google-maps-api/" target="_blank" rel="noopener">Chris Keller from Madison.com wrote about the change</a>s and narrowed down the important bits for others affected by the change.</p>
+<p><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="Madison.com Labs" src="/wp-content/uploads/2011/11/image.png" alt="Madison.com Labs" width="560" height="581" border="0" /></p>
+<p>At <em>The Chicago Tribune</em>, the team is not just interested in educating itself and its blog readers, but also the community. <a title="Chicago Tribune News Apps Blog :: Steal this code" href="http://blog.apps.chicagotribune.com/2011/10/19/steal-this-code-presentation-to-hackshackers-opengovchicago/" target="_blank" rel="noopener">Joe Germuska blogs about his presentation to Hacks/Hackers Chicago in October</a>, posting his slides and sites he referenced throughout his talk.</p>
+<p><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="Chicago Tribune News Apps" src="/wp-content/uploads/2011/11/image1.png" alt="Chicago Tribune News Apps" width="540" height="538" border="0" /></p>
+<p>&nbsp;</p>
+<p><strong>ADVERTISE TECHNOLOGY YOU CAN LICENSE / SELL / GIVE AWAY</strong></p>
+<p>It might not happen all the time, but occasionally your team may create new applications or methods of doing things which are so valuable they’re worth selling or licensing. In 2005, <em>The Lawrence Journal-World</em> newspaper from Kansas released an open source tool called the Django web framework, and they ended up spinning out a software division to sell their customized CMS now called <a title="Ellington CMS" href="http://www.ellingtoncms.com/" target="_blank" rel="noopener">Ellington CMS</a>. A CMS coming from a media organization is a huge deal, since every media team I talk to vehemently hates their CMS.</p>
+<p><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="Ellington CMS" src="/wp-content/uploads/2011/11/image2.png" alt="Ellington CMS" width="560" height="510" border="0" /></p>
+<p>The ProPublica News Apps team released a new feature earlier this month called <a title="DocDiver :: ProPublica" href="http://projects.propublica.org/docdiver/" target="_blank" rel="noopener">DocDiver</a>, and they <a title="Introducing DocDiver :: ProPublica Nerd Blog" href="http://www.propublica.org/nerds/item/introducing-docdiver" target="_blank" rel="noopener">announced this on their “ProPublica Nerd Blog</a>.” The blog post included how it works, why they built it, and nerdy details on how it works. The project was built on top of the NYT DocumentViewer app and expands on that open source project.</p>
+<p><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="ProPublica Nerd Blog" src="/wp-content/uploads/2011/11/image3.png" alt="ProPublica Nerd Blog" width="560" height="558" border="0" /></p>
+<p>&nbsp;</p>
+<p><strong>KUDOS AND RECOGNITION FOR YOUR TEAM MEMBERS</strong></p>
+<p>Recognition and respect are two of the most important things you can help your team members achieve. <span class="pullquote">Developers and technologists who feel appreciated are more likely to stick around, work harder and be more loyal employees</span>. Industry recognition for your team circles back to help your organization improve its image as well.</p>
+<p><em>The Chicago Tribune</em> has built a <a title="Chicago Tribune :: Github projects" href="http://blog.apps.chicagotribune.com/2011/09/02/show-your-work/" target="_blank" rel="noopener">large collection of applications on Github</a> which are available for others to view &amp; fork: <a href="https://github.com/newsapps">https://github.com/newsapps</a>.</p>
+<p><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="Chicago Tribune News Apps" src="/wp-content/uploads/2011/11/image4.png" alt="Chicago Tribune News Apps" width="560" height="562" border="0" /></p>
+<p>Last week, <a title="Poynter.org :: 6 reasons journalists should 'show your work' while learning &amp; creating" href="http://www.poynter.org/how-tos/digital-strategies/150243/6-reasons-journalists-should-show-your-work-while-learning-creating/" target="_blank" rel="noopener">Poynter.org published an article by Matt Thompson on why journalists should be ‘showing their work’</a> while they create and learn. He mentions paying it forward, building data literacy, increasing the impact of your work and more.</p>
+<p><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="Poynter.org" src="/wp-content/uploads/2011/11/image5.png" alt="Poynter.org" width="560" height="544" border="0" /></p>
+<p>&nbsp;</p>
+<p><strong>GETTING TO CHALLENGE THE STATUS QUO </strong></p>
+<p>The worst thing that can happen to an industry is that it stagnates and no innovation occurs. Developer blogs are the perfect way to share your disruptive ideas with others who might be interested in doing something similar or building off of your idea.</p>
+<p>My favourite example of this this year is from a Maine newspaper, <em><a title="The Bangor Daily News" href="http://bangordailynews.com/" target="_blank" rel="noopener">The Bangor Daily News</a>. </em>Tired of a typically clunky workflow which involved a lot of cutting-and-pasting, the team built a new workflow out of Google Docs and WordPress. <em>The Bangor Daily News</em> dev blog is here: <a href="http://dev.bangordailynews.com/">http://dev.bangordailynews.com/</a>.  You can read more about their new workflow here: <a href="http://www.mediabistro.com/10000words/how-to-run-a-news-site-and-newspaper-using-wordpress-and-google-docs_b4781">http://www.mediabistro.com/10000words/how-to-run-a-news-site-and-newspaper-using-wordpress-and-google-docs_b4781</a>.<br />
+<strong>BUILD A COMMUNITY</strong></p>
+<p>What if you had a whole community of individuals you could get to give you input, suggestions, or even build things with your data and resources? Think of how much more you could achieve.</p>
+<p><em>The Guardian’</em>s Data Blog has done exactly that. A very active blog, The Guardian Data Blog releases new sets of data constantly in raw form. Sometimes they’ve been able to build charts or interactions to tell a story with it, and sometimes they simply provide the data. At the end of each article, they ask “Can you do something with this data?” and ask people to contact them or post visualizations on their Flickr page.</p>
+<p><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="The Guardian Data Blog" src="/wp-content/uploads/2011/11/image6.png" alt="The Guardian Data Blog" width="560" height="583" border="0" /></p>
+<p>The result is a fascinating body of work, which is much more diverse having community input, and is definitely larger than what <em>The Guardian</em> could have produced on its own. That kind of interaction and dedication by a community makes your site and publication much more interesting and valuable.</p>
+<p><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="The Guardian Data Blog Flickr Pool" src="/wp-content/uploads/2011/11/image7.png" alt="The Guardian Data Blog Flickr Pool" width="560" height="630" border="0" /></p>
+<p>&nbsp;</p>
+<p><strong>SHOW OFF YOUR CRAZY IDEAS</strong></p>
+<p>My dad used to tell me, “It ain’t bragging if you’ve done it.” If your team has built something amazing, solved a really tough problem, or tried something crazy (even if it was a colossal failure!), why not tell the world? <em>The New York Times</em> launched its “beta620” labs project this year, and the site is specifically for trying out wacky ideas and experimenting. So far they have created some projects which are simply experiments they’ve learned from. But they’ve also created products like the Times Skimmer, which end up as full-fledged products in the main site or in their mobile apps.</p>
+<p><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="The New York Times beta620" src="/wp-content/uploads/2011/11/image8.png" alt="The New York Times beta620" width="540" height="515" border="0" /></p>
+<p>&nbsp;</p>
+<p><strong>HIRE BETTER EMPLOYEES</strong></p>
+<p>We all know hiring good developers, designers, UX designers, content strategists and other technology positions is tough and getting tougher. People want to work for respected organizations doing interesting things. Advertising for free on your developer blog that you’re using new technology or being creative is a wonderful way to help the right people find their way to you.</p>
+<p>At <em>The Guardian,</em> they have been hosting “<a title="The Guardian Dev Blog : Guardian Hack Day One" href="http://www.guardian.co.uk/info/developer-blog/2011/oct/20/guardian-hack-day-one" target="_blank" rel="noopener">Guardian Hack Days</a>” and “<a title="Guardian Developer Blog :: Developer drop-ins" href="http://www.guardian.co.uk/info/developer-blog/2011/jul/11/developer-drop-in-speakers" target="_blank" rel="noopener">Developer drop-ins</a>” this year, both of which help expose their team and technology to potentially excellent candidates for future hiring. A developer looking for his or her next role would find articles like these very telling about office culture, priorities and work ethic, all things which are near impossible to discover in an interview.</p>
+<p><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="The Guardian Dev Blog" src="/wp-content/uploads/2011/11/image9.png" alt="The Guardian Dev Blog" width="560" height="558" border="0" /></p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>SUMMARY</strong></li>
+</ul>
+<p>If you’re considering creating a developer blog for your news or magazine application, be sure to keep an eye on the following blogs which are great examples of how to write, teach, influence and share well:</p>
+<p>ProPublica Nerd Blog :: <a href="http://www.propublica.org/nerds">http://www.propublica.org/nerds</a><br />
+Bangor Daily News Dev Blog :: <a href="http://dev.bangordailynews.com/">http://dev.bangordailynews.com/</a><br />
+Data Journalism Blog :: <a href="http://www.datajournalismblog.com/blog/">http://www.datajournalismblog.com/blog/</a><br />
+LA Times Data Desk :: <a href="http://projects.latimes.com/index/">http://projects.latimes.com/index/</a><br />
+Madison.com Labs Blog :: <a href="http://labs.madison.com/blog/">http://labs.madison.com/blog/</a><br />
+beta620 from The New York Times :: <a href="http://beta620.nytimes.com/">http://beta620.nytimes.com/</a><br />
+The Guardian Data Blog :: <a href="http://www.guardian.co.uk/news/datablogThe">http://www.guardian.co.uk/news/datablog<br />
+The</a> Guardian Developer Blog :: <a href="http://www.guardian.co.uk/info/developer-blog">http://www.guardian.co.uk/info/developer-blog</a><br />
+Chicago Tribune News Apps :: <a href="http://blog.apps.chicagotribune.com/">http://blog.apps.chicagotribune.com/</a></p>
+]]></content:encoded>
+							<wfw:commentRss>/tuesday-newsday-newspaper-developer-blogs/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">668</post-id>	</item>
+	</channel>
+</rss>

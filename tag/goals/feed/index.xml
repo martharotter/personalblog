@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>goals &#8211; Martha Rotter</title>
+	<atom:link href="/tag/goals/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Wed, 25 Jul 2018 09:44:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+<site xmlns="com-wordpress:feed-additions:1">144031741</site>	<item>
+		<title>Daily Lessons from 2011</title>
+		<link>/daily-lessons-from-2011/</link>
+				<comments>/daily-lessons-from-2011/#comments</comments>
+				<pubDate>Fri, 13 Jan 2012 22:49:57 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[goals]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=756</guid>
+				<description><![CDATA[At the beginning of 2011, I made a resolution to note one new thing I learned every day. I stole it from this article, which I loved: http://www.themorningnews.org/article/the-year-of-practical-thinking. I kept my list on tumblr here: http://thedailylesson.tumblr.com/. It was both easier and harder than I thought it would be. Easier because when you pay attention, you’re [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>At the beginning of 2011, I made a resolution to note one new thing I learned every day. I stole it from this article, which I loved: <a href="http://www.themorningnews.org/article/the-year-of-practical-thinking">http://www.themorningnews.org/article/the-year-of-practical-thinking</a>.</p>
+<p>I kept my list on tumblr here: <a href="http://thedailylesson.tumblr.com/">http://thedailylesson.tumblr.com/</a>.</p>
+<p>It was both easier and harder than I thought it would be. Easier because when you pay attention, you’re picking up new things all day long. All it takes is writing down one of these things, and once you’re conscious of trying to find something, it comes pretty easily. Harder because it wasn’t part of my routine, and I would sometimes realize that, after a few weeks of having my head down working on something or a week away, I hadn’t updated in a while. Going back through email and Twitter and podcasts and Facebook to find something I had definitely learned that day was tedious, but I wanted to look back on the posts &amp; know they were legit things I learned &amp; not made up.</p>
+<p>&nbsp;</p>
+<p><strong>OBSERVATIONS</strong></p>
+<p>One thing I noticed after only three months was how much fun it was to look back already. Three months! Think about where you were in, for example, June 2009. In the absence of a life-changing event like a birth, death or marriage, it’s pretty hard to remember what was generally going on around that time. I have always kept hand-written journals but without them or my blogs or other online sources of events, pinpointing a point during that time other than “I was working at Microsoft in Ireland…I was probably giving some tech talks…?” is pretty tough, at least for me.</p>
+<p>Some people would argue that *because* I have always kept journals I had relieved my brain of the need to recall great detail, sort of like the GTD philosophy. But I’ll leave that hypothesis alone for now.</p>
+<p><a title="The Daily Lesson" href="http://thedailylesson.tumblr.com/"><img style="background-image: none; margin: 5px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="Link to The Daily Lesson" src="/wp-content/uploads/2012/01/image_1.png" alt="Link to The Daily Lesson" width="417" height="424" border="0" /></a></p>
+<p>What was most fascinating to me, however, is how vivid a memory I can get from a day with often just a line or two about what I learned. I look at April 5th &amp; remember the tamale-making class I took with friends. Reading June 11th reminds me of my long conversation in a fishing shop when I bought my first rod probably since I was 14. November 3rd places me vividly in the place where I decided to go fulltime with Idea and Woopie and felt scared but more excited than I ever have about something I’ve worked on.</p>
+<p>&nbsp;</p>
+<p><strong>ANOTHER YEAR?</strong></p>
+<p>I haven’t decided yet if I’m going to do it again. While it’s not really time-consuming, my schedule is going to be much busier this year than last and I don’t want to half-ass it. However if you’re looking for a fun and different new year’s resolution, this is a good one.</p>
+]]></content:encoded>
+							<wfw:commentRss>/daily-lessons-from-2011/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">756</post-id>	</item>
+	</channel>
+</rss>

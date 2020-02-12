@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>
+	Comments on: What&#8217;s The Big Idea?	</title>
+	<atom:link href="/whats-the-big-idea/feed/" rel="self" type="application/rss+xml" />
+	<link>/whats-the-big-idea/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Wed, 25 Jul 2018 09:26:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+			<item>
+				<title>
+				By: Edward Savage				</title>
+				<link>/whats-the-big-idea/#comment-57</link>
+		<dc:creator><![CDATA[Edward Savage]]></dc:creator>
+		<pubDate>Tue, 07 Aug 2012 16:08:08 +0000</pubDate>
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=794#comment-57</guid>
+					<description><![CDATA[Hi Martha,
+
+Really like your stuff.
+Perhaps you could give me a shout. I have a personal interest in ideas and a professional interest in digital publishing.
+
+Best
+Ed]]></description>
+		<content:encoded><![CDATA[<p>Hi Martha,</p>
+<p>Really like your stuff.<br />
+Perhaps you could give me a shout. I have a personal interest in ideas and a professional interest in digital publishing.</p>
+<p>Best<br />
+Ed</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

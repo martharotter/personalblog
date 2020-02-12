@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Speaking &#8211; Martha Rotter</title>
+	<atom:link href="/category/speaking/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Fri, 17 Aug 2018 11:29:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+<site xmlns="com-wordpress:feed-additions:1">144031741</site>	<item>
+		<title>EdTech 2012 Keynote Slides :: Digital Literacies for Life</title>
+		<link>/edtech-2012-keynote-slides/</link>
+				<comments>/edtech-2012-keynote-slides/#respond</comments>
+				<pubDate>Wed, 18 Jul 2012 10:12:55 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Speaking]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=780</guid>
+				<description><![CDATA[In June I gave a keynote at the annual EdTech conference, organised by the Irish Learning Technology Association (ILTA). The event&#8217;s theme was &#8220;Digital Literacies for Life.&#8221; This was a really well-run event, and I was impressed over and over by the forward-thinking attendees. I really enjoyed talks by Doug Belshaw and the team of [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>In June I gave a keynote at the annual EdTech conference, organised by the Irish Learning Technology Association (ILTA). The event&#8217;s theme was &#8220;Digital Literacies for Life.&#8221;</p>
+<p>This was a really well-run event, and I was impressed over and over by the forward-thinking attendees. I really enjoyed talks by Doug Belshaw and the team of Lesley Gourlay &amp; Martin Oliver. I learned about using ePortfolios, creating mobile apps with students, using wikis and virtual worlds and many other innovative teaching techniques.</p>
+<p>I&#8217;ve shared my slides below as I&#8217;ve gotten a few requests for them. My thanks to the ILTA committee for inviting me and for putting together such an interesting and energetic conference. I&#8217;m looking forward to using a lot of these techniques in my teaching strategies.</p>
+<p><script async class="speakerdeck-embed" data-id="5006853836af010002023d97" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script></p>
+]]></content:encoded>
+							<wfw:commentRss>/edtech-2012-keynote-slides/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">780</post-id>	</item>
+		<item>
+		<title>Writing Elsewhere Around the Web</title>
+		<link>/writing-elsewhere-around-the-web/</link>
+				<comments>/writing-elsewhere-around-the-web/#respond</comments>
+				<pubDate>Sat, 17 Mar 2012 18:39:45 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Speaking]]></category>
+		<category><![CDATA[Magazines]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=777</guid>
+				<description><![CDATA[I took a short break from Tuesday Newsday and regular writing here to do some guest posts recently. Below is a quick roundup of what I’ve been up to in terms of articles written, podcasts and speaking engagements. &#160; Designing Engaging and Enjoyable Long-Form Reading Experiences – guest article for Smashing Magazine This article incorporates [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>I took a short break from Tuesday Newsday and regular writing here to do some guest posts recently. Below is a quick roundup of what I’ve been up to in terms of articles written, podcasts and speaking engagements.</p>
+<p>&nbsp;</p>
+<p><a title="Smashing Magazine :: Designing Engaging and Enjoyable Long-Form Reading Experiences" href="http://uxdesign.smashingmagazine.com/2012/03/07/designing-engaging-enjoyable-long-form-reading-experiences/" target="_blank" rel="noopener">Designing Engaging and Enjoyable Long-Form Reading Experiences</a> – <em>guest article for Smashing Magazine</em></p>
+<p>This article incorporates a lot of concepts that have been driving me crazy about digital content lately, some of which I’ve mentioned in this blog. Bad advertisements, disrespecting the reader, poorly chosen typography and lack of whitespace are just some of the concerns I cover here. If you’re spending time writing for the web, why not make sure it’s visible in a format that is inviting to the reader? Check out this article for ways to show your site or app’s visitors that you’re glad they’re there.</p>
+<p>&nbsp;</p>
+<p><a title=".net magazine :: Top 10 Ways to Create Digital Magazines" href="http://www.netmagazine.com/features/top-10-ways-create-digital-magazines" target="_blank" rel="noopener">The Top 10 Ways to Create Digital Magazines</a> – <em>guest article for .net magazine</em></p>
+<p>I wrote this post for .net magazine, one of my favourite magazines both in print and in digital, on some of the available methods and frameworks for creating digital magazines. I focused on systems which don’t export to just one platform as I don’t believe that’s a sustainable model for most publishers today. Instead I covered things like Laker Compendium (which we use for Idea magazine) and Treesaver that prioritize great web experiences over proprietary formats.</p>
+<p>&nbsp;</p>
+<p><strong>“Deep, Dark Secrets of Rupert Murdoch” –</strong> talk at Dublin’s #BeerMob event</p>
+<p>At  the first (but hopefully not the last!) Dublin #BeerMob, we talked about topics of interest to those who are developing sites or apps for mobile. And there was beer. I talked about Rupert Murdoch of all people, and the secrets behind The Daily. I covered why this isn’t a sustainable method or one anyone should copy and what designers and developers should focus on instead for their users. Slides are below:</p>
+<p><script async class="speakerdeck-embed" data-id="4f56007c80584d001f017bb7" data-ratio="1.1743119266055" src="//speakerdeck.com/assets/embed.js"></script></p>
+<p>&nbsp;</p>
+<p><strong>“Beware the Shiny” –</strong> talk at <a title="Refresh Dublin" href="http://refreshingcitiesdublin.org/" target="_blank" rel="noopener">Refresh Dublin</a> on March 15th</p>
+<p>I spoke at Refresh Dublin this month on the topic of being cautious of trying to learn too many things all at once. Sounds like a strange topic from someone who lectures in web development! But I see a lot of students spin and spin, not building a foundation as they jump from one shiny framework to the next. We all want to learn new things and keep our skills competitive, but it’s important to do so in a sustainable manner. Below are my slides from the talk:</p>
+<p><script async class="speakerdeck-embed" data-id="4f63c24e2b345b0022000c41" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script></p>
+<p>&nbsp;</p>
+<p><strong>Guest podcast on the Small Business Show</strong></p>
+<p>I had the opportunity to speak with Conn and Kehlan this week on the Small Business Show podcast about current news items in the Irish world of SMEs.</p>
+<p><a href="http://www.focusmeireland.com/small-business-show-35-with-martha-rotter-of-idea-magazine">http://www.focusmeireland.com/small-business-show-35-with-martha-rotter-of-idea-magazine</a></p>
+<p>&nbsp;</p>
+<p><strong>Guest podcast on the Technology.ie podcast with Stewart Curry</strong></p>
+<p>Stewart Curry and I chatted recently with Conn and Michele on the Technology.ie podcast, giving a behind-the-scenes view of Idea magazine and Woop.ie.</p>
+<p><a href="http://technology.ie/martha-rotter-and-stewart-curry-from-idea-magazine-tech-heroes-podcast-2/">http://technology.ie/martha-rotter-and-stewart-curry-from-idea-magazine-tech-heroes-podcast-2/</a></p>
+<p>&nbsp;</p>
+<p><strong>Guest posts for Information Week during Mobile World Congress</strong></p>
+<p>Speaking of shiny things, I had the opportunity to attend Mobile World Congress and work with the Information Week team. Mobile World Congress is something I’ve wanted to attend for a long time, so it was great to get to help out such an excellent team. Below are some of the articles I contributed:</p>
+<p><a title="Information Week :: Samsung Galaxy Beam Turns Heads: MWC 2012" href="http://informationweek.com/video/mobility/smart_phones/232601908" target="_blank" rel="noopener">Samsung Galaxy Beam Turns Heads: MWC 2012</a></p>
+<p><a title="Information Week :: SecureVoice Encrypts Mobile VoIP Communications" href="http://informationweek.com/video/security/mobile/232601831" target="_blank" rel="noopener">SecureVoice Encrypts Mobile VoIP Communications</a></p>
+<p><a title="Information Week :: Emporia Telecom: Mobile Phones for Elderly Users" href="http://informationweek.com/video/personal-tech/smart-phones/232601816" target="_blank" rel="noopener">Emporia Telecom: Mobile Phones for Elderly Users</a></p>
+<p><a title="Information Week :: 9 Coolest Smartphones at Mobile World Congress" href="http://informationweek.com/news/galleries/mobility/smart_phones/232601764" target="_blank" rel="noopener">9 Coolest Smartphones at Mobile World Congress</a></p>
+<p><a title="Information Week :: Coyote Systems Driver Info App Expands Across Europe" href="http://informationweek.com/video/personal-tech/mobile-apps/232601673?queryText=martha%20rotter" target="_blank" rel="noopener">Coyote Systems Driver Info App Expands Across Europe</a></p>
+<p><a title="Information Week :: MWC 2012: Smartphone Apps, Gadgets for Cars" href="http://informationweek.com/news/galleries/mobility/smart_phones/232601569" target="_blank" rel="noopener">MWC 2012: Smartphone Apps, Gadgets for Cars</a></p>
+<p><a title="Information Week :: HTC One Smartphone Debut at MWC 2012" href="http://informationweek.com/video/mobility/smart_phones/232601618" target="_blank" rel="noopener">HTC One Smartphone Debut at MWC 2012</a></p>
+<p><a title="Information Week :: ON Voicefeed Aims to Modernize Mobile Voicemail" href="http://informationweek.com/video/mobility/smart_phones/232601634" target="_blank" rel="noopener">ON Voicefeed Aims to Modernize Mobile Voicemail</a></p>
+<p><a title="Information Week :: MWC 2012: Waterproof Your Smartphones, Tablets" href="http://informationweek.com/news/galleries/mobility/smart_phones/232601518" target="_blank" rel="noopener">MWC 2012: Waterproof Your Smartphones, Tablets</a></p>
+]]></content:encoded>
+							<wfw:commentRss>/writing-elsewhere-around-the-web/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">777</post-id>	</item>
+		<item>
+		<title>CS Forum 2011 :: My Workshop Slides &#038; Content</title>
+		<link>/cs-forum-2011-my-workshop-slides-content/</link>
+				<comments>/cs-forum-2011-my-workshop-slides-content/#comments</comments>
+				<pubDate>Wed, 14 Sep 2011 14:56:30 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Speaking]]></category>
+		<category><![CDATA[csforum]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Magazines]]></category>
+		<category><![CDATA[Training]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=423</guid>
+				<description><![CDATA[Last week I delivered a half-day workshop at Content Strategy 2011 London on Designing Narrative Content.&#160; We covered topics like what makes narrative content effective versus useless, how to optimise workflow for narrative content, and technology options for narrative content.&#160; The slides are below. During the last section of the workshop we created our own, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Last week I delivered a half-day workshop<a href="/wp-content/uploads/2011/09/image6.png"><img style="background-image: none; border-right-width: 0px; margin: 5px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" align="right" src="/wp-content/uploads/2011/09/image_thumb4.png" width="240" height="195"></a> at <a title="Content Strategy 2011 London" href="http://2011.csforum.eu/" target="_blank">Content Strategy 2011 London</a> on <a title="Designing Narrative Content Workshop" href="http://2011.csforum.eu/workshops" target="_blank">Designing Narrative Content</a>.&nbsp; <span class="pullquote">We covered topics like what makes narrative content effective versus useless, how to optimise workflow for narrative content, and technology options</span> for narrative content.&nbsp; The slides are below.</p>
+<p>During the last section of the workshop we created our own, short, digital magazine called <em>The CS Forum Times,</em> which&nbsp; is now here: <a href="https://martharotter.com/csforum/ts/index.html">https://martharotter.com/csforum/ts/index.html</a>.&nbsp; The magazine content is recent articles and blog posts from speakers and organizers of CS Forum 2011 and was created in Treesaver.&nbsp; There are materials at <a href="https://martharotter.com/csforum">https://martharotter.com/csforum</a> for those who would like a small boilerplate to start with.</p>
+<p>The next blog post I do will be a short intro on how I built <em>The CS Forum Times</em> using Treesaver and will include some of the demos I did in the workshop with altering image sizes, so if you take a look at the starting point and want to know more, that blog post tomorrow will be a good overview.&nbsp; If you’re interested in learning how to do more with Treesaver, <a href="http://treesaverjs.com/">http://treesaverjs.com/</a> &amp; <a href="http://groups.google.com/group/treesaverjs?pli=1">http://groups.google.com/group/treesaverjs?pli=1</a> are excellent places to start.</p>
+<p><script src="http://speakerdeck.com/embed/4e70b1beac44c4000101238a.js?size=preview"></script></p>
+]]></content:encoded>
+							<wfw:commentRss>/cs-forum-2011-my-workshop-slides-content/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">423</post-id>	</item>
+		<item>
+		<title>CS Forum: Designing Narrative Content Workshop</title>
+		<link>/cs-forum-designing-narrative-content-workshop/</link>
+				<comments>/cs-forum-designing-narrative-content-workshop/#respond</comments>
+				<pubDate>Tue, 16 Aug 2011 16:19:12 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Speaking]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Magazines]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[Training]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/index.php/2011/08/cs-forum-designing-narrative-content-workshop/</guid>
+				<description><![CDATA[If you’re working in the area of content strategy, writing, developing or designing web sites, marketing or anything in between, you should probably be planning on heading to the Content Strategy Forum in London from September 5th – 7th. CS Forum has excellent speakers including Karen McGrane, Gerry McGovern, Kristina Halvorson, Erin Kissane.  They’ll be [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>If you’re working in the area of content strategy, writing, developing or designing web sites, marketing or anything in between, you should probably be planning on heading to the <a title="CS Forum :: London" href="http://2011.csforum.eu/" target="_blank">Content Strategy Forum in London</a> from September 5th – 7th.</p>
+<p><a title="CS Forum :: London" href="http://2011.csforum.eu/" target="_blank"><img style="background-image: none; margin: 0px auto 6px; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="image" src="/wp-content/uploads/2011/08/image4.png" alt="image" width="246" height="224" border="0" /></a></p>
+<p>CS Forum has excellent speakers including Karen McGrane, Gerry McGovern, Kristina Halvorson, Erin Kissane.  They’ll be covering everything from the value of content, techniques and tools, user experience design, business models, videos and much more. If you look closely you may even recognize some local speakers including <a title="Des Traynor" href="http://2011.csforum.eu/speakers/traynor" target="_blank">Des Traynor</a>, <a title="Cory-Ann Joseph" href="http://2011.csforum.eu/speakers/joseph" target="_blank">Cory-Ann Joseph</a>, and <a title="Martha Rotter @ CS Forum London" href="http://2011.csforum.eu/speakers/rotter" target="_blank">myself</a>.</p>
+<p>&nbsp;</p>
+<p><img style="background-image: none; margin: 0px auto 6px; padding-left: 0px; padding-right: 0px; display: block; float: none; padding-top: 0px; border-width: 0px;" title="image" src="/wp-content/uploads/2011/08/image5.png" alt="image" width="522" height="89" border="0" /></p>
+<p><strong>WORKSHOP DETAILS: </strong></p>
+<p>My workshop, <a title="CS Forum Workshops" href="http://2011.csforum.eu/workshops" target="_blank">Designing Narrative Content</a>, is designed to help people answer the question of “How can I make sure that <em>everything I’m doing</em> helps to reach the widest audience possible with my content, technology and overall strategy?”  It’s a hands-on workshop, so attendees will actually walk away with their own publishing strategy and even a sample publication online and live!</p>
+<p>In order to build and lay everything out, we’ll use a new technology called <a title="Treesaver" href="http://treesaver.net/">Treesaver</a> to dynamically produce our content and allow people to view it everywhere.  But don’t be scared if you think you’re not a developer, we’re not focusing on the dev part, we’re just focusing on the content.  You won’t have to know how to create HTML from scratch.  If you are familiar with HTML &amp; CSS, then you’ll be able to customize your experience a good bit more but it won’t be necessary.</p>
+<p>If you are working with narrative content, long-form content, any form of digital publishing (including magazines, newspapers, eBooks), <span class="pullquote">this workshop will save you a lot of time and money</span> in understanding how to design more content with small teams and small budgets.</p>
+<p>If you’re interested in the workshop and want to know more about it, please feel free to <a title="e-mail Martha" href="mailto:hi@martharotter.com">e-mail me for more information</a> or <a title="Martha on Twitter" href="http://twitter.com/martharotter" target="_blank">contact me on Twitter</a>.  If there is something you’d like to see added to the workshop, now would be a great time to let me know while I still have time to alter the presentation and exercises.</p>
+<p>&nbsp;</p>
+<p><strong>INTERVIEW:</strong></p>
+<p><a title="Randall Snare on Twitter" href="http://twitter.com/randallsnare" target="_blank">Randall Snare</a> interviewed me recently about my workshop and views on the field as well as what Indian palm readers predict for my very near future.  You can read that interview here for a bit more insight: <a href="http://blog.csforum.eu/articles/narrative-content-martha-rotter-preview">http://blog.csforum.eu/articles/narrative-content-martha-rotter-preview</a>.</p>
+<p>See you in London in September!  If you haven’t registered for the conference, the workshops or the <a title="BBQ + Wine = Winning" href="http://2011.csforum.eu/parties" target="_blank">excellent barbecue and wine reception</a>, you can still do that here: <a title="Register for CS Forum London" href="http://2011.csforum.eu/register">http://2011.csforum.eu/register</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>/cs-forum-designing-narrative-content-workshop/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">153</post-id>	</item>
+	</channel>
+</rss>

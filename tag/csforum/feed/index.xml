@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>csforum &#8211; Martha Rotter</title>
+	<atom:link href="/tag/csforum/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Fri, 17 Aug 2018 10:33:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+<site xmlns="com-wordpress:feed-additions:1">144031741</site>	<item>
+		<title>CS Forum 2011 :: My Workshop Slides &#038; Content</title>
+		<link>/cs-forum-2011-my-workshop-slides-content/</link>
+				<comments>/cs-forum-2011-my-workshop-slides-content/#comments</comments>
+				<pubDate>Wed, 14 Sep 2011 14:56:30 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Speaking]]></category>
+		<category><![CDATA[csforum]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Magazines]]></category>
+		<category><![CDATA[Training]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=423</guid>
+				<description><![CDATA[Last week I delivered a half-day workshop at Content Strategy 2011 London on Designing Narrative Content.&#160; We covered topics like what makes narrative content effective versus useless, how to optimise workflow for narrative content, and technology options for narrative content.&#160; The slides are below. During the last section of the workshop we created our own, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Last week I delivered a half-day workshop<a href="/wp-content/uploads/2011/09/image6.png"><img style="background-image: none; border-right-width: 0px; margin: 5px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" align="right" src="/wp-content/uploads/2011/09/image_thumb4.png" width="240" height="195"></a> at <a title="Content Strategy 2011 London" href="http://2011.csforum.eu/" target="_blank">Content Strategy 2011 London</a> on <a title="Designing Narrative Content Workshop" href="http://2011.csforum.eu/workshops" target="_blank">Designing Narrative Content</a>.&nbsp; <span class="pullquote">We covered topics like what makes narrative content effective versus useless, how to optimise workflow for narrative content, and technology options</span> for narrative content.&nbsp; The slides are below.</p>
+<p>During the last section of the workshop we created our own, short, digital magazine called <em>The CS Forum Times,</em> which&nbsp; is now here: <a href="https://martharotter.com/csforum/ts/index.html">https://martharotter.com/csforum/ts/index.html</a>.&nbsp; The magazine content is recent articles and blog posts from speakers and organizers of CS Forum 2011 and was created in Treesaver.&nbsp; There are materials at <a href="https://martharotter.com/csforum">https://martharotter.com/csforum</a> for those who would like a small boilerplate to start with.</p>
+<p>The next blog post I do will be a short intro on how I built <em>The CS Forum Times</em> using Treesaver and will include some of the demos I did in the workshop with altering image sizes, so if you take a look at the starting point and want to know more, that blog post tomorrow will be a good overview.&nbsp; If you’re interested in learning how to do more with Treesaver, <a href="http://treesaverjs.com/">http://treesaverjs.com/</a> &amp; <a href="http://groups.google.com/group/treesaverjs?pli=1">http://groups.google.com/group/treesaverjs?pli=1</a> are excellent places to start.</p>
+<p><script src="http://speakerdeck.com/embed/4e70b1beac44c4000101238a.js?size=preview"></script></p>
+]]></content:encoded>
+							<wfw:commentRss>/cs-forum-2011-my-workshop-slides-content/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">423</post-id>	</item>
+	</channel>
+</rss>

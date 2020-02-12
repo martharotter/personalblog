@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>woopie &#8211; Martha Rotter</title>
+	<atom:link href="/tag/woopie/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Tue, 13 Mar 2018 16:43:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+<site xmlns="com-wordpress:feed-additions:1">144031741</site>	<item>
+		<title>Forward March</title>
+		<link>/forward/</link>
+				<comments>/forward/#comments</comments>
+				<pubDate>Sun, 02 Mar 2014 00:02:57 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[woopie]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=842</guid>
+				<description><![CDATA[A little over a year ago I stopped writing online, save for a few posts on the Woopie blog. I stopped writing for myself, for other people, for freelance work. What my startup needed at the end of 2012 was focus. A year later, and what a year! I&#8217;m on a plane back to San [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>A little over a year ago I stopped writing online, save for a few posts on the <a title="Woopie :: Write Only Once, Publish It Everywhere" href="http://woop.ie/" target="_blank" rel="noopener">Woopie</a> blog. I stopped writing for myself, for other people, for freelance work. What my startup needed at the end of 2012 was focus.</p>
+<p>A year later, and what a year! I&#8217;m on a plane back to San Francisco from New York where we spent a week showing off Woopie to investors, media properties, friends, advisors and customers, and the reactions from people were incredible and invigorating. We have new customers on trial subscriptions, a queue of people looking to discuss their scenario more and how they can reach a larger audience on Woopie, investors ready to write cheques to sustain &amp; grow our company, and supporters and advisors cheering us on the whole way.</p>
+<p>I had been dreading the process of raising our seed round up until now. But at this point I realize we are 100% ready to take this step as a company. Moving Woopie from an Irish corporation to a US corporation was very painful, expensive and time-consuming, but it has prepared us both mentally and logistically to deal with the time-consuming and often frustrating process.</p>
+<p>I promised many folks that I would write up an overview of what it took to convert our company, given that it’s really hard to find solid advice from other companies about when &amp; how it makes sense to do so. I think it’s important to share experiences like this to help other people make informed decisions for their startups. I’m waiting for a few final things to go through before I do that, but hopefully will have that live over the next couple of weeks.</p>
+]]></content:encoded>
+							<wfw:commentRss>/forward/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">842</post-id>	</item>
+	</channel>
+</rss>

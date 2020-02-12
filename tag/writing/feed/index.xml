@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Writing &#8211; Martha Rotter</title>
+	<atom:link href="/tag/writing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another nerd</description>
+	<lastBuildDate>Wed, 25 Jul 2018 09:39:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+<site xmlns="com-wordpress:feed-additions:1">144031741</site>	<item>
+		<title>Writing Elsewhere Around the Web</title>
+		<link>/writing-elsewhere-around-the-web/</link>
+				<comments>/writing-elsewhere-around-the-web/#respond</comments>
+				<pubDate>Sat, 17 Mar 2012 18:39:45 +0000</pubDate>
+		<dc:creator><![CDATA[martha]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Speaking]]></category>
+		<category><![CDATA[Magazines]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">http://martharotter.com/blog/?p=777</guid>
+				<description><![CDATA[I took a short break from Tuesday Newsday and regular writing here to do some guest posts recently. Below is a quick roundup of what I’ve been up to in terms of articles written, podcasts and speaking engagements. &#160; Designing Engaging and Enjoyable Long-Form Reading Experiences – guest article for Smashing Magazine This article incorporates [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>I took a short break from Tuesday Newsday and regular writing here to do some guest posts recently. Below is a quick roundup of what I’ve been up to in terms of articles written, podcasts and speaking engagements.</p>
+<p>&nbsp;</p>
+<p><a title="Smashing Magazine :: Designing Engaging and Enjoyable Long-Form Reading Experiences" href="http://uxdesign.smashingmagazine.com/2012/03/07/designing-engaging-enjoyable-long-form-reading-experiences/" target="_blank" rel="noopener">Designing Engaging and Enjoyable Long-Form Reading Experiences</a> – <em>guest article for Smashing Magazine</em></p>
+<p>This article incorporates a lot of concepts that have been driving me crazy about digital content lately, some of which I’ve mentioned in this blog. Bad advertisements, disrespecting the reader, poorly chosen typography and lack of whitespace are just some of the concerns I cover here. If you’re spending time writing for the web, why not make sure it’s visible in a format that is inviting to the reader? Check out this article for ways to show your site or app’s visitors that you’re glad they’re there.</p>
+<p>&nbsp;</p>
+<p><a title=".net magazine :: Top 10 Ways to Create Digital Magazines" href="http://www.netmagazine.com/features/top-10-ways-create-digital-magazines" target="_blank" rel="noopener">The Top 10 Ways to Create Digital Magazines</a> – <em>guest article for .net magazine</em></p>
+<p>I wrote this post for .net magazine, one of my favourite magazines both in print and in digital, on some of the available methods and frameworks for creating digital magazines. I focused on systems which don’t export to just one platform as I don’t believe that’s a sustainable model for most publishers today. Instead I covered things like Laker Compendium (which we use for Idea magazine) and Treesaver that prioritize great web experiences over proprietary formats.</p>
+<p>&nbsp;</p>
+<p><strong>“Deep, Dark Secrets of Rupert Murdoch” –</strong> talk at Dublin’s #BeerMob event</p>
+<p>At  the first (but hopefully not the last!) Dublin #BeerMob, we talked about topics of interest to those who are developing sites or apps for mobile. And there was beer. I talked about Rupert Murdoch of all people, and the secrets behind The Daily. I covered why this isn’t a sustainable method or one anyone should copy and what designers and developers should focus on instead for their users. Slides are below:</p>
+<p><script async class="speakerdeck-embed" data-id="4f56007c80584d001f017bb7" data-ratio="1.1743119266055" src="//speakerdeck.com/assets/embed.js"></script></p>
+<p>&nbsp;</p>
+<p><strong>“Beware the Shiny” –</strong> talk at <a title="Refresh Dublin" href="http://refreshingcitiesdublin.org/" target="_blank" rel="noopener">Refresh Dublin</a> on March 15th</p>
+<p>I spoke at Refresh Dublin this month on the topic of being cautious of trying to learn too many things all at once. Sounds like a strange topic from someone who lectures in web development! But I see a lot of students spin and spin, not building a foundation as they jump from one shiny framework to the next. We all want to learn new things and keep our skills competitive, but it’s important to do so in a sustainable manner. Below are my slides from the talk:</p>
+<p><script async class="speakerdeck-embed" data-id="4f63c24e2b345b0022000c41" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script></p>
+<p>&nbsp;</p>
+<p><strong>Guest podcast on the Small Business Show</strong></p>
+<p>I had the opportunity to speak with Conn and Kehlan this week on the Small Business Show podcast about current news items in the Irish world of SMEs.</p>
+<p><a href="http://www.focusmeireland.com/small-business-show-35-with-martha-rotter-of-idea-magazine">http://www.focusmeireland.com/small-business-show-35-with-martha-rotter-of-idea-magazine</a></p>
+<p>&nbsp;</p>
+<p><strong>Guest podcast on the Technology.ie podcast with Stewart Curry</strong></p>
+<p>Stewart Curry and I chatted recently with Conn and Michele on the Technology.ie podcast, giving a behind-the-scenes view of Idea magazine and Woop.ie.</p>
+<p><a href="http://technology.ie/martha-rotter-and-stewart-curry-from-idea-magazine-tech-heroes-podcast-2/">http://technology.ie/martha-rotter-and-stewart-curry-from-idea-magazine-tech-heroes-podcast-2/</a></p>
+<p>&nbsp;</p>
+<p><strong>Guest posts for Information Week during Mobile World Congress</strong></p>
+<p>Speaking of shiny things, I had the opportunity to attend Mobile World Congress and work with the Information Week team. Mobile World Congress is something I’ve wanted to attend for a long time, so it was great to get to help out such an excellent team. Below are some of the articles I contributed:</p>
+<p><a title="Information Week :: Samsung Galaxy Beam Turns Heads: MWC 2012" href="http://informationweek.com/video/mobility/smart_phones/232601908" target="_blank" rel="noopener">Samsung Galaxy Beam Turns Heads: MWC 2012</a></p>
+<p><a title="Information Week :: SecureVoice Encrypts Mobile VoIP Communications" href="http://informationweek.com/video/security/mobile/232601831" target="_blank" rel="noopener">SecureVoice Encrypts Mobile VoIP Communications</a></p>
+<p><a title="Information Week :: Emporia Telecom: Mobile Phones for Elderly Users" href="http://informationweek.com/video/personal-tech/smart-phones/232601816" target="_blank" rel="noopener">Emporia Telecom: Mobile Phones for Elderly Users</a></p>
+<p><a title="Information Week :: 9 Coolest Smartphones at Mobile World Congress" href="http://informationweek.com/news/galleries/mobility/smart_phones/232601764" target="_blank" rel="noopener">9 Coolest Smartphones at Mobile World Congress</a></p>
+<p><a title="Information Week :: Coyote Systems Driver Info App Expands Across Europe" href="http://informationweek.com/video/personal-tech/mobile-apps/232601673?queryText=martha%20rotter" target="_blank" rel="noopener">Coyote Systems Driver Info App Expands Across Europe</a></p>
+<p><a title="Information Week :: MWC 2012: Smartphone Apps, Gadgets for Cars" href="http://informationweek.com/news/galleries/mobility/smart_phones/232601569" target="_blank" rel="noopener">MWC 2012: Smartphone Apps, Gadgets for Cars</a></p>
+<p><a title="Information Week :: HTC One Smartphone Debut at MWC 2012" href="http://informationweek.com/video/mobility/smart_phones/232601618" target="_blank" rel="noopener">HTC One Smartphone Debut at MWC 2012</a></p>
+<p><a title="Information Week :: ON Voicefeed Aims to Modernize Mobile Voicemail" href="http://informationweek.com/video/mobility/smart_phones/232601634" target="_blank" rel="noopener">ON Voicefeed Aims to Modernize Mobile Voicemail</a></p>
+<p><a title="Information Week :: MWC 2012: Waterproof Your Smartphones, Tablets" href="http://informationweek.com/news/galleries/mobility/smart_phones/232601518" target="_blank" rel="noopener">MWC 2012: Waterproof Your Smartphones, Tablets</a></p>
+]]></content:encoded>
+							<wfw:commentRss>/writing-elsewhere-around-the-web/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">777</post-id>	</item>
+	</channel>
+</rss>
