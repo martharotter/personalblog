@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Archive — Martha M. Rotter</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Sans:wght@300;400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:           #f7f4ef;
+    --bg2:          #edeae3;
+    --nav-bg:       #1a1a18;
+    --ink:          #1a1a18;
+    --ink-muted:    #5a5a52;
+    --ink-faint:    #b0aa9e;
+    --accent:       #2a6b6b;
+    --accent-light: #c8e0e0;
+    --accent-mid:   #3d8f8f;
+    --rule:         #d8d3c8;
+    --mono:         'IBM Plex Mono', monospace;
+    --sans:         'IBM Plex Sans', sans-serif;
+    --serif:        'Lora', Georgia, serif;
+    --max:          760px;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: 16px;
+    line-height: 1.75;
+    font-weight: 300;
+    -webkit-font-smoothing: antialiased;
+    background-image: radial-gradient(circle, var(--ink-faint) 1px, transparent 1px);
+    background-size: 28px 28px;
+    background-attachment: fixed;
+  }
+  nav {
+    position: sticky; top: 0; z-index: 100;
+    background: var(--nav-bg);
+    padding: 0 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+  }
+  .nav-name {
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    color: var(--accent-light);
+    text-decoration: none;
+  }
+  .nav-links { display: flex; gap: 2rem; list-style: none; }
+  .nav-links a {
+    font-family: var(--mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.45);
+    text-decoration: none;
+    transition: color 0.15s;
+  }
+  .nav-links a:hover { color: var(--accent-light); }
+  .container { max-width: var(--max); margin: 0 auto; padding: 0 2.5rem; }
+
+  #home {
+    background: var(--nav-bg);
+    padding: 6rem 2.5rem 5rem;
+    border-bottom: 3px solid var(--accent);
+    overflow: hidden;
+    position: relative;
+  }
+  #home::before {
+    content: 'ARCHIVE';
+    position: absolute;
+    right: -0.08em;
+    bottom: -0.2em;
+    font-family: var(--serif);
+    font-size: clamp(5rem, 16vw, 13rem);
+    font-weight: 600;
+    color: rgba(255,255,255,0.03);
+    line-height: 1;
+    pointer-events: none;
+    letter-spacing: -0.04em;
+  }
+  .hero-inner { max-width: var(--max); margin: 0 auto; position: relative; z-index: 1; }
+  .hero-eyebrow {
+    font-family: var(--mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--accent-mid);
+    margin-bottom: 1.5rem;
+    display: flex; align-items: center; gap: 0.75rem;
+  }
+  .hero-eyebrow::before { content: ''; display: inline-block; width: 2rem; height: 1px; background: var(--accent-mid); }
+  .hero-name {
+    font-family: var(--serif);
+    font-size: clamp(2.8rem, 7vw, 4.8rem);
+    font-weight: 400;
+    letter-spacing: -0.02em;
+    line-height: 1.05;
+    color: #f0ece4;
+    margin-bottom: 0.2em;
+  }
+  .hero-name em { font-style: italic; color: var(--accent-light); }
+  .hero-tagline {
+    font-size: 1rem;
+    color: rgba(240,236,228,0.55);
+    max-width: 540px;
+    line-height: 1.7;
+    margin-top: 1.75rem;
+    margin-bottom: 2.5rem;
+  }
+  .hero-links { display: flex; flex-wrap: wrap; gap: 0.75rem; list-style: none; }
+  .hero-links a {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.06em;
+    color: rgba(240,236,228,0.6);
+    text-decoration: none;
+    border: 1px solid rgba(255,255,255,0.12);
+    padding: 0.4rem 0.9rem;
+    border-radius: 2px;
+    transition: all 0.15s;
+    display: flex; align-items: center; gap: 0.45rem;
+    background: rgba(255,255,255,0.03);
+  }
+  .hero-links a:hover { border-color: var(--accent-mid); color: var(--accent-light); background: rgba(42,107,107,0.2); }
+
+  .section-wrap { background: var(--bg); padding: 5.5rem 0; border-bottom: 1px solid var(--rule); }
+  .section-wrap.alt { background: var(--bg2); }
+  .section-header { display: flex; align-items: baseline; gap: 1rem; margin-bottom: 3rem; }
+  .section-num { font-family: var(--mono); font-size: 0.65rem; letter-spacing: 0.1em; color: var(--ink-faint); padding-top: 0.15rem; }
+  .section-label { font-family: var(--mono); font-size: 0.68rem; font-weight: 500; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); }
+  .section-rule { flex: 1; height: 1px; background: var(--rule); }
+  h1, h2, h3 { font-family: var(--serif); font-weight: 400; line-height: 1.25; }
+
+  .intro-copy { font-size: 1.02rem; color: var(--ink-muted); max-width: 620px; line-height: 1.78; margin-bottom: 2rem; }
+  .archive-stats { display: grid; grid-template-columns: repeat(3, 1fr); border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); margin: 2.5rem 0; }
+  .stat { padding: 1.25rem 1rem 1.25rem 0; }
+  .stat strong { display: block; font-family: var(--serif); font-size: 1.9rem; font-weight: 400; color: var(--ink); line-height: 1; }
+  .stat span { display: block; margin-top: 0.45rem; font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-faint); }
+
+  .year-nav { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-bottom: 2.25rem; }
+  .year-nav a, .topic-chip {
+    font-family: var(--mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.04em;
+    color: var(--ink-muted);
+    text-decoration: none;
+    border: 1px solid var(--rule);
+    background: rgba(255,255,255,0.18);
+    padding: 0.45rem 0.7rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .year-nav a:hover { color: var(--accent); border-color: var(--accent); }
+  .year-nav em, .topic-chip em { font-style: normal; color: var(--accent); }
+  .topic-cloud { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .topic-chip { color: var(--ink-faint); background: transparent; }
+
+  .year-summary { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; margin-bottom: 1.5rem; }
+  .year-summary h2 { font-size: 2rem; color: var(--ink); }
+  .year-summary p { font-family: var(--mono); font-size: 0.65rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-faint); white-space: nowrap; }
+  .post-list { border-top: 1px solid var(--rule); }
+  .post-row {
+    display: grid;
+    grid-template-columns: 8.5rem minmax(0, 1fr) auto;
+    align-items: baseline;
+    gap: 1.25rem;
+    padding: 1.05rem 0 1.05rem 1.25rem;
+    border-bottom: 1px solid var(--rule);
+    border-left: 2px solid transparent;
+    color: inherit;
+    text-decoration: none;
+    transition: border-color 0.15s, padding-left 0.15s, background 0.15s;
+  }
+  .post-row:hover { border-left-color: var(--accent); padding-left: 1.55rem; background: rgba(42,107,107,0.035); }
+  .post-row time { font-family: var(--mono); font-size: 0.64rem; letter-spacing: 0.04em; color: var(--ink-faint); white-space: nowrap; }
+  .post-title { font-family: var(--serif); font-size: 1.03rem; font-weight: 600; color: var(--ink); line-height: 1.35; }
+  .post-topic { font-family: var(--mono); font-size: 0.6rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); background: var(--accent-light); padding: 0.12rem 0.5rem; border-radius: 2px; white-space: nowrap; }
+
+  footer {
+    background: var(--nav-bg);
+    padding: 1.75rem 2.5rem;
+    font-family: var(--mono);
+    font-size: 0.63rem;
+    color: rgba(240,236,228,0.25);
+    letter-spacing: 0.08em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  footer a { color: var(--accent-mid); text-decoration: none; }
+
+  @media (max-width: 700px) {
+    nav, #home { padding-left: 1.25rem; padding-right: 1.25rem; }
+    .nav-links { gap: 1.25rem; }
+    .container { padding: 0 1.25rem; }
+    .section-wrap { padding: 3.5rem 0; }
+    .archive-stats { grid-template-columns: 1fr; }
+    .stat { border-bottom: 1px solid var(--rule); }
+    .stat:last-child { border-bottom: 0; }
+    .year-summary { display: block; }
+    .year-summary p { margin-top: 0.35rem; }
+    .post-row { grid-template-columns: 1fr; gap: 0.35rem; padding-left: 0.85rem; }
+    .post-row:hover { padding-left: 1rem; }
+    .post-topic { width: fit-content; }
+    footer { align-items: flex-start; flex-direction: column; gap: 0.5rem; }
+  }
+</style>
+</head>
+<body>
+<nav>
+  <a class="nav-name" href="/">MMR</a>
+  <ul class="nav-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="#years">Years</a></li>
+    <li><a href="#topics">Topics</a></li>
+  </ul>
+</nav>
+
+<section id="home">
+  <div class="hero-inner">
+    <p class="hero-eyebrow">Old blog archive</p>
+    <h1 class="hero-name">Posts from<br><em>2010-2018</em></h1>
+    <p class="hero-tagline">A preserved collection of older writing on software, publishing, media experiments, travel, work, books, and the occasional better-formed question.</p>
+    <ul class="hero-links">
+      <li><a href="/"><span>←</span> Home</a></li>
+      <li><a href="#years"><span>↓</span> Browse years</a></li>
+    </ul>
+  </div>
+</section>
+
+<div class="section-wrap" id="years">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-num">01</span>
+      <span class="section-label">Archive</span>
+      <span class="section-rule"></span>
+    </div>
+    <p class="intro-copy">This page gathers my static WordPress-era posts into one browseable index. The original post pages are left intact, but the archive is organized by publication year.</p>
+    <div class="archive-stats">
+      <div class="stat"><strong>61</strong><span>Posts</span></div>
+      <div class="stat"><strong>5</strong><span>Years</span></div>
+      <div class="stat"><strong>8</strong><span>Themes</span></div>
+    </div>
+    <div class="year-nav">
+        <a href="#y2018"><span>2018</span><em>1</em></a>
+        <a href="#y2014"><span>2014</span><em>4</em></a>
+        <a href="#y2012"><span>2012</span><em>7</em></a>
+        <a href="#y2011"><span>2011</span><em>37</em></a>
+        <a href="#y2010"><span>2010</span><em>12</em></a>
+    </div>
+  </div>
+</div>
+
+<div class="section-wrap alt" id="topics">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-num">02</span>
+      <span class="section-label">Themes</span>
+      <span class="section-rule"></span>
+    </div>
+    <div class="topic-cloud">
+        <span class="topic-chip">Tuesday Newsday <em>16</em></span>
+        <span class="topic-chip">Personal <em>14</em></span>
+        <span class="topic-chip">Travel <em>10</em></span>
+        <span class="topic-chip">Publishing <em>7</em></span>
+        <span class="topic-chip">Data <em>4</em></span>
+        <span class="topic-chip">Work <em>4</em></span>
+        <span class="topic-chip">Reading <em>3</em></span>
+        <span class="topic-chip">Speaking <em>3</em></span>
+    </div>
+  </div>
+</div>
+
+<div class="section-wrap" id="y2018">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-num">03</span>
+        <span class="section-label">2018</span>
+        <span class="section-rule"></span>
+      </div>
+      <div class="year-summary">
+        <h2>2018</h2>
+        <p>1 post</p>
+      </div>
+      <div class="post-list">
+        <a class="post-row" href="/nevertheless-she-coded/">
+            <time datetime="2018-03-14">Mar 14, 2018</time>
+            <span class="post-title">Nevertheless, she coded</span>
+            <span class="post-topic">Personal</span>
+          </a>
+      </div>
+    </div>
+  </div>
+
+<div class="section-wrap alt" id="y2014">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-num">04</span>
+        <span class="section-label">2014</span>
+        <span class="section-rule"></span>
+      </div>
+      <div class="year-summary">
+        <h2>2014</h2>
+        <p>4 posts</p>
+      </div>
+      <div class="post-list">
+        <a class="post-row" href="/books-for-startup-founders/">
+            <time datetime="2014-10-04">Oct 4, 2014</time>
+            <span class="post-title">Books for Startup Founders</span>
+            <span class="post-topic">Work</span>
+          </a>
+<a class="post-row" href="/rediscovering-fiction/">
+            <time datetime="2014-09-21">Sep 21, 2014</time>
+            <span class="post-title">On Rediscovering Fiction</span>
+            <span class="post-topic">Reading</span>
+          </a>
+<a class="post-row" href="/a-new-kind-of-resolution/">
+            <time datetime="2014-03-03">Mar 3, 2014</time>
+            <span class="post-title">A New Kind of Resolution</span>
+            <span class="post-topic">Personal</span>
+          </a>
+<a class="post-row" href="/forward/">
+            <time datetime="2014-03-02">Mar 2, 2014</time>
+            <span class="post-title">Forward March</span>
+            <span class="post-topic">Personal</span>
+          </a>
+      </div>
+    </div>
+  </div>
+
+<div class="section-wrap" id="y2012">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-num">05</span>
+        <span class="section-label">2012</span>
+        <span class="section-rule"></span>
+      </div>
+      <div class="year-summary">
+        <h2>2012</h2>
+        <p>7 posts</p>
+      </div>
+      <div class="post-list">
+        <a class="post-row" href="/updated-podcast-recommendations/">
+            <time datetime="2012-11-07">Nov 7, 2012</time>
+            <span class="post-title">Updated Podcast Recommendations</span>
+            <span class="post-topic">Reading</span>
+          </a>
+<a class="post-row" href="/the-price-of-focus/">
+            <time datetime="2012-09-24">Sep 24, 2012</time>
+            <span class="post-title">The price of focus</span>
+            <span class="post-topic">Personal</span>
+          </a>
+<a class="post-row" href="/edtech-2012-keynote-slides/">
+            <time datetime="2012-07-18">Jul 18, 2012</time>
+            <span class="post-title">EdTech 2012 Keynote Slides :: Digital Literacies for Life</span>
+            <span class="post-topic">Speaking</span>
+          </a>
+<a class="post-row" href="/whats-the-big-idea/">
+            <time datetime="2012-07-18">Jul 18, 2012</time>
+            <span class="post-title">What's The Big Idea?</span>
+            <span class="post-topic">Publishing</span>
+          </a>
+<a class="post-row" href="/writing-elsewhere-around-the-web/">
+            <time datetime="2012-03-17">Mar 17, 2012</time>
+            <span class="post-title">Writing Elsewhere Around the Web</span>
+            <span class="post-topic">Personal</span>
+          </a>
+<a class="post-row" href="/tuesday-newsday-magazines-in-hours/">
+            <time datetime="2012-02-08">Feb 8, 2012</time>
+            <span class="post-title">Tuesday Newsday: Magazines in Hours</span>
+            <span class="post-topic">Tuesday Newsday</span>
+          </a>
+<a class="post-row" href="/daily-lessons-from-2011/">
+            <time datetime="2012-01-13">Jan 13, 2012</time>
+            <span class="post-title">Daily Lessons from 2011</span>
+            <span class="post-topic">Personal</span>
+          </a>
+      </div>
+    </div>
+  </div>
+
+<div class="section-wrap alt" id="y2011">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-num">06</span>
+        <span class="section-label">2011</span>
+        <span class="section-rule"></span>
+      </div>
+      <div class="year-summary">
+        <h2>2011</h2>
+        <p>37 posts</p>
+      </div>
+      <div class="post-list">
+        <a class="post-row" href="/just-in-time-for-last-minute-gift-givers-subscriptions-to-idea/">
+            <time datetime="2011-12-20">Dec 20, 2011</time>
+            <span class="post-title">Just in time for Last-Minute Gift Givers: Subscriptions to Idea!</span>
+            <span class="post-topic">Publishing</span>
+          </a>
+<a class="post-row" href="/tuesday-newsday-data-news-sites/">
+            <time datetime="2011-12-20">Dec 20, 2011</time>
+            <span class="post-title">Tuesday Newsday: Data News Sites</span>
+            <span class="post-topic">Tuesday Newsday</span>
+          </a>
+<a class="post-row" href="/whats-in-an-idea/">
+            <time datetime="2011-12-08">Dec 8, 2011</time>
+            <span class="post-title">What's in an Idea?</span>
+            <span class="post-topic">Publishing</span>
+          </a>
+<a class="post-row" href="/quantified-self-europe-review/">
+            <time datetime="2011-11-29">Nov 29, 2011</time>
+            <span class="post-title">Quantified Self Europe Review</span>
+            <span class="post-topic">Data</span>
+          </a>
+<a class="post-row" href="/exciting-idea-magazine-addition-help-with-hiring/">
+            <time datetime="2011-11-25">Nov 25, 2011</time>
+            <span class="post-title">Exciting Idea Magazine Addition: Help with Hiring</span>
+            <span class="post-topic">Publishing</span>
+          </a>
+<a class="post-row" href="/tuesday-newsday-audio-news-apps-2/">
+            <time datetime="2011-11-16">Nov 16, 2011</time>
+            <span class="post-title">Tuesday Newsday: Audio News Apps</span>
+            <span class="post-topic">Tuesday Newsday</span>
+          </a>
+<a class="post-row" href="/a-new-idea/">
+            <time datetime="2011-11-08">Nov 8, 2011</time>
+            <span class="post-title">A New Idea</span>
+            <span class="post-topic">Publishing</span>
+          </a>
+<a class="post-row" href="/tuesday-newsday-newspaper-developer-blogs/">
+            <time datetime="2011-11-01">Nov 1, 2011</time>
+            <span class="post-title">Tuesday Newsday: Newspaper Developer Blogs</span>
+            <span class="post-topic">Tuesday Newsday</span>
+          </a>
+<a class="post-row" href="/tuesday-newsday-facebook-news-apps/">
+            <time datetime="2011-10-25">Oct 25, 2011</time>
+            <span class="post-title">Tuesday Newsday: Facebook News Apps</span>
+            <span class="post-topic">Tuesday Newsday</span>
+          </a>
+<a class="post-row" href="/visualizing-aras-election-part-two/">
+            <time datetime="2011-10-20">Oct 20, 2011</time>
+            <span class="post-title">Visualizing Áras Election, Part Two</span>
+            <span class="post-topic">Data</span>
+          </a>
+<a class="post-row" href="/tuesday-newsday-the-ios5-newsstand/">
+            <time datetime="2011-10-18">Oct 18, 2011</time>
+            <span class="post-title">Tuesday Newsday: The iOS5 Newsstand</span>
+            <span class="post-topic">Tuesday Newsday</span>
+          </a>
+<a class="post-row" href="/visualizing-aras-election/">
+            <time datetime="2011-10-17">Oct 17, 2011</time>
+            <span class="post-title">Visualizing Áras Election</span>
+            <span class="post-topic">Data</span>
+          </a>
+<a class="post-row" href="/tuesday-newsday-digital-only-news/">
+            <time datetime="2011-10-13">Oct 13, 2011</time>
+            <span class="post-title">Tuesday Newsday: Digital-only News</span>
+            <span class="post-topic">Tuesday Newsday</span>
+          </a>
+<a class="post-row" href="/snd-stl-review-part-two/">
+            <time datetime="2011-10-11">Oct 11, 2011</time>
+            <span class="post-title">SND STL Review, Part Two</span>
+            <span class="post-topic">Personal</span>
+          </a>
+<a class="post-row" href="/snd-stl-review-part-one/">
+            <time datetime="2011-10-06">Oct 6, 2011</time>
+            <span class="post-title">SND STL Review, Part One</span>
+            <span class="post-topic">Personal</span>
+          </a>
+<a class="post-row" href="/tuesday-newsday-more-irish-news-online/">
+            <time datetime="2011-10-05">Oct 5, 2011</time>
+            <span class="post-title">Tuesday Newsday: More Irish News Online</span>
+            <span class="post-topic">Tuesday Newsday</span>
+          </a>
+<a class="post-row" href="/transitioning-from-working-in-an-office-to-working-from-home/">
+            <time datetime="2011-09-29">Sep 29, 2011</time>
+            <span class="post-title">Transitioning From Working in an Office to Working From Home</span>
+            <span class="post-topic">Work</span>
+          </a>
+<a class="post-row" href="/tuesday-newsday-the-irish-newspaper-edition/">
+            <time datetime="2011-09-27">Sep 27, 2011</time>
+            <span class="post-title">Tuesday Newsday: The Irish Newspaper Edition</span>
+            <span class="post-topic">Tuesday Newsday</span>
+          </a>
+<a class="post-row" href="/an-introduction-to-treesaver/">
+            <time datetime="2011-09-20">Sep 20, 2011</time>
+            <span class="post-title">An Introduction to Treesaver</span>
+            <span class="post-topic">Personal</span>
+          </a>
+<a class="post-row" href="/tuesday-newsday-pay-walls-freemium-business-class-what-works/">
+            <time datetime="2011-09-20">Sep 20, 2011</time>
+            <span class="post-title">Tuesday Newsday: Pay walls, Freemium, Business Class – What Works?</span>
+            <span class="post-topic">Tuesday Newsday</span>
+          </a>
+<a class="post-row" href="/cs-forum-2011-my-workshop-slides-content/">
+            <time datetime="2011-09-14">Sep 14, 2011</time>
+            <span class="post-title">CS Forum 2011 :: My Workshop Slides &amp; Content</span>
+            <span class="post-topic">Speaking</span>
+          </a>
+<a class="post-row" href="/tuesday-newsday-two-approaches-to-magazine-apps/">
+            <time datetime="2011-09-13">Sep 13, 2011</time>
+            <span class="post-title">Tuesday Newsday: Two Approaches to Magazine Apps</span>
+            <span class="post-topic">Tuesday Newsday</span>
+          </a>
+<a class="post-row" href="/free-ebooks-audiobooks-and-more-courtesy-of-your-local-library/">
+            <time datetime="2011-09-12">Sep 12, 2011</time>
+            <span class="post-title">Free eBooks, Audiobooks and More, Courtesy of Your Local Library</span>
+            <span class="post-topic">Reading</span>
+          </a>
+<a class="post-row" href="/tuesday-newsday-long-form-content-apps/">
+            <time datetime="2011-09-08">Sep 8, 2011</time>
+            <span class="post-title">Tuesday Newsday: Long-Form Content Apps</span>
+            <span class="post-topic">Tuesday Newsday</span>
+          </a>
+<a class="post-row" href="/tuesday-newsday-worldwide-news-sites/">
+            <time datetime="2011-08-31">Aug 31, 2011</time>
+            <span class="post-title">Tuesday Newsday: Worldwide News Sites</span>
+            <span class="post-topic">Tuesday Newsday</span>
+          </a>
+<a class="post-row" href="/fun-with-data-goal-setting/">
+            <time datetime="2011-08-27">Aug 27, 2011</time>
+            <span class="post-title">Fun With Data &amp; Goal-Setting</span>
+            <span class="post-topic">Data</span>
+          </a>
+<a class="post-row" href="/experiments-in-formatting-news-a-better-new-york-times/">
+            <time datetime="2011-08-24">Aug 24, 2011</time>
+            <span class="post-title">Experiments in Formatting News: A Better New York Times</span>
+            <span class="post-topic">Publishing</span>
+          </a>
+<a class="post-row" href="/tuesday-newsday-zite-and-the-best-aggregators/">
+            <time datetime="2011-08-23">Aug 23, 2011</time>
+            <span class="post-title">Tuesday Newsday: Zite and the Best Aggregators</span>
+            <span class="post-topic">Tuesday Newsday</span>
+          </a>
+<a class="post-row" href="/augh-my-eyes-my-eyes/">
+            <time datetime="2011-08-19">Aug 19, 2011</time>
+            <span class="post-title">AUGH, My Eyes! My Eyes!</span>
+            <span class="post-topic">Personal</span>
+          </a>
+<a class="post-row" href="/cs-forum-designing-narrative-content-workshop/">
+            <time datetime="2011-08-16">Aug 16, 2011</time>
+            <span class="post-title">CS Forum: Designing Narrative Content Workshop</span>
+            <span class="post-topic">Speaking</span>
+          </a>
+<a class="post-row" href="/tuesday-newsday-amazons-kindle-cloud-reader/">
+            <time datetime="2011-08-16">Aug 16, 2011</time>
+            <span class="post-title">Tuesday Newsday: Amazon’s Kindle Cloud Reader</span>
+            <span class="post-topic">Tuesday Newsday</span>
+          </a>
+<a class="post-row" href="/tuesday-newsday-the-atlantic-magazine/">
+            <time datetime="2011-08-09">Aug 9, 2011</time>
+            <span class="post-title">Tuesday Newsday: The Atlantic Magazine</span>
+            <span class="post-topic">Tuesday Newsday</span>
+          </a>
+<a class="post-row" href="/welcome-to-web-app-magazines/">
+            <time datetime="2011-08-05">Aug 5, 2011</time>
+            <span class="post-title">Welcome to Web App Magazines</span>
+            <span class="post-topic">Publishing</span>
+          </a>
+<a class="post-row" href="/getting-out-of-the-bubble/">
+            <time datetime="2011-03-11">Mar 11, 2011</time>
+            <span class="post-title">Getting Out of the Bubble</span>
+            <span class="post-topic">Personal</span>
+          </a>
+<a class="post-row" href="/2011-back-to-work/">
+            <time datetime="2011-01-11">Jan 11, 2011</time>
+            <span class="post-title">2011: Back to Work</span>
+            <span class="post-topic">Work</span>
+          </a>
+<a class="post-row" href="/funemployment/">
+            <time datetime="2011-01-11">Jan 11, 2011</time>
+            <span class="post-title">Funemployment</span>
+            <span class="post-topic">Work</span>
+          </a>
+<a class="post-row" href="/who-turned-off-teh-interwebs/">
+            <time datetime="2011-01-11">Jan 11, 2011</time>
+            <span class="post-title">Who Turned off Teh Interwebs?</span>
+            <span class="post-topic">Personal</span>
+          </a>
+      </div>
+    </div>
+  </div>
+
+<div class="section-wrap" id="y2010">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-num">07</span>
+        <span class="section-label">2010</span>
+        <span class="section-rule"></span>
+      </div>
+      <div class="year-summary">
+        <h2>2010</h2>
+        <p>12 posts</p>
+      </div>
+      <div class="post-list">
+        <a class="post-row" href="/tibet-a-whole-new-world/">
+            <time datetime="2010-11-30">Nov 30, 2010</time>
+            <span class="post-title">Tibet: A Whole New World</span>
+            <span class="post-topic">Travel</span>
+          </a>
+<a class="post-row" href="/pokhara-lakeside-retreat/">
+            <time datetime="2010-11-23">Nov 23, 2010</time>
+            <span class="post-title">Pokhara: Lakeside Retreat</span>
+            <span class="post-topic">Travel</span>
+          </a>
+<a class="post-row" href="/tibet-bound/">
+            <time datetime="2010-11-23">Nov 23, 2010</time>
+            <span class="post-title">Tibet – Bound</span>
+            <span class="post-topic">Travel</span>
+          </a>
+<a class="post-row" href="/pokhara-and-a-distinct-lack-of-parahawking/">
+            <time datetime="2010-11-04">Nov 4, 2010</time>
+            <span class="post-title">En Route to Pokhara</span>
+            <span class="post-topic">Travel</span>
+          </a>
+<a class="post-row" href="/travelling-with-technology/">
+            <time datetime="2010-11-04">Nov 4, 2010</time>
+            <span class="post-title">Travelling with Technology</span>
+            <span class="post-topic">Travel</span>
+          </a>
+<a class="post-row" href="/our-trek-comes-to-a-close/">
+            <time datetime="2010-10-20">Oct 20, 2010</time>
+            <span class="post-title">Our Trek Comes to a Close</span>
+            <span class="post-topic">Travel</span>
+          </a>
+<a class="post-row" href="/trekking-to-landruk-village/">
+            <time datetime="2010-10-20">Oct 20, 2010</time>
+            <span class="post-title">Trekking: to Landruk village</span>
+            <span class="post-topic">Travel</span>
+          </a>
+<a class="post-row" href="/nepal-trip-qa/">
+            <time datetime="2010-10-08">Oct 8, 2010</time>
+            <span class="post-title">Nepal Trip Q&amp;A</span>
+            <span class="post-topic">Travel</span>
+          </a>
+<a class="post-row" href="/trekking-day-one/">
+            <time datetime="2010-10-08">Oct 8, 2010</time>
+            <span class="post-title">Trekking Day One</span>
+            <span class="post-topic">Travel</span>
+          </a>
+<a class="post-row" href="/dublin-to-nepal/">
+            <time datetime="2010-10-02">Oct 2, 2010</time>
+            <span class="post-title">Dublin to Nepal</span>
+            <span class="post-topic">Travel</span>
+          </a>
+<a class="post-row" href="/leaving-the-soft/">
+            <time datetime="2010-09-29">Sep 29, 2010</time>
+            <span class="post-title">Leaving the ‘Soft</span>
+            <span class="post-topic">Personal</span>
+          </a>
+<a class="post-row" href="/new-chapter-new-blog/">
+            <time datetime="2010-09-29">Sep 29, 2010</time>
+            <span class="post-title">New Chapter, New Blog</span>
+            <span class="post-topic">Personal</span>
+          </a>
+      </div>
+    </div>
+  </div>
+
+<footer>
+  <span>© Martha M. Rotter</span>
+  <a href="/">Back to main site</a>
+</footer>
+</body>
+</html>

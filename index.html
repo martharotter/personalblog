@@ -422,6 +422,7 @@
     transition: opacity 0.15s;
     max-width: 500px;
   }
+  .blog-link-card + .blog-link-card { margin-top: 0.85rem; }
   .blog-link-card:hover { opacity: 0.85; }
   .blog-link-title {
     font-family: var(--serif);
@@ -550,7 +551,7 @@
   <ul class="nav-links">
     <li><a href="#about">About</a></li>
     <li><a href="#projects">Projects</a></li>
-    <!-- <li><a href="#blog">Blog</a></li> -->
+    <li><a href="/archive/">Archive</a></li>
     <li><a href="#contact">Contact</a></li>
   </ul>
 </nav>
@@ -808,7 +809,6 @@
 </div>
 
 <!-- BLOG -->
-<!--
 <div class="section-wrap alt" id="blog">
   <div class="container">
     <div class="section-header">
@@ -816,7 +816,7 @@
       <span class="section-label">Blog</span>
       <span class="section-rule"></span>
     </div>
-    <p class="blog-note">I write about AI in medicine, software engineering, and occasional tangents. Posts are hosted on <a href="https://bearblog.dev" target="_blank">Bear Blog</a> — a deliberately simple, fast platform that gets out of the way.</p>
+    <p class="blog-note">I write about AI in medicine, software engineering, and occasional tangents. Newer posts are hosted on <a href="https://bearblog.dev" target="_blank">Bear Blog</a>; older WordPress-era posts live in the local archive.</p>
     <a class="blog-link-card" href="https://martha.bearblog.dev" target="_blank">
       <div>
         <div class="blog-link-title">Read posts on Bear Blog</div>
@@ -824,9 +824,15 @@
       </div>
       <span class="blog-arrow">→</span>
     </a>
+    <a class="blog-link-card" href="/archive/">
+      <div>
+        <div class="blog-link-title">Browse the old blog archive</div>
+        <div class="blog-link-meta">2010-2018</div>
+      </div>
+      <span class="blog-arrow">→</span>
+    </a>
   </div>
 </div>
--->
 
 <!-- CONTACT -->
 <div class="section-wrap" id="contact" style="padding-bottom:6rem;">
