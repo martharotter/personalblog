@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>Page moved — Martha M. Rotter</title>
+<style>
+  body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #f7f4ef; color: #1a1a18; font-family: Georgia, serif; }
+  main { max-width: 34rem; padding: 2rem; }
+  h1 { font-weight: 400; font-size: 2rem; }
+  p, a { font-family: system-ui, sans-serif; line-height: 1.6; }
+  a { color: #2a6b6b; }
+</style>
+<script>
+  const redirects = {
+  "/dublin-to-nepal/": "/archive/posts/2010/dublin-to-nepal/",
+  "/dublin-to-nepal/feed/": "/archive/posts/2010/dublin-to-nepal/feed/",
+  "/leaving-the-soft/": "/archive/posts/2010/leaving-the-soft/",
+  "/leaving-the-soft/feed/": "/archive/posts/2010/leaving-the-soft/feed/",
+  "/nepal-trip-qa/": "/archive/posts/2010/nepal-trip-qa/",
+  "/nepal-trip-qa/feed/": "/archive/posts/2010/nepal-trip-qa/feed/",
+  "/new-chapter-new-blog/": "/archive/posts/2010/new-chapter-new-blog/",
+  "/new-chapter-new-blog/feed/": "/archive/posts/2010/new-chapter-new-blog/feed/",
+  "/our-trek-comes-to-a-close/": "/archive/posts/2010/our-trek-comes-to-a-close/",
+  "/our-trek-comes-to-a-close/feed/": "/archive/posts/2010/our-trek-comes-to-a-close/feed/",
+  "/pokhara-and-a-distinct-lack-of-parahawking/": "/archive/posts/2010/pokhara-and-a-distinct-lack-of-parahawking/",
+  "/pokhara-and-a-distinct-lack-of-parahawking/feed/": "/archive/posts/2010/pokhara-and-a-distinct-lack-of-parahawking/feed/",
+  "/pokhara-lakeside-retreat/": "/archive/posts/2010/pokhara-lakeside-retreat/",
+  "/pokhara-lakeside-retreat/feed/": "/archive/posts/2010/pokhara-lakeside-retreat/feed/",
+  "/tibet-a-whole-new-world/": "/archive/posts/2010/tibet-a-whole-new-world/",
+  "/tibet-a-whole-new-world/feed/": "/archive/posts/2010/tibet-a-whole-new-world/feed/",
+  "/tibet-bound/": "/archive/posts/2010/tibet-bound/",
+  "/tibet-bound/feed/": "/archive/posts/2010/tibet-bound/feed/",
+  "/travelling-with-technology/": "/archive/posts/2010/travelling-with-technology/",
+  "/travelling-with-technology/feed/": "/archive/posts/2010/travelling-with-technology/feed/",
+  "/trekking-day-one/": "/archive/posts/2010/trekking-day-one/",
+  "/trekking-day-one/feed/": "/archive/posts/2010/trekking-day-one/feed/",
+  "/trekking-to-landruk-village/": "/archive/posts/2010/trekking-to-landruk-village/",
+  "/trekking-to-landruk-village/feed/": "/archive/posts/2010/trekking-to-landruk-village/feed/",
+  "/2011-back-to-work/": "/archive/posts/2011/2011-back-to-work/",
+  "/2011-back-to-work/feed/": "/archive/posts/2011/2011-back-to-work/feed/",
+  "/a-new-idea/": "/archive/posts/2011/a-new-idea/",
+  "/a-new-idea/feed/": "/archive/posts/2011/a-new-idea/feed/",
+  "/an-introduction-to-treesaver/": "/archive/posts/2011/an-introduction-to-treesaver/",
+  "/an-introduction-to-treesaver/feed/": "/archive/posts/2011/an-introduction-to-treesaver/feed/",
+  "/augh-my-eyes-my-eyes/": "/archive/posts/2011/augh-my-eyes-my-eyes/",
+  "/augh-my-eyes-my-eyes/feed/": "/archive/posts/2011/augh-my-eyes-my-eyes/feed/",
+  "/cs-forum-2011-my-workshop-slides-content/": "/archive/posts/2011/cs-forum-2011-my-workshop-slides-content/",
+  "/cs-forum-2011-my-workshop-slides-content/feed/": "/archive/posts/2011/cs-forum-2011-my-workshop-slides-content/feed/",
+  "/cs-forum-designing-narrative-content-workshop/": "/archive/posts/2011/cs-forum-designing-narrative-content-workshop/",
+  "/cs-forum-designing-narrative-content-workshop/feed/": "/archive/posts/2011/cs-forum-designing-narrative-content-workshop/feed/",
+  "/exciting-idea-magazine-addition-help-with-hiring/": "/archive/posts/2011/exciting-idea-magazine-addition-help-with-hiring/",
+  "/exciting-idea-magazine-addition-help-with-hiring/feed/": "/archive/posts/2011/exciting-idea-magazine-addition-help-with-hiring/feed/",
+  "/experiments-in-formatting-news-a-better-new-york-times/": "/archive/posts/2011/experiments-in-formatting-news-a-better-new-york-times/",
+  "/experiments-in-formatting-news-a-better-new-york-times/feed/": "/archive/posts/2011/experiments-in-formatting-news-a-better-new-york-times/feed/",
+  "/free-ebooks-audiobooks-and-more-courtesy-of-your-local-library/": "/archive/posts/2011/free-ebooks-audiobooks-and-more-courtesy-of-your-local-library/",
+  "/free-ebooks-audiobooks-and-more-courtesy-of-your-local-library/feed/": "/archive/posts/2011/free-ebooks-audiobooks-and-more-courtesy-of-your-local-library/feed/",
+  "/fun-with-data-goal-setting/": "/archive/posts/2011/fun-with-data-goal-setting/",
+  "/fun-with-data-goal-setting/feed/": "/archive/posts/2011/fun-with-data-goal-setting/feed/",
+  "/funemployment/": "/archive/posts/2011/funemployment/",
+  "/funemployment/feed/": "/archive/posts/2011/funemployment/feed/",
+  "/getting-out-of-the-bubble/": "/archive/posts/2011/getting-out-of-the-bubble/",
+  "/getting-out-of-the-bubble/feed/": "/archive/posts/2011/getting-out-of-the-bubble/feed/",
+  "/just-in-time-for-last-minute-gift-givers-subscriptions-to-idea/": "/archive/posts/2011/just-in-time-for-last-minute-gift-givers-subscriptions-to-idea/",
+  "/just-in-time-for-last-minute-gift-givers-subscriptions-to-idea/feed/": "/archive/posts/2011/just-in-time-for-last-minute-gift-givers-subscriptions-to-idea/feed/",
+  "/quantified-self-europe-review/": "/archive/posts/2011/quantified-self-europe-review/",
+  "/quantified-self-europe-review/feed/": "/archive/posts/2011/quantified-self-europe-review/feed/",
+  "/snd-stl-review-part-one/": "/archive/posts/2011/snd-stl-review-part-one/",
+  "/snd-stl-review-part-one/feed/": "/archive/posts/2011/snd-stl-review-part-one/feed/",
+  "/snd-stl-review-part-two/": "/archive/posts/2011/snd-stl-review-part-two/",
+  "/snd-stl-review-part-two/feed/": "/archive/posts/2011/snd-stl-review-part-two/feed/",
+  "/transitioning-from-working-in-an-office-to-working-from-home/": "/archive/posts/2011/transitioning-from-working-in-an-office-to-working-from-home/",
+  "/transitioning-from-working-in-an-office-to-working-from-home/feed/": "/archive/posts/2011/transitioning-from-working-in-an-office-to-working-from-home/feed/",
+  "/tuesday-newsday-amazons-kindle-cloud-reader/": "/archive/posts/2011/tuesday-newsday-amazons-kindle-cloud-reader/",
+  "/tuesday-newsday-amazons-kindle-cloud-reader/feed/": "/archive/posts/2011/tuesday-newsday-amazons-kindle-cloud-reader/feed/",
+  "/tuesday-newsday-audio-news-apps-2/": "/archive/posts/2011/tuesday-newsday-audio-news-apps-2/",
+  "/tuesday-newsday-audio-news-apps-2/feed/": "/archive/posts/2011/tuesday-newsday-audio-news-apps-2/feed/",
+  "/tuesday-newsday-data-news-sites/": "/archive/posts/2011/tuesday-newsday-data-news-sites/",
+  "/tuesday-newsday-data-news-sites/feed/": "/archive/posts/2011/tuesday-newsday-data-news-sites/feed/",
+  "/tuesday-newsday-digital-only-news/": "/archive/posts/2011/tuesday-newsday-digital-only-news/",
+  "/tuesday-newsday-digital-only-news/feed/": "/archive/posts/2011/tuesday-newsday-digital-only-news/feed/",
+  "/tuesday-newsday-facebook-news-apps/": "/archive/posts/2011/tuesday-newsday-facebook-news-apps/",
+  "/tuesday-newsday-facebook-news-apps/feed/": "/archive/posts/2011/tuesday-newsday-facebook-news-apps/feed/",
+  "/tuesday-newsday-long-form-content-apps/": "/archive/posts/2011/tuesday-newsday-long-form-content-apps/",
+  "/tuesday-newsday-long-form-content-apps/feed/": "/archive/posts/2011/tuesday-newsday-long-form-content-apps/feed/",
+  "/tuesday-newsday-more-irish-news-online/": "/archive/posts/2011/tuesday-newsday-more-irish-news-online/",
+  "/tuesday-newsday-more-irish-news-online/feed/": "/archive/posts/2011/tuesday-newsday-more-irish-news-online/feed/",
+  "/tuesday-newsday-newspaper-developer-blogs/": "/archive/posts/2011/tuesday-newsday-newspaper-developer-blogs/",
+  "/tuesday-newsday-newspaper-developer-blogs/feed/": "/archive/posts/2011/tuesday-newsday-newspaper-developer-blogs/feed/",
+  "/tuesday-newsday-pay-walls-freemium-business-class-what-works/": "/archive/posts/2011/tuesday-newsday-pay-walls-freemium-business-class-what-works/",
+  "/tuesday-newsday-pay-walls-freemium-business-class-what-works/feed/": "/archive/posts/2011/tuesday-newsday-pay-walls-freemium-business-class-what-works/feed/",
+  "/tuesday-newsday-the-atlantic-magazine/": "/archive/posts/2011/tuesday-newsday-the-atlantic-magazine/",
+  "/tuesday-newsday-the-atlantic-magazine/feed/": "/archive/posts/2011/tuesday-newsday-the-atlantic-magazine/feed/",
+  "/tuesday-newsday-the-ios5-newsstand/": "/archive/posts/2011/tuesday-newsday-the-ios5-newsstand/",
+  "/tuesday-newsday-the-ios5-newsstand/feed/": "/archive/posts/2011/tuesday-newsday-the-ios5-newsstand/feed/",
+  "/tuesday-newsday-the-irish-newspaper-edition/": "/archive/posts/2011/tuesday-newsday-the-irish-newspaper-edition/",
+  "/tuesday-newsday-the-irish-newspaper-edition/feed/": "/archive/posts/2011/tuesday-newsday-the-irish-newspaper-edition/feed/",
+  "/tuesday-newsday-two-approaches-to-magazine-apps/": "/archive/posts/2011/tuesday-newsday-two-approaches-to-magazine-apps/",
+  "/tuesday-newsday-two-approaches-to-magazine-apps/feed/": "/archive/posts/2011/tuesday-newsday-two-approaches-to-magazine-apps/feed/",
+  "/tuesday-newsday-worldwide-news-sites/": "/archive/posts/2011/tuesday-newsday-worldwide-news-sites/",
+  "/tuesday-newsday-worldwide-news-sites/feed/": "/archive/posts/2011/tuesday-newsday-worldwide-news-sites/feed/",
+  "/tuesday-newsday-zite-and-the-best-aggregators/": "/archive/posts/2011/tuesday-newsday-zite-and-the-best-aggregators/",
+  "/tuesday-newsday-zite-and-the-best-aggregators/feed/": "/archive/posts/2011/tuesday-newsday-zite-and-the-best-aggregators/feed/",
+  "/visualizing-aras-election/": "/archive/posts/2011/visualizing-aras-election/",
+  "/visualizing-aras-election/feed/": "/archive/posts/2011/visualizing-aras-election/feed/",
+  "/visualizing-aras-election-part-two/": "/archive/posts/2011/visualizing-aras-election-part-two/",
+  "/visualizing-aras-election-part-two/feed/": "/archive/posts/2011/visualizing-aras-election-part-two/feed/",
+  "/welcome-to-web-app-magazines/": "/archive/posts/2011/welcome-to-web-app-magazines/",
+  "/welcome-to-web-app-magazines/feed/": "/archive/posts/2011/welcome-to-web-app-magazines/feed/",
+  "/whats-in-an-idea/": "/archive/posts/2011/whats-in-an-idea/",
+  "/whats-in-an-idea/feed/": "/archive/posts/2011/whats-in-an-idea/feed/",
+  "/who-turned-off-teh-interwebs/": "/archive/posts/2011/who-turned-off-teh-interwebs/",
+  "/who-turned-off-teh-interwebs/feed/": "/archive/posts/2011/who-turned-off-teh-interwebs/feed/",
+  "/daily-lessons-from-2011/": "/archive/posts/2012/daily-lessons-from-2011/",
+  "/daily-lessons-from-2011/feed/": "/archive/posts/2012/daily-lessons-from-2011/feed/",
+  "/edtech-2012-keynote-slides/": "/archive/posts/2012/edtech-2012-keynote-slides/",
+  "/edtech-2012-keynote-slides/feed/": "/archive/posts/2012/edtech-2012-keynote-slides/feed/",
+  "/the-price-of-focus/": "/archive/posts/2012/the-price-of-focus/",
+  "/the-price-of-focus/feed/": "/archive/posts/2012/the-price-of-focus/feed/",
+  "/tuesday-newsday-magazines-in-hours/": "/archive/posts/2012/tuesday-newsday-magazines-in-hours/",
+  "/tuesday-newsday-magazines-in-hours/feed/": "/archive/posts/2012/tuesday-newsday-magazines-in-hours/feed/",
+  "/updated-podcast-recommendations/": "/archive/posts/2012/updated-podcast-recommendations/",
+  "/updated-podcast-recommendations/feed/": "/archive/posts/2012/updated-podcast-recommendations/feed/",
+  "/whats-the-big-idea/": "/archive/posts/2012/whats-the-big-idea/",
+  "/whats-the-big-idea/feed/": "/archive/posts/2012/whats-the-big-idea/feed/",
+  "/writing-elsewhere-around-the-web/": "/archive/posts/2012/writing-elsewhere-around-the-web/",
+  "/writing-elsewhere-around-the-web/feed/": "/archive/posts/2012/writing-elsewhere-around-the-web/feed/",
+  "/a-new-kind-of-resolution/": "/archive/posts/2014/a-new-kind-of-resolution/",
+  "/a-new-kind-of-resolution/feed/": "/archive/posts/2014/a-new-kind-of-resolution/feed/",
+  "/books-for-startup-founders/": "/archive/posts/2014/books-for-startup-founders/",
+  "/books-for-startup-founders/feed/": "/archive/posts/2014/books-for-startup-founders/feed/",
+  "/forward/": "/archive/posts/2014/forward/",
+  "/forward/feed/": "/archive/posts/2014/forward/feed/",
+  "/rediscovering-fiction/": "/archive/posts/2014/rediscovering-fiction/",
+  "/rediscovering-fiction/feed/": "/archive/posts/2014/rediscovering-fiction/feed/",
+  "/nevertheless-she-coded/": "/archive/posts/2018/nevertheless-she-coded/",
+  "/nevertheless-she-coded/feed/": "/archive/posts/2018/nevertheless-she-coded/feed/"
+};
+  const path = window.location.pathname.endsWith('/') ? window.location.pathname : window.location.pathname + '/';
+  const target = redirects[path];
+  if (target) window.location.replace(target + window.location.search + window.location.hash);
+</script>
+</head>
+<body>
+<main>
+  <h1>Page moved</h1>
+  <p>Older blog posts now live in the archive. If this page does not redirect automatically, start from the <a href="/archive/">archive index</a>.</p>
+</main>
+</body>
+</html>
